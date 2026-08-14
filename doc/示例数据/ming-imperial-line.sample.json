@@ -1,0 +1,48 @@
+{
+  "format": "genealogy-sample/v1",
+  "schemaVersion": 1,
+  "project": { "id": "sample-ming-imperial-line", "name": "明代代表性帝系（示例）", "dynasty": "明", "coverage": "太祖至崇祯的主要帝系，含建文与嘉靖旁支继位；非完整宗室名录" },
+  "sources": [
+    { "id": "ming-shi", "title": "《明史》", "type": "historical-text", "note": "本纪、诸王世表和后妃列传为主要核验依据。" }
+  ],
+  "persons": [
+    { "id": "zhu-yuanzhang", "name": "朱元璋", "courtesyOrTempleName": "明太祖", "birth": "1328", "death": "1398", "roles": ["emperor"], "sourceIds": ["ming-shi"], "certainty": "confirmed" },
+    { "id": "zhu-biao", "name": "朱标", "roles": ["crown-prince"], "sourceIds": ["ming-shi"], "certainty": "confirmed" },
+    { "id": "zhu-yunwen", "name": "朱允炆", "courtesyOrTempleName": "建文帝", "birth": "1377", "roles": ["emperor"], "sourceIds": ["ming-shi"], "certainty": "disputed", "note": "失踪后的死亡时间与结局存在不同说法。" },
+    { "id": "zhu-di", "name": "朱棣", "courtesyOrTempleName": "明成祖／永乐帝", "birth": "1360", "death": "1424", "roles": ["emperor"], "sourceIds": ["ming-shi"], "certainty": "confirmed" },
+    { "id": "zhu-gaochi", "name": "朱高炽", "courtesyOrTempleName": "明仁宗／洪熙帝", "birth": "1378", "death": "1425", "roles": ["emperor"], "sourceIds": ["ming-shi"], "certainty": "confirmed" },
+    { "id": "zhu-zhanji", "name": "朱瞻基", "courtesyOrTempleName": "明宣宗／宣德帝", "birth": "1399", "death": "1435", "roles": ["emperor"], "sourceIds": ["ming-shi"], "certainty": "confirmed" },
+    { "id": "zhu-qizhen", "name": "朱祁镇", "courtesyOrTempleName": "明英宗／正统帝", "birth": "1427", "death": "1464", "roles": ["emperor"], "sourceIds": ["ming-shi"], "certainty": "confirmed" },
+    { "id": "zhu-qiyu", "name": "朱祁钰", "courtesyOrTempleName": "明代宗／景泰帝", "birth": "1428", "death": "1457", "roles": ["emperor"], "sourceIds": ["ming-shi"], "certainty": "confirmed" },
+    { "id": "zhu-jianchen", "name": "朱见深", "courtesyOrTempleName": "明宪宗／成化帝", "birth": "1447", "death": "1487", "roles": ["emperor"], "sourceIds": ["ming-shi"], "certainty": "confirmed" },
+    { "id": "zhu-youcheng", "name": "朱祐樘", "courtesyOrTempleName": "明孝宗／弘治帝", "birth": "1470", "death": "1505", "roles": ["emperor"], "sourceIds": ["ming-shi"], "certainty": "confirmed" },
+    { "id": "zhu-houzhao", "name": "朱厚照", "courtesyOrTempleName": "明武宗／正德帝", "birth": "1491", "death": "1521", "roles": ["emperor"], "sourceIds": ["ming-shi"], "certainty": "confirmed" },
+    { "id": "zhu-youyuan", "name": "朱祐杬", "roles": ["imperial-clan"], "sourceIds": ["ming-shi"], "certainty": "confirmed", "note": "兴献王，孝宗之弟。" },
+    { "id": "zhu-houcong", "name": "朱厚熜", "courtesyOrTempleName": "明世宗／嘉靖帝", "birth": "1507", "death": "1567", "roles": ["emperor"], "sourceIds": ["ming-shi"], "certainty": "confirmed" },
+    { "id": "zhu-zaihou", "name": "朱载坖", "courtesyOrTempleName": "明穆宗／隆庆帝", "birth": "1537", "death": "1572", "roles": ["emperor"], "sourceIds": ["ming-shi"], "certainty": "confirmed" },
+    { "id": "zhu-yijun", "name": "朱翊钧", "courtesyOrTempleName": "明神宗／万历帝", "birth": "1563", "death": "1620", "roles": ["emperor"], "sourceIds": ["ming-shi"], "certainty": "confirmed" },
+    { "id": "zhu-changluo", "name": "朱常洛", "courtesyOrTempleName": "明光宗／泰昌帝", "birth": "1582", "death": "1620", "roles": ["emperor"], "sourceIds": ["ming-shi"], "certainty": "confirmed" },
+    { "id": "zhu-youjiao", "name": "朱由校", "courtesyOrTempleName": "明熹宗／天启帝", "birth": "1605", "death": "1627", "roles": ["emperor"], "sourceIds": ["ming-shi"], "certainty": "confirmed" },
+    { "id": "zhu-youjian", "name": "朱由检", "courtesyOrTempleName": "明思宗／崇祯帝", "birth": "1611", "death": "1644", "roles": ["emperor"], "sourceIds": ["ming-shi"], "certainty": "confirmed" }
+  ],
+  "unions": [],
+  "parentChildRelations": [
+    { "id": "pc-yuanzhang-biao", "parentId": "zhu-yuanzhang", "childId": "zhu-biao", "type": "biological", "sourceIds": ["ming-shi"] },
+    { "id": "pc-biao-yunwen", "parentId": "zhu-biao", "childId": "zhu-yunwen", "type": "biological", "sourceIds": ["ming-shi"] },
+    { "id": "pc-yuanzhang-di", "parentId": "zhu-yuanzhang", "childId": "zhu-di", "type": "biological", "sourceIds": ["ming-shi"] },
+    { "id": "pc-di-gaochi", "parentId": "zhu-di", "childId": "zhu-gaochi", "type": "biological", "sourceIds": ["ming-shi"] },
+    { "id": "pc-gaochi-zhanji", "parentId": "zhu-gaochi", "childId": "zhu-zhanji", "type": "biological", "sourceIds": ["ming-shi"] },
+    { "id": "pc-zhanji-qizhen", "parentId": "zhu-zhanji", "childId": "zhu-qizhen", "type": "biological", "sourceIds": ["ming-shi"] },
+    { "id": "pc-zhanji-qiyu", "parentId": "zhu-zhanji", "childId": "zhu-qiyu", "type": "biological", "sourceIds": ["ming-shi"] },
+    { "id": "pc-qizhen-jianchen", "parentId": "zhu-qizhen", "childId": "zhu-jianchen", "type": "biological", "sourceIds": ["ming-shi"] },
+    { "id": "pc-jianchen-youcheng", "parentId": "zhu-jianchen", "childId": "zhu-youcheng", "type": "biological", "sourceIds": ["ming-shi"] },
+    { "id": "pc-youcheng-houzhao", "parentId": "zhu-youcheng", "childId": "zhu-houzhao", "type": "biological", "sourceIds": ["ming-shi"] },
+    { "id": "pc-jianchen-youyuan", "parentId": "zhu-jianchen", "childId": "zhu-youyuan", "type": "biological", "sourceIds": ["ming-shi"] },
+    { "id": "pc-youyuan-houcong", "parentId": "zhu-youyuan", "childId": "zhu-houcong", "type": "biological", "sourceIds": ["ming-shi"] },
+    { "id": "pc-houcong-zaihou", "parentId": "zhu-houcong", "childId": "zhu-zaihou", "type": "biological", "sourceIds": ["ming-shi"] },
+    { "id": "pc-zaihou-yijun", "parentId": "zhu-zaihou", "childId": "zhu-yijun", "type": "biological", "sourceIds": ["ming-shi"] },
+    { "id": "pc-yijun-changluo", "parentId": "zhu-yijun", "childId": "zhu-changluo", "type": "biological", "sourceIds": ["ming-shi"] },
+    { "id": "pc-changluo-youjiao", "parentId": "zhu-changluo", "childId": "zhu-youjiao", "type": "biological", "sourceIds": ["ming-shi"] },
+    { "id": "pc-changluo-youjian", "parentId": "zhu-changluo", "childId": "zhu-youjian", "type": "biological", "sourceIds": ["ming-shi"] }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "format": "genealogy-sample/v1",
+  "schemaVersion": 1,
+  "project": { "id": "sample-yuan-imperial-line", "name": "元代代表性帝系（示例）", "dynasty": "元", "coverage": "成吉思汗至顺帝的主要支系；非完整黄金家族名录" },
+  "sources": [
+    { "id": "yuan-shi", "title": "《元史》", "type": "historical-text", "note": "本纪与宗室世系为主要核验依据。" }
+  ],
+  "persons": [
+    { "id": "genghis-khan", "name": "铁木真", "courtesyOrTempleName": "成吉思汗／元太祖", "birth": "1162", "death": "1227", "roles": ["ruler", "imperial-ancestor"], "sourceIds": ["yuan-shi"], "certainty": "confirmed", "note": "元朝建立后被追尊为元太祖。" },
+    { "id": "tolui", "name": "拖雷", "roles": ["imperial-clan"], "sourceIds": ["yuan-shi"], "certainty": "confirmed" },
+    { "id": "kublai", "name": "忽必烈", "courtesyOrTempleName": "元世祖", "birth": "1215", "death": "1294", "roles": ["emperor"], "sourceIds": ["yuan-shi"], "certainty": "confirmed" },
+    { "id": "zhenjin", "name": "真金", "roles": ["crown-prince"], "sourceIds": ["yuan-shi"], "certainty": "confirmed" },
+    { "id": "temur", "name": "铁穆耳", "courtesyOrTempleName": "元成宗", "birth": "1265", "death": "1307", "roles": ["emperor"], "sourceIds": ["yuan-shi"], "certainty": "confirmed" },
+    { "id": "darmabala", "name": "答剌麻八剌", "roles": ["imperial-clan"], "sourceIds": ["yuan-shi"], "certainty": "confirmed" },
+    { "id": "kulug", "name": "海山", "courtesyOrTempleName": "元武宗", "birth": "1281", "death": "1311", "roles": ["emperor"], "sourceIds": ["yuan-shi"], "certainty": "confirmed" },
+    { "id": "ayurbarwada", "name": "爱育黎拔力八达", "courtesyOrTempleName": "元仁宗", "birth": "1285", "death": "1320", "roles": ["emperor"], "sourceIds": ["yuan-shi"], "certainty": "confirmed" },
+    { "id": "shidebala", "name": "硕德八剌", "courtesyOrTempleName": "元英宗", "birth": "1303", "death": "1323", "roles": ["emperor"], "sourceIds": ["yuan-shi"], "certainty": "confirmed" },
+    { "id": "qoshila", "name": "和世㻋", "courtesyOrTempleName": "元明宗", "birth": "1300", "death": "1329", "roles": ["emperor"], "sourceIds": ["yuan-shi"], "certainty": "confirmed" },
+    { "id": "tugh-temur", "name": "图帖睦尔", "courtesyOrTempleName": "元文宗", "birth": "1304", "death": "1332", "roles": ["emperor"], "sourceIds": ["yuan-shi"], "certainty": "confirmed" },
+    { "id": "toghon-temur", "name": "妥懽帖睦尔", "courtesyOrTempleName": "元顺帝", "birth": "1320", "death": "1370", "roles": ["emperor"], "sourceIds": ["yuan-shi"], "certainty": "confirmed" }
+  ],
+  "unions": [],
+  "parentChildRelations": [
+    { "id": "pc-genghis-tolui", "parentId": "genghis-khan", "childId": "tolui", "type": "biological", "sourceIds": ["yuan-shi"] },
+    { "id": "pc-tolui-kublai", "parentId": "tolui", "childId": "kublai", "type": "biological", "sourceIds": ["yuan-shi"] },
+    { "id": "pc-kublai-zhenjin", "parentId": "kublai", "childId": "zhenjin", "type": "biological", "sourceIds": ["yuan-shi"] },
+    { "id": "pc-zhenjin-temur", "parentId": "zhenjin", "childId": "temur", "type": "biological", "sourceIds": ["yuan-shi"] },
+    { "id": "pc-kublai-darmabala", "parentId": "kublai", "childId": "darmabala", "type": "biological", "sourceIds": ["yuan-shi"] },
+    { "id": "pc-darmabala-kulug", "parentId": "darmabala", "childId": "kulug", "type": "biological", "sourceIds": ["yuan-shi"] },
+    { "id": "pc-darmabala-ayurbarwada", "parentId": "darmabala", "childId": "ayurbarwada", "type": "biological", "sourceIds": ["yuan-shi"] },
+    { "id": "pc-ayurbarwada-shidebala", "parentId": "ayurbarwada", "childId": "shidebala", "type": "biological", "sourceIds": ["yuan-shi"] },
+    { "id": "pc-kulug-qoshila", "parentId": "kulug", "childId": "qoshila", "type": "biological", "sourceIds": ["yuan-shi"] },
+    { "id": "pc-kulug-tugh-temur", "parentId": "kulug", "childId": "tugh-temur", "type": "biological", "sourceIds": ["yuan-shi"] },
+    { "id": "pc-qoshila-toghon-temur", "parentId": "qoshila", "childId": "toghon-temur", "type": "biological", "sourceIds": ["yuan-shi"] }
+  ]
+}

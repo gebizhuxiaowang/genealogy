@@ -1,0 +1,46 @@
+{
+  "format": "genealogy-sample/v1",
+  "schemaVersion": 1,
+  "project": { "id": "sample-tang-imperial-line", "name": "唐代代表性帝系（示例）", "dynasty": "唐", "coverage": "高祖至宪宗的代表性直系；非完整宗室名录" },
+  "sources": [
+    { "id": "new-tang", "title": "《新唐书》", "type": "historical-text", "note": "帝纪、列传与宗室世系为主要核验依据。" },
+    { "id": "old-tang", "title": "《旧唐书》", "type": "historical-text", "note": "用于与《新唐书》交叉核验。" }
+  ],
+  "persons": [
+    { "id": "li-yuan", "name": "李渊", "courtesyOrTempleName": "唐高祖", "birth": "0566", "death": "0635", "roles": ["emperor"], "sourceIds": ["new-tang", "old-tang"], "certainty": "confirmed" },
+    { "id": "dou-huanghou", "name": "窦皇后", "roles": ["empress"], "sourceIds": ["new-tang", "old-tang"], "certainty": "confirmed" },
+    { "id": "li-shimin", "name": "李世民", "courtesyOrTempleName": "唐太宗", "birth": "0599", "death": "0649", "roles": ["emperor"], "sourceIds": ["new-tang", "old-tang"], "certainty": "confirmed" },
+    { "id": "zhangsun-huanghou", "name": "长孙皇后", "roles": ["empress"], "sourceIds": ["new-tang", "old-tang"], "certainty": "confirmed" },
+    { "id": "li-zhi", "name": "李治", "courtesyOrTempleName": "唐高宗", "birth": "0628", "death": "0683", "roles": ["emperor"], "sourceIds": ["new-tang", "old-tang"], "certainty": "confirmed" },
+    { "id": "wu-zhao", "name": "武曌", "courtesyOrTempleName": "武则天", "birth": "0624", "death": "0705", "roles": ["empress", "ruler"], "sourceIds": ["new-tang", "old-tang"], "certainty": "confirmed", "note": "曾以武周皇帝身份临朝，保留为唐帝系关联人物。" },
+    { "id": "li-xian", "name": "李显", "courtesyOrTempleName": "唐中宗", "birth": "0656", "death": "0710", "roles": ["emperor"], "sourceIds": ["new-tang", "old-tang"], "certainty": "confirmed" },
+    { "id": "li-dan", "name": "李旦", "courtesyOrTempleName": "唐睿宗", "birth": "0662", "death": "0716", "roles": ["emperor"], "sourceIds": ["new-tang", "old-tang"], "certainty": "confirmed" },
+    { "id": "li-longji", "name": "李隆基", "courtesyOrTempleName": "唐玄宗", "birth": "0685", "death": "0762", "roles": ["emperor"], "sourceIds": ["new-tang", "old-tang"], "certainty": "confirmed" },
+    { "id": "li-heng", "name": "李亨", "courtesyOrTempleName": "唐肃宗", "birth": "0711", "death": "0762", "roles": ["emperor"], "sourceIds": ["new-tang", "old-tang"], "certainty": "confirmed" },
+    { "id": "li-yu", "name": "李豫", "courtesyOrTempleName": "唐代宗", "birth": "0726", "death": "0779", "roles": ["emperor"], "sourceIds": ["new-tang", "old-tang"], "certainty": "confirmed" },
+    { "id": "li-kuo", "name": "李适", "courtesyOrTempleName": "唐德宗", "birth": "0742", "death": "0805", "roles": ["emperor"], "sourceIds": ["new-tang", "old-tang"], "certainty": "confirmed" },
+    { "id": "li-song", "name": "李诵", "courtesyOrTempleName": "唐顺宗", "birth": "0761", "death": "0806", "roles": ["emperor"], "sourceIds": ["new-tang", "old-tang"], "certainty": "confirmed" },
+    { "id": "li-chun", "name": "李纯", "courtesyOrTempleName": "唐宪宗", "birth": "0778", "death": "0820", "roles": ["emperor"], "sourceIds": ["new-tang", "old-tang"], "certainty": "confirmed" }
+  ],
+  "unions": [
+    { "id": "u-li-yuan-dou", "partnerIds": ["li-yuan", "dou-huanghou"], "type": "marriage", "sourceIds": ["new-tang"] },
+    { "id": "u-li-shimin-zhangsun", "partnerIds": ["li-shimin", "zhangsun-huanghou"], "type": "marriage", "sourceIds": ["new-tang"] },
+    { "id": "u-li-zhi-wu-zhao", "partnerIds": ["li-zhi", "wu-zhao"], "type": "marriage", "sourceIds": ["new-tang", "old-tang"] }
+  ],
+  "parentChildRelations": [
+    { "id": "pc-yuan-shimin", "parentId": "li-yuan", "childId": "li-shimin", "type": "biological", "sourceIds": ["new-tang"] },
+    { "id": "pc-dou-shimin", "parentId": "dou-huanghou", "childId": "li-shimin", "type": "biological", "sourceIds": ["new-tang"] },
+    { "id": "pc-shimin-zhi", "parentId": "li-shimin", "childId": "li-zhi", "type": "biological", "sourceIds": ["new-tang"] },
+    { "id": "pc-zhangsun-zhi", "parentId": "zhangsun-huanghou", "childId": "li-zhi", "type": "biological", "sourceIds": ["new-tang"] },
+    { "id": "pc-zhi-xian", "parentId": "li-zhi", "childId": "li-xian", "type": "biological", "sourceIds": ["new-tang"] },
+    { "id": "pc-wu-xian", "parentId": "wu-zhao", "childId": "li-xian", "type": "biological", "sourceIds": ["new-tang"] },
+    { "id": "pc-zhi-dan", "parentId": "li-zhi", "childId": "li-dan", "type": "biological", "sourceIds": ["new-tang"] },
+    { "id": "pc-wu-dan", "parentId": "wu-zhao", "childId": "li-dan", "type": "biological", "sourceIds": ["new-tang"] },
+    { "id": "pc-dan-longji", "parentId": "li-dan", "childId": "li-longji", "type": "biological", "sourceIds": ["new-tang"] },
+    { "id": "pc-longji-heng", "parentId": "li-longji", "childId": "li-heng", "type": "biological", "sourceIds": ["new-tang"] },
+    { "id": "pc-heng-yu", "parentId": "li-heng", "childId": "li-yu", "type": "biological", "sourceIds": ["new-tang"] },
+    { "id": "pc-yu-kuo", "parentId": "li-yu", "childId": "li-kuo", "type": "biological", "sourceIds": ["new-tang"] },
+    { "id": "pc-kuo-song", "parentId": "li-kuo", "childId": "li-song", "type": "biological", "sourceIds": ["new-tang"] },
+    { "id": "pc-song-chun", "parentId": "li-song", "childId": "li-chun", "type": "biological", "sourceIds": ["new-tang"] }
+  ]
+}

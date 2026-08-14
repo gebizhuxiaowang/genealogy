@@ -1,0 +1,1371 @@
+{
+  "dynasty": "宋朝",
+  "period": "960–1279（北宋 960–1127，南宋 1127–1279）",
+  "emperors": [
+    {
+      "order": 1,
+      "name": "赵匡胤",
+      "temple_name": "太祖",
+      "posthumous_name": "启运立极英武睿文神德圣功至明大孝皇帝",
+      "era_names": ["建隆", "乾德", "开宝"],
+      "reign": "960–976",
+      "relation_to_previous": "开国皇帝（原为后周殿前都点检，陈桥兵变后受周恭帝禅让）",
+      "achievements": [
+        "陈桥兵变、黄袍加身，建立宋朝，结束五代乱局",
+        "杯酒释兵权，和平解除石守信等禁军宿将兵权",
+        "确立强干弱枝、守内虚外的军事与中央集权体制",
+        "采先南后北方略，先后平定荆南、湖南、后蜀、南汉、南唐",
+        "右文抑武、优礼文臣，传立“不杀大臣及言事官”誓碑"
+      ],
+      "sources": ["《宋史·太祖本纪》", "《续资治通鉴长编》"],
+      "spouses": [
+        {
+          "name": "贺氏",
+          "title": "孝惠皇后（追册）",
+          "type": "皇后（追册）",
+          "children": ["赵德秀", "赵德昭"],
+          "source": "《宋史·后妃传》",
+          "disputed": false,
+          "note": "太祖结发之妻，建国前已卒，建隆三年追册为皇后"
+        },
+        {
+          "name": "王氏",
+          "title": "孝明皇后",
+          "type": "皇后",
+          "children": [],
+          "source": "《宋史·后妃传》",
+          "disputed": false,
+          "note": "乾德元年立为后，所出子女皆夭，乾德元年末即崩"
+        },
+        {
+          "name": "宋氏",
+          "title": "孝章皇后",
+          "type": "皇后",
+          "children": [],
+          "source": "《宋史·后妃传》",
+          "disputed": false,
+          "note": "开宝九年太祖暴崩当夜，宋皇后曾令王继恩召赵德芳，王继恩径往召晋王赵光义，事涉“烛影斧声”疑案（详见太宗条 notes）"
+        }
+      ],
+      "children": [
+        {
+          "name": "赵德秀",
+          "gender": "男",
+          "mother": "贺氏（孝惠皇后）",
+          "order_among_siblings": "长子",
+          "title_or_fate": "早夭，后追封滕王",
+          "relationship_type": "亲子",
+          "source": "《宋史·宗室传》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "赵德昭",
+          "gender": "男",
+          "mother": "贺氏（孝惠皇后）",
+          "order_among_siblings": "次子",
+          "title_or_fate": "武功郡王，死后追封魏王，后累赠燕王（燕懿王）",
+          "relationship_type": "亲子",
+          "source": "《宋史·宗室传》",
+          "disputed": false,
+          "note": "太平兴国四年随太宗征幽州，因太宗久不议行赏且疑其有他志，自刎而死；南宋理宗即其九世孙"
+        },
+        {
+          "name": "赵德林",
+          "gender": "男",
+          "mother": "失载",
+          "order_among_siblings": "第三子",
+          "title_or_fate": "早夭，后追封舒王",
+          "relationship_type": "亲子",
+          "source": "《宋史·宗室传》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "赵德芳",
+          "gender": "男",
+          "mother": "失载",
+          "order_among_siblings": "第四子",
+          "title_or_fate": "兴元尹、同平章事，死后追封秦康惠王",
+          "relationship_type": "亲子",
+          "source": "《宋史·宗室传》",
+          "disputed": false,
+          "note": "太平兴国六年暴卒，年二十三；戏曲小说中“八贤王”形象多附会于德芳（另一原型为太宗第八子赵元俨），属文学虚构；南宋孝宗为其六世孙"
+        },
+        {
+          "name": "昭庆公主（魏国大长公主）",
+          "gender": "女",
+          "mother": "失载",
+          "order_among_siblings": "长女（成年者）",
+          "title_or_fate": "开宝三年下嫁左卫将军王承衍",
+          "relationship_type": "亲子",
+          "source": "《宋史·公主传》",
+          "disputed": false,
+          "note": "太祖另有申国、成国、永国三女皆早夭"
+        }
+      ],
+      "notes": "开宝九年（976年）十月暴崩，年五十，死因成谜，“烛影斧声”之疑与其弟赵光义继位合法性争议详见太宗条 notes。"
+    },
+    {
+      "order": 2,
+      "name": "赵光义",
+      "temple_name": "太宗",
+      "posthumous_name": "至仁应道神功圣德文武睿烈大明广孝皇帝",
+      "era_names": ["太平兴国", "雍熙", "端拱", "淳化", "至道"],
+      "reign": "976–997",
+      "relation_to_previous": "太祖之弟，兄终弟及（即位合法性有“金匮之盟”与“烛影斧声”之争）",
+      "achievements": [
+        "太平兴国四年灭北汉，基本完成中原统一",
+        "迫使吴越钱氏纳土、漳泉陈洪进献地",
+        "雍熙北伐大败于辽（岐沟关之败），此后对辽转取守势",
+        "大兴科举，扩招进士并完善糊名、誊录之制",
+        "主持编修《太平御览》《太平广记》《文苑英华》等大型类书"
+      ],
+      "sources": ["《宋史·太宗本纪》", "《续资治通鉴长编》"],
+      "spouses": [
+        {
+          "name": "尹氏",
+          "title": "淑德皇后（追册）",
+          "type": "皇后（追册）",
+          "children": [],
+          "source": "《宋史·后妃传》",
+          "disputed": false,
+          "note": "太宗潜邸元配，早卒"
+        },
+        {
+          "name": "符氏",
+          "title": "懿德皇后（追册）",
+          "type": "皇后（追册）",
+          "children": [],
+          "source": "《宋史·后妃传》",
+          "disputed": false,
+          "note": "魏王符彦卿之女，开宝八年卒，太宗即位后追册"
+        },
+        {
+          "name": "李氏",
+          "title": "明德皇后",
+          "type": "皇后",
+          "children": [],
+          "source": "《宋史·后妃传》",
+          "disputed": false,
+          "note": "李处耘之女，太平兴国八年入宫，雍熙元年立为后"
+        },
+        {
+          "name": "李氏（元德皇后）",
+          "title": "元德皇后（追册）",
+          "type": "妃嫔（贤妃，后追册皇后）",
+          "children": ["赵元佐", "赵元僖", "赵恒"],
+          "source": "《宋史·后妃传》",
+          "disputed": false,
+          "note": "真宗生母，生前位至贤妃，卒后由真宗追册为皇后"
+        }
+      ],
+      "children": [
+        {
+          "name": "赵元佐",
+          "gender": "男",
+          "mother": "李氏（元德皇后）",
+          "order_among_siblings": "长子",
+          "title_or_fate": "楚王，后废为庶人，仁宗朝追复",
+          "relationship_type": "亲子",
+          "source": "《宋史·宗室传》",
+          "disputed": false,
+          "note": "因叔父赵廷美被贬而发狂疾，纵火焚宫，废居均州"
+        },
+        {
+          "name": "赵元僖",
+          "gender": "男",
+          "mother": "李氏（元德皇后）",
+          "order_among_siblings": "次子",
+          "title_or_fate": "昭成太子（追册）",
+          "relationship_type": "亲子",
+          "source": "《宋史·宗室传》",
+          "disputed": false,
+          "note": "淳化三年暴卒，后因其侍妾张氏下毒事发，太宗为之辍朝但削其葬礼"
+        },
+        {
+          "name": "赵恒",
+          "gender": "男",
+          "mother": "李氏（元德皇后）",
+          "order_among_siblings": "第三子",
+          "title_or_fate": "继位为宋真宗",
+          "relationship_type": "亲子",
+          "source": "《宋史·真宗本纪》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "赵元份",
+          "gender": "男",
+          "mother": "失载",
+          "order_among_siblings": "第四子",
+          "title_or_fate": "商恭靖王",
+          "relationship_type": "亲子",
+          "source": "《宋史·宗室传》",
+          "disputed": false,
+          "note": "其子赵允让即英宗生父（濮安懿王），英宗入继仁宗后，北宋皇统转入元份一系"
+        },
+        {
+          "name": "赵元俨",
+          "gender": "男",
+          "mother": "王氏（王德妃）",
+          "order_among_siblings": "第八子",
+          "title_or_fate": "周恭肃王",
+          "relationship_type": "亲子",
+          "source": "《宋史·宗室传》",
+          "disputed": false,
+          "note": "性严毅有威名，时称“八大王”，为民间“八贤王”形象的另一原型（文学附会，非正史身份）"
+        },
+        {
+          "name": "万寿长公主（荆国大长公主）",
+          "gender": "女",
+          "mother": "方贵妃（方氏）",
+          "order_among_siblings": "第七女",
+          "title_or_fate": "下嫁李遵勖",
+          "relationship_type": "亲子",
+          "source": "《宋史·公主传》",
+          "disputed": false,
+          "note": "后世地方文献与民间传说称其驸马李遵勖为南宋高僧济公（李修缘）之高祖，谱系难以尽考，姑存其说"
+        }
+      ],
+      "notes": "“烛影斧声”：开宝九年十月太祖暴崩当夜，据文莹《续湘山野录》等宋人笔记，宦官宫女遥见烛影下太宗身影、柱斧戳地之声，暗示太宗涉嫌篡弑，真伪无定论，属著名历史悬案；“金匮之盟”：据称杜太后临终遗命太祖传位于弟，藏之金匮，但此说迟至太宗继位六年后方由赵普公布，后世史家多质疑其为太宗继位补造的合法性依据。二事正史与野史记载冲突，均按存疑处理。"
+    },
+    {
+      "order": 3,
+      "name": "赵恒",
+      "temple_name": "真宗",
+      "posthumous_name": "膺符稽古神功让德文明武定章圣元孝皇帝",
+      "era_names": ["咸平", "景德", "大中祥符", "天禧", "乾兴"],
+      "reign": "997–1022",
+      "relation_to_previous": "太宗第三子",
+      "achievements": [
+        "咸平年间政治清明，史称“咸平之治”",
+        "景德元年亲征澶州，与辽订立“澶渊之盟”，奠定宋辽百年和平",
+        "推广占城稻、劝课农桑，人口与财政大幅增长",
+        "大中祥符年间东封泰山、西祀汾阴，大兴天书祥瑞（劳民伤财，后世多讥评）"
+      ],
+      "sources": ["《宋史·真宗本纪》", "《续资治通鉴长编》"],
+      "spouses": [
+        {
+          "name": "潘氏",
+          "title": "章怀皇后（追册）",
+          "type": "皇后（追册）",
+          "children": [],
+          "source": "《宋史·后妃传》",
+          "disputed": false,
+          "note": "潘美之女，太宗潜邸元配，早卒"
+        },
+        {
+          "name": "郭氏",
+          "title": "章穆皇后",
+          "type": "皇后",
+          "children": ["赵祐"],
+          "source": "《宋史·后妃传》",
+          "disputed": false,
+          "note": "守礼谦约，景德四年崩"
+        },
+        {
+          "name": "刘娥",
+          "title": "章献明肃皇后",
+          "type": "皇后",
+          "children": [],
+          "source": "《宋史·后妃传》",
+          "disputed": false,
+          "note": "蜀地孤女出身，大中祥符年间册后；真宗晚年预政，仁宗初年垂帘听政十一年，时人评“有吕武之才，无吕武之恶”；民间“狸猫换太子”传说主角之一（详见 children 末条）"
+        },
+        {
+          "name": "李氏（李宸妃）",
+          "title": "章懿皇后（追尊）",
+          "type": "妃嫔（宸妃，后追尊皇后）",
+          "children": ["赵祯"],
+          "source": "《宋史·后妃传》",
+          "disputed": false,
+          "note": "原为刘娥侍儿，生仁宗，所生皇子被刘皇后取为己子；明道元年临终进封宸妃，当日即薨；刘太后从吕夷简之谏以皇后礼殓葬，仁宗亲政后追尊为皇太后，民间传说据此演绎出“狸猫换太子”故事"
+        },
+        {
+          "name": "杨氏（杨淑妃）",
+          "title": "章惠皇后（追尊）",
+          "type": "妃嫔（淑妃，后为皇太妃，追尊皇后）",
+          "children": [],
+          "source": "《宋史·后妃传》",
+          "disputed": false,
+          "note": "与刘娥亲善，共同抚育仁宗，宫中称刘氏为“大娘娘”、杨氏为“小娘娘”"
+        }
+      ],
+      "children": [
+        {
+          "name": "赵祐",
+          "gender": "男",
+          "mother": "郭氏（章穆皇后）",
+          "order_among_siblings": "嫡子（次子）",
+          "title_or_fate": "九岁夭亡，追封悼献太子",
+          "relationship_type": "亲子",
+          "source": "《宋史·宗室传》",
+          "disputed": false,
+          "note": "真宗长子温王赵禔及以下诸子皆早夭，故仅存悼献太子与仁宗"
+        },
+        {
+          "name": "赵祯",
+          "gender": "男",
+          "mother": "李氏（李宸妃），嫡母兼养母为刘娥（章献明肃皇后）",
+          "order_among_siblings": "第六子",
+          "title_or_fate": "继位为宋仁宗",
+          "relationship_type": "亲子",
+          "source": "《宋史·仁宗本纪》",
+          "disputed": false,
+          "note": "出生后由刘皇后取为己子抚养，仁宗直至刘太后崩后方知生母为李宸妃"
+        },
+        {
+          "name": "“狸猫换太子”传说（民间演绎）",
+          "gender": "—",
+          "mother": "野史与小说（《三侠五义》等）",
+          "order_among_siblings": "—",
+          "title_or_fate": "文学虚构情节，非史实",
+          "relationship_type": "传说演绎",
+          "source": "《三侠五义》等明清小说；正史对照见《宋史·后妃传》《续资治通鉴长编》",
+          "disputed": true,
+          "note": "传说谓刘娥以剥皮狸猫换去李宸妃所生太子，致李氏蒙冤流落，经包拯审明真相；正史仅载刘皇后养仁宗为己子、李氏生前未敢言，并无“换子”之事，属后世小说附会"
+        }
+      ],
+      "notes": "晚年多病，刘皇后渐掌朝政；为压制寇准等，纵容“天书”“封禅”之举，国库耗损颇巨。"
+    },
+    {
+      "order": 4,
+      "name": "赵祯",
+      "temple_name": "仁宗",
+      "posthumous_name": "体天法道极功全德神文圣武睿哲明孝皇帝",
+      "era_names": ["天圣", "明道", "景祐", "宝元", "康定", "庆历", "皇祐", "至和", "嘉祐"],
+      "reign": "1022–1063",
+      "relation_to_previous": "真宗第六子",
+      "achievements": [
+        "亲政后任用范仲淹等推行“庆历新政”",
+        "在位期间名臣辈出，唐宋八大家中六位活跃于其朝，史称“嘉祐之治”",
+        "发行世界上最早的官方纸币“交子”（益州，天圣元年设交子务）",
+        "与辽重熙增币、与西夏达成庆历和议，维持边境大体安定",
+        "文化科技鼎盛：活字印刷术发明于庆历年间，医学、天文均有进展"
+      ],
+      "sources": ["《宋史·仁宗本纪》", "《续资治通鉴长编》"],
+      "spouses": [
+        {
+          "name": "郭氏",
+          "title": "皇后（后废为净妃，赐名清悟）",
+          "type": "废后",
+          "children": [],
+          "source": "《宋史·后妃传》",
+          "disputed": false,
+          "note": "刘太后所立，明道二年与尚美人争宠、误批仁宗颈部，被废，为宋代罕见的废后事件"
+        },
+        {
+          "name": "曹氏",
+          "title": "慈圣光献皇后",
+          "type": "皇后",
+          "children": [],
+          "source": "《宋史·后妃传》",
+          "disputed": false,
+          "note": "名将曹彬孙女，景祐元年立；庆历八年临危平定宫中卫卒之变；英宗即位初一度垂帘听政"
+        },
+        {
+          "name": "张氏（张贵妃）",
+          "title": "温成皇后（追册）",
+          "type": "贵妃（死后追册皇后）",
+          "children": ["赵幼悟等三女（皆早夭）"],
+          "source": "《宋史·后妃传》",
+          "disputed": false,
+          "note": "最受宠，皇祐六年卒，仁宗不顾曹皇后健在追册为皇后，时称“生死两皇后”"
+        },
+        {
+          "name": "苗氏（苗贵妃）",
+          "title": "贵妃",
+          "type": "妃嫔",
+          "children": ["福康公主", "赵昕"],
+          "source": "《宋史·后妃传》",
+          "disputed": false,
+          "note": "仁宗乳母之女，生雍王赵昕与福康公主"
+        }
+      ],
+      "children": [
+        {
+          "name": "赵昉",
+          "gender": "男",
+          "mother": "俞德妃",
+          "order_among_siblings": "长子",
+          "title_or_fate": "出生当日即夭，追封褒王",
+          "relationship_type": "亲子",
+          "source": "《宋史·宗室传》",
+          "disputed": false,
+          "note": "仁宗三子（赵昉、赵昕、赵曦）皆早夭，皇位无人可继"
+        },
+        {
+          "name": "福康公主（兖国公主）",
+          "gender": "女",
+          "mother": "苗氏（苗贵妃）",
+          "order_among_siblings": "长女",
+          "title_or_fate": "进封兖国公主，下嫁李玮",
+          "relationship_type": "亲子",
+          "source": "《宋史·公主传》《续资治通鉴长编》",
+          "disputed": false,
+          "note": "与驸马李玮不谐，嘉祐年间夜扣皇城宫门诉冤，引发司马光等台谏大臣连章弹劾，为仁宗朝著名宫廷风波；熙宁三年卒"
+        },
+        {
+          "name": "赵幼悟",
+          "gender": "女",
+          "mother": "张氏（张贵妃）",
+          "order_among_siblings": "幼女",
+          "title_or_fate": "早夭，追封唐国公主",
+          "relationship_type": "亲子",
+          "source": "《宋史·公主传》",
+          "disputed": false,
+          "note": "张贵妃所生三女皆夭，其卒加剧张贵妃哀毁之疾"
+        },
+        {
+          "name": "赵曙",
+          "gender": "男",
+          "mother": "仙游县君任氏（生母）；仁宗宫养",
+          "order_among_siblings": "—（濮王赵允让第十三子）",
+          "title_or_fate": "继位为宋英宗",
+          "relationship_type": "继嗣",
+          "source": "《宋史·英宗本纪》",
+          "disputed": false,
+          "note": "继嗣关系：仁宗三子皆夭，嘉祐七年立宗子赵曙为皇子。赵曙为太宗曾孙、商王赵元份之孙、濮安懿王赵允让第十三子，幼年曾养于宫中，景祐三年被立为皇子前曾坚辞；其入继使皇统由真宗一系转入太宗四子元份一系，并在英宗朝引发“濮议”大礼之争"
+        }
+      ],
+      "notes": "在位四十二年，为两宋在位最久之帝；朝堂党争（庆历党议、濮议伏笔）与冗官冗兵冗费问题亦在其朝积累。"
+    },
+    {
+      "order": 5,
+      "name": "赵曙",
+      "temple_name": "英宗",
+      "posthumous_name": "体乾应历隆功盛德宪文肃武睿圣宣孝皇帝",
+      "era_names": ["治平"],
+      "reign": "1063–1067",
+      "relation_to_previous": "仁宗养子（太宗曾孙、濮安懿王赵允让第十三子，以宗子入继大统）",
+      "achievements": [
+        "继续任用韩琦、欧阳修等仁宗朝旧臣，政局平稳过渡",
+        "命司马光置局编修《资治通鉴》，亲自赐名并作序（书成于神宗朝）",
+        "治平年间整顿财政，裁减冗费"
+      ],
+      "sources": ["《宋史·英宗本纪》", "《续资治通鉴长编》"],
+      "spouses": [
+        {
+          "name": "高滔滔",
+          "title": "宣仁圣烈皇后",
+          "type": "皇后",
+          "children": ["赵顼", "赵颢", "赵颜", "赵頵", "宝安公主"],
+          "source": "《宋史·后妃传》",
+          "disputed": false,
+          "note": "曹皇后外甥女，与英宗青梅竹马；哲宗即位初以太皇太后身份垂帘听政，起用司马光行“元祐更化”，史称“女中尧舜”"
+        }
+      ],
+      "children": [
+        {
+          "name": "赵顼",
+          "gender": "男",
+          "mother": "高滔滔（宣仁圣烈皇后）",
+          "order_among_siblings": "长子",
+          "title_or_fate": "继位为宋神宗",
+          "relationship_type": "亲子",
+          "source": "《宋史·神宗本纪》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "赵颢",
+          "gender": "男",
+          "mother": "高滔滔（宣仁圣烈皇后）",
+          "order_among_siblings": "次子",
+          "title_or_fate": "吴王（追谥吴荣王）",
+          "relationship_type": "亲子",
+          "source": "《宋史·宗室传》",
+          "disputed": false,
+          "note": "好学博闻，元祐年间频被召入宫中与高太后议政"
+        },
+        {
+          "name": "赵颜",
+          "gender": "男",
+          "mother": "高滔滔（宣仁圣烈皇后）",
+          "order_among_siblings": "第三子",
+          "title_or_fate": "润王，早卒",
+          "relationship_type": "亲子",
+          "source": "《宋史·宗室传》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "赵頵",
+          "gender": "男",
+          "mother": "高滔滔（宣仁圣烈皇后）",
+          "order_among_siblings": "第四子",
+          "title_or_fate": "益端献王",
+          "relationship_type": "亲子",
+          "source": "《宋史·宗室传》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "宝安公主（蜀国长公主）",
+          "gender": "女",
+          "mother": "高滔滔（宣仁圣烈皇后）",
+          "order_among_siblings": "次女",
+          "title_or_fate": "下嫁王诜",
+          "relationship_type": "亲子",
+          "source": "《宋史·公主传》",
+          "disputed": false,
+          "note": "以贤惠孝友著称；其驸马王诜即《西园雅集》主人，与苏轼、米芾等交游"
+        }
+      ],
+      "notes": "即位后即为生父濮王赵允让追崇典礼，引发旷日持久的“濮议”，台谏（司马光、吕诲等）与宰执（韩琦、欧阳修）两派相争，开北宋后期党争激化之渐。"
+    },
+    {
+      "order": 6,
+      "name": "赵顼",
+      "temple_name": "神宗",
+      "posthumous_name": "绍天法古运德建功英文烈武钦仁圣孝皇帝",
+      "era_names": ["熙宁", "元丰"],
+      "reign": "1067–1085",
+      "relation_to_previous": "英宗长子",
+      "achievements": [
+        "重用王安石推行“熙宁变法”（青苗、免役、市易、保甲等法）",
+        "元丰年间改革官制，史称“元丰改制”",
+        "任用王韶开拓熙河，取得对吐蕃唃厮啰政权的“熙河开边”之胜",
+        "元丰四年五路伐夏失败，转取守势",
+        "支持司马光《资治通鉴》修成，赐名并作序"
+      ],
+      "sources": ["《宋史·神宗本纪》", "《续资治通鉴长编》"],
+      "spouses": [
+        {
+          "name": "向氏",
+          "title": "钦圣宪肃皇后",
+          "type": "皇后",
+          "children": [],
+          "source": "《宋史·后妃传》",
+          "disputed": false,
+          "note": "故相向敏中曾孙女；哲宗崩后与宰执议立端王赵佶（徽宗）"
+        },
+        {
+          "name": "朱氏（朱德妃）",
+          "title": "钦成皇后（追册）",
+          "type": "妃嫔（德妃，后追册皇后）",
+          "children": ["赵煦"],
+          "source": "《宋史·后妃传》",
+          "disputed": false,
+          "note": "哲宗生母，哲宗朝尊为皇太妃，死后追册皇后"
+        },
+        {
+          "name": "陈氏（陈美人）",
+          "title": "钦慈皇后（追册）",
+          "type": "妃嫔（美人，后追册皇后）",
+          "children": ["赵佶"],
+          "source": "《宋史·后妃传》",
+          "disputed": false,
+          "note": "徽宗生母，早卒，徽宗即位后追册"
+        }
+      ],
+      "children": [
+        {
+          "name": "赵煦",
+          "gender": "男",
+          "mother": "朱氏（钦成皇后）",
+          "order_among_siblings": "第六子（前五兄皆夭，实为长）",
+          "title_or_fate": "继位为宋哲宗",
+          "relationship_type": "亲子",
+          "source": "《宋史·哲宗本纪》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "赵佶",
+          "gender": "男",
+          "mother": "陈氏（钦慈皇后）",
+          "order_among_siblings": "第十一子",
+          "title_or_fate": "初封端王，后继位为宋徽宗",
+          "relationship_type": "亲子",
+          "source": "《宋史·徽宗本纪》",
+          "disputed": false,
+          "note": "哲宗无嗣而崩，向太后主张“端王有福寿，且仁孝”，立为帝"
+        },
+        {
+          "name": "赵佖",
+          "gender": "男",
+          "mother": "武氏（贤妃）",
+          "order_among_siblings": "第九子",
+          "title_or_fate": "申王",
+          "relationship_type": "亲子",
+          "source": "《宋史·宗室传》",
+          "disputed": false,
+          "note": "哲宗崩时以年长而论当立，因有目疾（独目），向太后与章惇争议后舍之而立端王"
+        },
+        {
+          "name": "赵似",
+          "gender": "男",
+          "mother": "朱氏（钦成皇后）",
+          "order_among_siblings": "第十三子",
+          "title_or_fate": "蔡王",
+          "relationship_type": "亲子",
+          "source": "《宋史·宗室传》",
+          "disputed": false,
+          "note": "哲宗同母弟；哲宗崩后章惇曾主张立其继位，未果"
+        },
+        {
+          "name": "赵偲",
+          "gender": "男",
+          "mother": "林氏（贤妃）",
+          "order_among_siblings": "第十四子",
+          "title_or_fate": "越王，靖康之变中被掳北上",
+          "relationship_type": "亲子",
+          "source": "《宋史·宗室传》",
+          "disputed": false,
+          "note": ""
+        }
+      ],
+      "notes": "在位十九年，新旧党争全面激化；变法成效与流弊并存，后世评价两极。"
+    },
+    {
+      "order": 7,
+      "name": "赵煦",
+      "temple_name": "哲宗",
+      "posthumous_name": "宪元继道显德定功钦文睿武齐圣昭孝皇帝",
+      "era_names": ["元祐", "绍圣", "元符"],
+      "reign": "1085–1100",
+      "relation_to_previous": "神宗第六子（实为在世长子）",
+      "achievements": [
+        "即位初由高太后垂帘，起用司马光尽废新法，史称“元祐更化”",
+        "亲政后改元绍圣，行“绍述”之政，恢复新法，重用章惇、曾布",
+        "绍圣至元符年间对西夏连续用兵，筑平夏城，逼西夏求和",
+        "元祐党籍碑事件开启大规模政治清算，党争进一步恶化"
+      ],
+      "sources": ["《宋史·哲宗本纪》", "《续资治通鉴长编》"],
+      "spouses": [
+        {
+          "name": "孟氏",
+          "title": "昭慈圣献皇后",
+          "type": "皇后（两度被废）",
+          "children": [],
+          "source": "《宋史·后妃传》",
+          "disputed": false,
+          "note": "高太后所选，绍圣三年因“巫蛊案”被废居瑶华宫，元符末复号、靖康初再废；南渡后尊为隆祐太后，苗刘兵变时垂帘听政，稳定高宗政权，以废后身份两度挽救宋室"
+        },
+        {
+          "name": "刘氏",
+          "title": "昭怀皇后",
+          "type": "妃嫔（贤妃，后立为皇后）",
+          "children": ["赵茂"],
+          "source": "《宋史·后妃传》",
+          "disputed": false,
+          "note": "初为御侍，艳冠后宫，构陷孟皇后致其被废；元符二年立为后，徽宗即位后尊为元符皇后，后因涉嫌干预朝政被徽宗逼令自尽"
+        }
+      ],
+      "children": [
+        {
+          "name": "赵茂",
+          "gender": "男",
+          "mother": "刘氏（昭怀皇后）",
+          "order_among_siblings": "独子",
+          "title_or_fate": "生三月而夭，追封献愍太子",
+          "relationship_type": "亲子",
+          "source": "《宋史·宗室传》",
+          "disputed": false,
+          "note": "哲宗因此无嗣，皇位由弟赵佶继承"
+        }
+      ],
+      "notes": "亲政仅七年即卒，年二十四；其身后徽宗继位，北宋政局急转直下。"
+    },
+    {
+      "order": 8,
+      "name": "赵佶",
+      "temple_name": "徽宗",
+      "posthumous_name": "体神合道骏烈逊功圣文仁德宪慈显孝皇帝",
+      "era_names": ["建中靖国", "崇宁", "大观", "政和", "重和", "宣和"],
+      "reign": "1100–1126（内禅后称太上皇）",
+      "relation_to_previous": "神宗第十一子、哲宗之弟（哲宗无子，兄终弟及）",
+      "achievements": [
+        "艺术成就极高：创“瘦金体”书法，兴办宣和画院，主持编纂《宣和画谱》《宣和书谱》",
+        "崇宁年间推行崇宁新政（蔡京主政），设居养院、安济坊等社会福利机构",
+        "宣和年间联金灭辽（海上之盟），收复燕云部分州县",
+        "崇奉道教，自称“教主道君皇帝”，大建宫观",
+        "花石纲之扰引发方腊、宋江起义；金兵南下时仓皇内禅，终致靖康之变"
+      ],
+      "sources": ["《宋史·徽宗本纪》", "《靖康稗史》"],
+      "spouses": [
+        {
+          "name": "王氏",
+          "title": "显恭皇后",
+          "type": "皇后",
+          "children": ["赵桓"],
+          "source": "《宋史·后妃传》",
+          "disputed": false,
+          "note": "生钦宗，大观二年崩"
+        },
+        {
+          "name": "郑氏",
+          "title": "显肃皇后",
+          "type": "皇后",
+          "children": [],
+          "source": "《宋史·后妃传》",
+          "disputed": false,
+          "note": "原为向太后宫人，政和元年立后；靖康之变随徽宗北掳，绍兴元年死于五国城"
+        },
+        {
+          "name": "韦氏",
+          "title": "显仁皇后（追尊，后为皇太后）",
+          "type": "妃嫔（贤妃，后尊皇太后）",
+          "children": ["赵构"],
+          "source": "《宋史·后妃传》",
+          "disputed": false,
+          "note": "高宗生母，靖康之变被掳入金，绍兴十二年因绍兴和议金人归其南返；其在金经历及北归后对柔福帝姬案的处理，后世多有揣测"
+        },
+        {
+          "name": "乔氏（乔贵妃）",
+          "title": "贵妃",
+          "type": "妃嫔",
+          "children": [],
+          "source": "《宋史·后妃传》",
+          "disputed": false,
+          "note": "与韦氏情同姐妹，曾约“苟富贵无相忘”；韦氏南归时置酒饯别，诉己老死北廷之悲，后卒于五国城"
+        },
+        {
+          "name": "刘氏（安妃）",
+          "title": "明达皇后（追册）",
+          "type": "妃嫔（贵妃，死后追册皇后）",
+          "children": ["赵福金等"],
+          "source": "《宋史·后妃传》",
+          "disputed": false,
+          "note": "宠冠后宫，政和年间卒；徽宗另有明节皇后刘氏，亦为追册"
+        }
+      ],
+      "children": [
+        {
+          "name": "赵桓",
+          "gender": "男",
+          "mother": "王氏（显恭皇后）",
+          "order_among_siblings": "长子（嫡长子）",
+          "title_or_fate": "宣和七年受内禅，继位为宋钦宗",
+          "relationship_type": "亲子",
+          "source": "《宋史·钦宗本纪》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "赵构",
+          "gender": "男",
+          "mother": "韦氏（显仁皇后）",
+          "order_among_siblings": "第九子",
+          "title_or_fate": "初封康王，靖康后于南京应天府即位，为宋高宗",
+          "relationship_type": "亲子",
+          "source": "《宋史·高宗本纪》",
+          "disputed": false,
+          "note": "靖康之变时以天下兵马大元帅身份在河北，得以幸免"
+        },
+        {
+          "name": "赵楷",
+          "gender": "男",
+          "mother": "王氏（懿肃贵妃）",
+          "order_among_siblings": "第三子",
+          "title_or_fate": "郓王，靖康之变被掳北去，卒于金",
+          "relationship_type": "亲子",
+          "source": "《宋史·宗室传》",
+          "disputed": false,
+          "note": "曾化名赴科举廷试名列第一，徽宗仍封之为王，为宗室特例"
+        },
+        {
+          "name": "赵福金（茂德帝姬）",
+          "gender": "女",
+          "mother": "刘氏（明达皇后）",
+          "order_among_siblings": "第五女",
+          "title_or_fate": "下嫁蔡鞗（蔡京之子），靖康中被金人强索入金营，后卒于金",
+          "relationship_type": "亲子",
+          "source": "《靖康稗史》《宋史·公主传》",
+          "disputed": false,
+          "note": "以美貌知名，为金人点名索要的帝姬之一，遭遇悲惨"
+        },
+        {
+          "name": "赵多富（柔福帝姬）",
+          "gender": "女",
+          "mother": "王氏（懿肃贵妃）",
+          "order_among_siblings": "女（排行存异说）",
+          "title_or_fate": "靖康被掳入金；南渡后真伪成千古疑案",
+          "relationship_type": "亲子",
+          "source": "《建炎以来系年要录》《宋史·公主传》",
+          "disputed": true,
+          "note": "真伪案：建炎四年有女子自称柔福帝姬逃归，高宗验旧宫女确认后封福国长公主，下嫁高世荣；绍兴十二年韦太后南归，坚称真柔福已死于五国城，该女子遂被诛；后世（如《四朝闻见录》）多怀疑被诛者实为真帝姬，韦氏为讳言己身北廷经历而杀人灭口，真相至今无定论"
+        }
+      ],
+      "notes": "子女众多，据《靖康稗史》《宋史》等记载约有子三十余人（一说三十八）、女三十四人，绝大多数在靖康之变中被掳北去，此处仅列知名者。绍兴五年（1135年）死于五国城，庙号徽宗；其“诸事皆能，独不能为君”成为后世定评。"
+    },
+    {
+      "order": 9,
+      "name": "赵桓",
+      "temple_name": "钦宗",
+      "posthumous_name": "恭文顺德仁孝皇帝",
+      "era_names": ["靖康"],
+      "reign": "1126–1127",
+      "relation_to_previous": "徽宗嫡长子，宣和七年金兵南下时受内禅即位",
+      "achievements": [
+        "即位后贬逐蔡京、童贯等“六贼”，以谢天下",
+        "起用李纲组织第一次汴京保卫战，击退金军",
+        "旋即摇摆于战和之间，罢免李纲，致太原陷落",
+        "靖康二年金军再围汴京，城破，与徽宗同被掳北去，北宋灭亡"
+      ],
+      "sources": ["《宋史·钦宗本纪》", "《靖康稗史》"],
+      "spouses": [
+        {
+          "name": "朱氏",
+          "title": "仁怀皇后",
+          "type": "皇后",
+          "children": ["赵谌"],
+          "source": "《宋史·后妃传》",
+          "disputed": false,
+          "note": "靖康之变随帝北掳，不堪受辱（一说自缢明志），死于金，高宗遥上尊谥"
+        }
+      ],
+      "children": [
+        {
+          "name": "赵谌",
+          "gender": "男",
+          "mother": "朱氏（仁怀皇后）",
+          "order_among_siblings": "长子（嫡子）",
+          "title_or_fate": "皇太子，靖康之变被金人索去北掳，后不知所终",
+          "relationship_type": "亲子",
+          "source": "《宋史·宗室传》",
+          "disputed": false,
+          "note": "钦宗另有赵谨、赵训二子生于北迁之后，皆湮没无闻"
+        }
+      ],
+      "notes": "在位仅一年余；绍兴三十一年（1161年）其死讯始传至南宋（一说卒于1156年），高宗为之举哀。金人曾有意立赵谌为傀儡以制南宋，未果。"
+    },
+    {
+      "order": 10,
+      "name": "赵构",
+      "temple_name": "高宗",
+      "posthumous_name": "受命中兴全功至德圣神武文昭仁宪孝皇帝",
+      "era_names": ["建炎", "绍兴"],
+      "reign": "1127–1162（内禅后为太上皇，卒于1187年）",
+      "relation_to_previous": "徽宗第九子、钦宗之弟；靖康之变后在南京应天府即位，重建宋室（南宋）",
+      "achievements": [
+        "建立南宋，几经播迁后定都临安（杭州），延续宋祚一百五十余年",
+        "绍兴十一年与金订立“绍兴和议”，形成南北对峙格局",
+        "解除韩世忠、岳飞等大将兵权，重建中央对军队的控制",
+        "默许秦桧以“莫须有”罪名冤杀岳飞，为后世最大污点",
+        "绍兴年间经济恢复，南方农业、海外贸易长足发展"
+      ],
+      "sources": ["《宋史·高宗本纪》", "《建炎以来系年要录》"],
+      "spouses": [
+        {
+          "name": "邢秉懿",
+          "title": "宪节皇后（遥册）",
+          "type": "皇后（遥册）",
+          "children": [],
+          "source": "《宋史·后妃传》",
+          "disputed": false,
+          "note": "康王元妃，靖康之变被掳入金，绍兴九年死于五国城，高宗长期不知，仍虚中宫之位以待"
+        },
+        {
+          "name": "吴氏",
+          "title": "宪圣慈烈皇后",
+          "type": "皇后",
+          "children": [],
+          "source": "《宋史·后妃传》",
+          "disputed": false,
+          "note": "戎装护驾于海上播迁之时，绍兴十三年立为后；历高、孝、光、宁四朝，为宋代罕见的四朝太后"
+        },
+        {
+          "name": "潘氏（潘贤妃）",
+          "title": "贤妃",
+          "type": "妃嫔",
+          "children": ["赵旉"],
+          "source": "《宋史·后妃传》",
+          "disputed": false,
+          "note": "生元懿太子赵旉，赵旉夭亡后高宗再无亲子"
+        }
+      ],
+      "children": [
+        {
+          "name": "赵旉",
+          "gender": "男",
+          "mother": "潘氏（潘贤妃）",
+          "order_among_siblings": "独子（亲子）",
+          "title_or_fate": "元懿太子（追谥）",
+          "relationship_type": "亲子",
+          "source": "《宋史·宗室传》",
+          "disputed": false,
+          "note": "建炎三年苗刘兵变时被叛军拥立为帝，兵变平定后复为太子，同年因惊悸夭亡，年仅三岁"
+        },
+        {
+          "name": "赵昚",
+          "gender": "男",
+          "mother": "张氏（秀安僖王赵子偁之妻，生母）",
+          "order_among_siblings": "—（太祖七世孙）",
+          "title_or_fate": "受高宗内禅，继位为宋孝宗",
+          "relationship_type": "继嗣",
+          "source": "《宋史·孝宗本纪》",
+          "disputed": false,
+          "note": "继嗣关系：高宗独子赵旉夭亡后再无生育，绍兴二年选太祖后裔入宫养育。赵昚为太祖七世孙、秦康惠王赵德芳六世孙、秀安僖王赵子偁之子，绍兴三十年立为皇子，三十二年受禅。自此皇统自太宗一系复归太祖一系，高宗称“太祖舍其子而立弟，其后裔零落，朕当还位太祖之后”"
+        },
+        {
+          "name": "赵璩",
+          "gender": "男",
+          "mother": "—（宗子，入宫养育）",
+          "order_among_siblings": "—（太祖七世孙）",
+          "title_or_fate": "恩平郡王，后出居外第",
+          "relationship_type": "养子",
+          "source": "《宋史·宗室传》",
+          "disputed": false,
+          "note": "与赵昚同以太祖后裔入宫养育，为储位候选“竞争者”，最终落选"
+        }
+      ],
+      "notes": "绍兴三十二年禅位于孝宗，做了二十五年太上皇，卒于淳熙十四年（1187年），年八十一，为宋代最长寿的皇帝。"
+    },
+    {
+      "order": 11,
+      "name": "赵昚",
+      "temple_name": "孝宗",
+      "posthumous_name": "绍统同道冠德昭功哲文神武明圣成孝皇帝",
+      "era_names": ["隆兴", "乾道", "淳熙"],
+      "reign": "1162–1189（内禅后为太上皇，卒于1194年）",
+      "relation_to_previous": "高宗养子，太祖七世孙、秦康惠王赵德芳六世孙（继嗣入统）",
+      "achievements": [
+        "即位即为岳飞平反昭雪，起用张浚发动隆兴北伐（符离之败）",
+        "隆兴二年与金重订“隆兴和议”，宋金由君臣之国改称叔侄之国",
+        "在位期间政治清明、经济繁荣，史称“乾淳之治”，被誉南宋最有为之君",
+        "重用虞允文、周必大等贤臣，裁汰冗官",
+        "淳熙十六年效法高宗内禅于光宗"
+      ],
+      "sources": ["《宋史·孝宗本纪》"],
+      "spouses": [
+        {
+          "name": "郭氏",
+          "title": "成穆皇后（追册）",
+          "type": "皇后（追册）",
+          "children": ["赵愭", "赵恺", "赵惇", "赵恪"],
+          "source": "《宋史·后妃传》",
+          "disputed": false,
+          "note": "孝宗潜邸元妃，早逝，孝宗即位后追册"
+        },
+        {
+          "name": "夏氏",
+          "title": "成恭皇后（追册）",
+          "type": "皇后（追册）",
+          "children": [],
+          "source": "《宋史·后妃传》",
+          "disputed": false,
+          "note": "初为吴太后宫人，赐与孝宗，早逝追册"
+        },
+        {
+          "name": "谢氏",
+          "title": "成肃皇后",
+          "type": "皇后",
+          "children": [],
+          "source": "《宋史·后妃传》",
+          "disputed": false,
+          "note": "淳熙三年立为后；光宗朝因李后悍妒、光宗不朝重华宫（过宫风波）时多居间调护"
+        }
+      ],
+      "children": [
+        {
+          "name": "赵愭",
+          "gender": "男",
+          "mother": "郭氏（成穆皇后）",
+          "order_among_siblings": "长子",
+          "title_or_fate": "庄文太子（追谥）",
+          "relationship_type": "亲子",
+          "source": "《宋史·宗室传》",
+          "disputed": false,
+          "note": "乾道三年卒，年二十四，孝宗为之辍朝"
+        },
+        {
+          "name": "赵恺",
+          "gender": "男",
+          "mother": "郭氏（成穆皇后）",
+          "order_among_siblings": "次子",
+          "title_or_fate": "魏惠宪王",
+          "relationship_type": "亲子",
+          "source": "《宋史·宗室传》",
+          "disputed": false,
+          "note": "庄文太子卒后本可依序立储，孝宗以光宗“英武类己”越次立之，赵恺出判明州"
+        },
+        {
+          "name": "赵惇",
+          "gender": "男",
+          "mother": "郭氏（成穆皇后）",
+          "order_among_siblings": "第三子",
+          "title_or_fate": "受内禅，继位为宋光宗",
+          "relationship_type": "亲子",
+          "source": "《宋史·光宗本纪》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "赵恪",
+          "gender": "男",
+          "mother": "郭氏（成穆皇后）",
+          "order_among_siblings": "第四子",
+          "title_or_fate": "邵悼肃王，早卒",
+          "relationship_type": "亲子",
+          "source": "《宋史·宗室传》",
+          "disputed": false,
+          "note": ""
+        }
+      ],
+      "notes": "以孝著称，事高宗尽子道；晚年因光宗与太上皇失和（过宫风波），郁郁而终。"
+    },
+    {
+      "order": 12,
+      "name": "赵惇",
+      "temple_name": "光宗",
+      "posthumous_name": "循道宪仁明功茂德温文顺武圣哲慈孝皇帝",
+      "era_names": ["绍熙"],
+      "reign": "1189–1194",
+      "relation_to_previous": "孝宗第三子，受内禅即位",
+      "achievements": [
+        "绍熙初年政尚平稳，蠲免积欠、宽恤民力",
+        "因精神疾病与李皇后干政，政局渐乱",
+        "拒不朝见太上皇孝宗（“过宫”风波），引发持续数年的政治危机",
+        "孝宗崩后不能主持丧礼，赵汝愚、韩侂胄在太皇太后吴氏支持下迫其内禅（绍熙内禅）"
+      ],
+      "sources": ["《宋史·光宗本纪》"],
+      "spouses": [
+        {
+          "name": "李凤娘",
+          "title": "慈懿皇后",
+          "type": "皇后",
+          "children": ["赵扩"],
+          "source": "《宋史·后妃传》",
+          "disputed": false,
+          "note": "以悍妒著称，离间光宗与孝宗父子关系，为过宫风波的重要肇因；光宗惧内，朝政多出其手"
+        },
+        {
+          "name": "黄氏（黄贵妃）",
+          "title": "贵妃",
+          "type": "妃嫔",
+          "children": [],
+          "source": "《宋史·后妃传》",
+          "disputed": false,
+          "note": "光宗宠妃，据《宋史》载为李皇后所杀、对外以暴卒闻，光宗因此惊惧成疾"
+        }
+      ],
+      "children": [
+        {
+          "name": "赵扩",
+          "gender": "男",
+          "mother": "李凤娘（慈懿皇后）",
+          "order_among_siblings": "次子（长兄早夭，实为独子）",
+          "title_or_fate": "绍熙内禅后继位为宋宁宗",
+          "relationship_type": "亲子",
+          "source": "《宋史·宁宗本纪》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "赵梃",
+          "gender": "男",
+          "mother": "李凤娘（慈懿皇后）",
+          "order_among_siblings": "长子",
+          "title_or_fate": "早夭",
+          "relationship_type": "亲子",
+          "source": "《宋史·宗室传》",
+          "disputed": false,
+          "note": ""
+        }
+      ],
+      "notes": "在位五年即被迫内禅，为太上皇六年后卒；其朝为南宋由治转衰的节点。"
+    },
+    {
+      "order": 13,
+      "name": "赵扩",
+      "temple_name": "宁宗",
+      "posthumous_name": "法天备道纯德茂功仁文哲武圣睿恭孝皇帝",
+      "era_names": ["庆元", "嘉泰", "开禧", "嘉定"],
+      "reign": "1194–1224",
+      "relation_to_previous": "光宗次子（实为独子），绍熙内禅受位",
+      "achievements": [
+        "庆元年间韩侂胄专权，禁程朱理学，兴“庆元党禁”",
+        "开禧年间发动“开禧北伐”，兵败后诛韩侂胄，与金订“嘉定和议”",
+        "嘉定更化后史弥远长期专权",
+        "晚年召用真德秀、魏了翁等理学名臣，理学渐获官方肯定",
+        "在位三十年，财政困窘、对金关系持续恶化"
+      ],
+      "sources": ["《宋史·宁宗本纪》"],
+      "spouses": [
+        {
+          "name": "韩氏",
+          "title": "恭淑皇后",
+          "type": "皇后",
+          "children": [],
+          "source": "《宋史·后妃传》",
+          "disputed": false,
+          "note": "与权臣韩侂胄同族，庆元六年崩，其后杨氏立后"
+        },
+        {
+          "name": "杨氏",
+          "title": "恭圣仁烈皇后",
+          "type": "皇后",
+          "children": [],
+          "source": "《宋史·后妃传》",
+          "disputed": false,
+          "note": "工诗善书；开禧三年与史弥远密谋诛杀韩侂胄；宁宗崩后与史弥远合谋废济王赵竑、立赵昀（理宗），一度垂帘听政"
+        }
+      ],
+      "children": [
+        {
+          "name": "皇子九人（赵埈等）",
+          "gender": "男",
+          "mother": "诸妃嫔（记载分散）",
+          "order_among_siblings": "—",
+          "title_or_fate": "皆早夭",
+          "relationship_type": "亲子",
+          "source": "《宋史·宗室传》",
+          "disputed": false,
+          "note": "宁宗九子全部早夭，皇嗣空虚，为南宋中期继嗣危机之源"
+        },
+        {
+          "name": "赵询",
+          "gender": "男",
+          "mother": "—（宗子，太祖后裔）",
+          "order_among_siblings": "—",
+          "title_or_fate": "景献太子（追谥）",
+          "relationship_type": "继嗣",
+          "source": "《宋史·宗室传》",
+          "disputed": false,
+          "note": "继嗣关系：开禧年间入宫为养子，嘉定十三年立为太子，同年即卒"
+        },
+        {
+          "name": "赵竑",
+          "gender": "男",
+          "mother": "—（宗子，太祖后裔、秦王赵德芳九世孙）",
+          "order_among_siblings": "—",
+          "title_or_fate": "济王，宝庆元年被废，霅川之变后赐死",
+          "relationship_type": "继嗣",
+          "source": "《宋史·宗室传》",
+          "disputed": false,
+          "note": "继嗣关系：景献太子赵询卒后被立为皇子（皇储）；因不满史弥远专权并放言贬逐之，宁宗崩后史弥远与杨皇后合谋，矫诏改立赵昀，赵竑被出为济王，后在湖州霅川之变中被乱民拥立，事败赐死"
+        },
+        {
+          "name": "赵昀",
+          "gender": "男",
+          "mother": "全氏（生母，荣王夫人）",
+          "order_among_siblings": "—（太祖十世孙、燕王赵德昭九世孙）",
+          "title_or_fate": "继位为宋理宗",
+          "relationship_type": "继嗣",
+          "source": "《宋史·理宗本纪》",
+          "disputed": false,
+          "note": "继嗣关系：本为宗室远支，父赵希瓐仅为山阴县小官；史弥远为废赵竑，遣余天锡物色宗子，选中赵昀，嘉定十四年立为皇子（沂王嗣子），宁宗崩后矫诏即位"
+        }
+      ],
+      "notes": "一生受制于权臣：前期韩侂胄、后期史弥远；其身后嗣位之争（赵竑之废）成为理宗朝重大政治公案。"
+    },
+    {
+      "order": 14,
+      "name": "赵昀",
+      "temple_name": "理宗",
+      "posthumous_name": "建道备德大功复兴烈文仁武圣明安孝皇帝",
+      "era_names": ["宝庆", "绍定", "端平", "嘉熙", "淳祐", "宝祐", "开庆", "景定"],
+      "reign": "1224–1264",
+      "relation_to_previous": "宁宗远支宗室继嗣（太祖十世孙、燕王赵德昭九世孙），由史弥远矫诏拥立",
+      "achievements": [
+        "亲政初年行“端平更化”，黜逐史弥远党羽，召用真德秀等",
+        "绍定六年联蒙灭金（1234年蔡州之战），雪靖康之耻",
+        "“端平入洛”轻率出兵收复三京，惨败于蒙古，宋蒙战争由此爆发",
+        "淳祐元年将周敦颐、张载、二程、朱熹从祀孔庙，正式确立理学官方地位",
+        "晚年怠政，阎贵妃、丁大全、贾似道相继用事，国势日衰"
+      ],
+      "sources": ["《宋史·理宗本纪》"],
+      "spouses": [
+        {
+          "name": "谢道清",
+          "title": "寿和圣福皇后",
+          "type": "皇后",
+          "children": [],
+          "source": "《宋史·后妃传》",
+          "disputed": false,
+          "note": "天台人，杨皇后所择；恭帝即位后为太皇太后，德祐二年元军入临安，奉表称臣，主持降元事宜"
+        },
+        {
+          "name": "贾氏（贾贵妃）",
+          "title": "贵妃",
+          "type": "妃嫔",
+          "children": ["周汉国公主"],
+          "source": "《宋史·后妃传》",
+          "disputed": false,
+          "note": "权臣贾似道之姊，姿色殊艳，专宠后宫，早逝"
+        }
+      ],
+      "children": [
+        {
+          "name": "赵缉",
+          "gender": "男",
+          "mother": "记载简略",
+          "order_among_siblings": "独子（亲子）",
+          "title_or_fate": "出生后不久即夭，追封王爵",
+          "relationship_type": "亲子",
+          "source": "《宋史·理宗本纪》",
+          "disputed": false,
+          "note": "理宗亲子皆早夭，皇嗣空虚，遂立侄赵禥（度宗）为皇子"
+        },
+        {
+          "name": "周汉国公主（瑞国公主）",
+          "gender": "女",
+          "mother": "贾氏（贾贵妃）",
+          "order_among_siblings": "独女",
+          "title_or_fate": "下嫁杨镇",
+          "relationship_type": "亲子",
+          "source": "《宋史·公主传》",
+          "disputed": false,
+          "note": "理宗独女，备受宠爱，婚礼奢靡为世所讥；景定二年卒，年二十二"
+        },
+        {
+          "name": "赵禥",
+          "gender": "男",
+          "mother": "黄定喜（荣王赵与芮妾，生母）",
+          "order_among_siblings": "—（荣王赵与芮之子）",
+          "title_or_fate": "继位为宋度宗",
+          "relationship_type": "继嗣",
+          "source": "《宋史·度宗本纪》",
+          "disputed": false,
+          "note": "继嗣关系：荣王赵与芮为理宗同母弟，故赵禥以亲侄入继；野史传其母孕期曾服堕胎药，致其先天体弱智钝，正史不载"
+        }
+      ],
+      "notes": "在位四十年，为南宋在位最久之帝；前十年受制于史弥远，亲政后先治后荒，末年蒙古大军压境，南宋灭亡之势已成。"
+    },
+    {
+      "order": 15,
+      "name": "赵禥",
+      "temple_name": "度宗",
+      "posthumous_name": "端文明武景孝皇帝",
+      "era_names": ["咸淳"],
+      "reign": "1264–1274",
+      "relation_to_previous": "理宗之侄（荣王赵与芮之子）、继子",
+      "achievements": [
+        "咸淳年间贾似道专权，朝政日非",
+        "咸淳三年至九年襄阳、樊城之战失守，南宋门户洞开",
+        "耽于酒色，批答奏章多委于贾似道，国势加速崩溃"
+      ],
+      "sources": ["《宋史·度宗本纪》"],
+      "spouses": [
+        {
+          "name": "全氏",
+          "title": "皇后（后为皇太后）",
+          "type": "皇后",
+          "children": ["赵㬎"],
+          "source": "《宋史·后妃传》",
+          "disputed": false,
+          "note": "恭帝生母；临安降元后随恭帝北迁，后出家为尼"
+        },
+        {
+          "name": "杨氏（杨淑妃）",
+          "title": "淑妃（后为皇太后）",
+          "type": "妃嫔",
+          "children": ["赵昰"],
+          "source": "《宋史·后妃传》《宋史·瀛国公本纪》",
+          "disputed": false,
+          "note": "端宗生母；南逃途中主政海上行朝，端宗崩后立少帝，崖山兵败闻帝投海，亦赴海殉国"
+        },
+        {
+          "name": "俞氏（俞修容）",
+          "title": "修容",
+          "type": "妃嫔",
+          "children": ["赵昺"],
+          "source": "《宋史·瀛国公本纪》",
+          "disputed": false,
+          "note": "少帝赵昺生母"
+        },
+        {
+          "name": "王清惠",
+          "title": "昭仪",
+          "type": "妃嫔",
+          "children": [],
+          "source": "《宋史》相关记载及《乐府补题》等宋元笔记",
+          "disputed": false,
+          "note": "临安降后北迁，途经汴梁夷山驿题《满江红·太液芙蓉》于驿壁，词传南北，文天祥等有和作"
+        }
+      ],
+      "children": [
+        {
+          "name": "赵㬎",
+          "gender": "男",
+          "mother": "全氏（全皇后）",
+          "order_among_siblings": "嫡子",
+          "title_or_fate": "继位为恭帝，后降元",
+          "relationship_type": "亲子",
+          "source": "《宋史·瀛国公本纪》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "赵昰",
+          "gender": "男",
+          "mother": "杨氏（杨淑妃）",
+          "order_among_siblings": "庶长子",
+          "title_or_fate": "临安降后南逃，于福州即位为端宗",
+          "relationship_type": "亲子",
+          "source": "《宋史·瀛国公本纪》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "赵昺",
+          "gender": "男",
+          "mother": "俞氏（俞修容）",
+          "order_among_siblings": "庶子",
+          "title_or_fate": "端宗崩后继位为少帝，崖山殉国",
+          "relationship_type": "亲子",
+          "source": "《宋史·瀛国公本纪》",
+          "disputed": false,
+          "note": "度宗另有数子早夭，存者即此三人，皆先后为帝"
+        }
+      ],
+      "notes": "先天体弱（野史传其母曾服堕胎药所致），在位十年，南宋已临亡国之境；咸淳十年崩，年三十五。"
+    },
+    {
+      "order": 16,
+      "name": "赵㬎",
+      "temple_name": "无正式庙号（史称恭帝，元朝封瀛国公）",
+      "posthumous_name": "无正式谥号",
+      "era_names": ["德祐"],
+      "reign": "1274–1276",
+      "relation_to_previous": "度宗嫡子（母全皇后），四岁即位，祖母谢太皇太后垂帘",
+      "achievements": [
+        "在位时元军已突破长江，朝政由谢太皇太后与陈宜中等主持",
+        "德祐二年（1276年）元军入临安，谢太皇太后奉表降元，南宋朝廷名义灭亡",
+        "其降元后二王南逃继统，宋室抗争仍延续三年"
+      ],
+      "sources": ["《宋史·瀛国公本纪》", "《元史·世祖本纪》"],
+      "spouses": [],
+      "children": [],
+      "notes": "降元后被掳北上，封瀛国公；至元二十五年（1288年）被遣往吐蕃萨迦寺出家，法号合尊；至治三年（1323年）因诗文获罪，被元英宗赐死（一说赐死于河西）。元末野史（如权衡《庚申外史》）称元顺帝实为恭帝之子，系无稽传说，历代史家多不取（属野史争议，存疑处理）。"
+    },
+    {
+      "order": 17,
+      "name": "赵昰",
+      "temple_name": "端宗",
+      "posthumous_name": "裕文昭武愍孝皇帝（行朝所上）",
+      "era_names": ["景炎"],
+      "reign": "1276–1278",
+      "relation_to_previous": "度宗庶长子（母杨淑妃）、恭帝异母兄；临安降元后与赵昺南逃，于福州即位",
+      "achievements": [
+        "在陈宜中、陆秀夫、张世杰等拥戴下于福州即位，延续宋统",
+        "率海上行朝辗转泉州、潮州、惠州等地，坚持抗元",
+        "景炎三年在碙洲（今广东硇洲岛）惊悸成疾病逝，年仅十岁"
+      ],
+      "sources": ["《宋史·瀛国公本纪（附二王）》"],
+      "spouses": [],
+      "children": [],
+      "notes": "年幼在位，朝政实由母杨太后与诸大臣主持；景炎二年井澳遇飓风，坠水惊悸，自此成疾。"
+    },
+    {
+      "order": 18,
+      "name": "赵昺",
+      "temple_name": "无正式庙号（史称少帝、帝昺）",
+      "posthumous_name": "无正式谥号",
+      "era_names": ["祥兴"],
+      "reign": "1278–1279",
+      "relation_to_previous": "度宗庶子（母俞修容）、端宗异母弟",
+      "achievements": [
+        "端宗崩后于碙洲即位，行朝移驻崖山（今广东新会）",
+        "祥兴二年（1279年）崖山海战，张世杰兵败，陆秀夫负帝投海殉国，南宋彻底灭亡"
+      ],
+      "sources": ["《宋史·瀛国公本纪（附二王）》"],
+      "spouses": [],
+      "children": [],
+      "notes": "时年八岁。崖山之败，杨太后闻帝已死亦赴海殉国，后宫及文武军民从死者甚众；野史笔记有“浮尸十余万”之说，具体数字无可考，存疑。次年张世杰亦遇飓风溺亡。崖山殉国成为宋室气节的象征。"
+    }
+  ]
+}

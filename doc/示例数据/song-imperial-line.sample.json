@@ -1,0 +1,45 @@
+{
+  "format": "genealogy-sample/v1",
+  "schemaVersion": 1,
+  "project": { "id": "sample-song-imperial-line", "name": "宋代代表性帝系（示例）", "dynasty": "宋", "coverage": "北宋开国至靖康、南宋高宗至理宗的关键继承关系；非完整宗室名录" },
+  "sources": [
+    { "id": "song-shi", "title": "《宋史》", "type": "historical-text", "note": "本纪、宗室世系与后妃列传为主要核验依据。" }
+  ],
+  "persons": [
+    { "id": "zhao-hongyin", "name": "赵弘殷", "roles": ["imperial-ancestor"], "sourceIds": ["song-shi"], "certainty": "confirmed" },
+    { "id": "zhao-kuangyin", "name": "赵匡胤", "courtesyOrTempleName": "宋太祖", "birth": "0927", "death": "0976", "roles": ["emperor"], "sourceIds": ["song-shi"], "certainty": "confirmed" },
+    { "id": "zhao-kuangyi", "name": "赵匡义", "courtesyOrTempleName": "宋太宗", "birth": "0939", "death": "0997", "roles": ["emperor"], "sourceIds": ["song-shi"], "certainty": "confirmed" },
+    { "id": "zhao-heng", "name": "赵恒", "courtesyOrTempleName": "宋真宗", "birth": "0968", "death": "1022", "roles": ["emperor"], "sourceIds": ["song-shi"], "certainty": "confirmed" },
+    { "id": "zhao-zhen", "name": "赵祯", "courtesyOrTempleName": "宋仁宗", "birth": "1010", "death": "1063", "roles": ["emperor"], "sourceIds": ["song-shi"], "certainty": "confirmed" },
+    { "id": "zhao-yunrang", "name": "赵允让", "roles": ["imperial-clan"], "sourceIds": ["song-shi"], "certainty": "confirmed" },
+    { "id": "zhao-zongshi", "name": "赵宗实", "courtesyOrTempleName": "宋英宗", "birth": "1032", "death": "1067", "roles": ["emperor"], "sourceIds": ["song-shi"], "certainty": "confirmed", "note": "以宗室子入继仁宗，保留生父与收养关系。" },
+    { "id": "zhao-xu-shenzong", "name": "赵顼", "courtesyOrTempleName": "宋神宗", "birth": "1048", "death": "1085", "roles": ["emperor"], "sourceIds": ["song-shi"], "certainty": "confirmed" },
+    { "id": "zhao-xu-zhezong", "name": "赵煦", "courtesyOrTempleName": "宋哲宗", "birth": "1076", "death": "1100", "roles": ["emperor"], "sourceIds": ["song-shi"], "certainty": "confirmed" },
+    { "id": "zhao-ji", "name": "赵佶", "courtesyOrTempleName": "宋徽宗", "birth": "1082", "death": "1135", "roles": ["emperor"], "sourceIds": ["song-shi"], "certainty": "confirmed" },
+    { "id": "zhao-huan", "name": "赵桓", "courtesyOrTempleName": "宋钦宗", "birth": "1100", "death": "1156", "roles": ["emperor"], "sourceIds": ["song-shi"], "certainty": "confirmed" },
+    { "id": "zhao-gou", "name": "赵构", "courtesyOrTempleName": "宋高宗", "birth": "1107", "death": "1187", "roles": ["emperor"], "sourceIds": ["song-shi"], "certainty": "confirmed" },
+    { "id": "zhao-shen", "name": "赵昚", "courtesyOrTempleName": "宋孝宗", "birth": "1127", "death": "1194", "roles": ["emperor"], "sourceIds": ["song-shi"], "certainty": "confirmed", "note": "高宗养子；其完整生父系待在扩展数据中补全。" },
+    { "id": "zhao-dun", "name": "赵惇", "courtesyOrTempleName": "宋光宗", "birth": "1147", "death": "1200", "roles": ["emperor"], "sourceIds": ["song-shi"], "certainty": "confirmed" },
+    { "id": "zhao-kuo", "name": "赵扩", "courtesyOrTempleName": "宋宁宗", "birth": "1168", "death": "1224", "roles": ["emperor"], "sourceIds": ["song-shi"], "certainty": "confirmed" },
+    { "id": "zhao-yun", "name": "赵昀", "courtesyOrTempleName": "宋理宗", "birth": "1205", "death": "1264", "roles": ["emperor"], "sourceIds": ["song-shi"], "certainty": "confirmed", "note": "宁宗收养继位；完整生父系待在扩展数据中补全。" }
+  ],
+  "unions": [],
+  "parentChildRelations": [
+    { "id": "pc-hongyin-kuangyin", "parentId": "zhao-hongyin", "childId": "zhao-kuangyin", "type": "biological", "sourceIds": ["song-shi"] },
+    { "id": "pc-hongyin-kuangyi", "parentId": "zhao-hongyin", "childId": "zhao-kuangyi", "type": "biological", "sourceIds": ["song-shi"] },
+    { "id": "pc-kuangyi-heng", "parentId": "zhao-kuangyi", "childId": "zhao-heng", "type": "biological", "sourceIds": ["song-shi"] },
+    { "id": "pc-kuangyi-yunrang", "parentId": "zhao-kuangyi", "childId": "zhao-yunrang", "type": "biological", "sourceIds": ["song-shi"] },
+    { "id": "pc-heng-zhen", "parentId": "zhao-heng", "childId": "zhao-zhen", "type": "biological", "sourceIds": ["song-shi"] },
+    { "id": "pc-yunrang-zongshi", "parentId": "zhao-yunrang", "childId": "zhao-zongshi", "type": "biological", "sourceIds": ["song-shi"] },
+    { "id": "pc-renzong-zongshi", "parentId": "zhao-zhen", "childId": "zhao-zongshi", "type": "adoptive", "sourceIds": ["song-shi"] },
+    { "id": "pc-zongshi-xu", "parentId": "zhao-zongshi", "childId": "zhao-xu-shenzong", "type": "biological", "sourceIds": ["song-shi"] },
+    { "id": "pc-shenzong-zhezong", "parentId": "zhao-xu-shenzong", "childId": "zhao-xu-zhezong", "type": "biological", "sourceIds": ["song-shi"] },
+    { "id": "pc-shenzong-huizong", "parentId": "zhao-xu-shenzong", "childId": "zhao-ji", "type": "biological", "sourceIds": ["song-shi"] },
+    { "id": "pc-huizong-qinzong", "parentId": "zhao-ji", "childId": "zhao-huan", "type": "biological", "sourceIds": ["song-shi"] },
+    { "id": "pc-huizong-gaozong", "parentId": "zhao-ji", "childId": "zhao-gou", "type": "biological", "sourceIds": ["song-shi"] },
+    { "id": "pc-gaozong-xiaozong", "parentId": "zhao-gou", "childId": "zhao-shen", "type": "adoptive", "sourceIds": ["song-shi"] },
+    { "id": "pc-xiaozong-guangzong", "parentId": "zhao-shen", "childId": "zhao-dun", "type": "biological", "sourceIds": ["song-shi"] },
+    { "id": "pc-guangzong-ningzong", "parentId": "zhao-dun", "childId": "zhao-kuo", "type": "biological", "sourceIds": ["song-shi"] },
+    { "id": "pc-ningzong-lizong", "parentId": "zhao-kuo", "childId": "zhao-yun", "type": "adoptive", "sourceIds": ["song-shi"] }
+  ]
+}

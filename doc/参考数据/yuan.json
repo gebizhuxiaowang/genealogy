@@ -1,0 +1,992 @@
+{
+  "dynasty": "元朝",
+  "period": "1206–1368（1271 年建国号大元）",
+  "emperors": [
+    {
+      "order": 1,
+      "name": "孛儿只斤·铁木真",
+      "temple_name": "太祖",
+      "posthumous_name": "法天启运圣武皇帝（追谥）",
+      "era_names": ["无年号（大蒙古国时期）"],
+      "reign": "1206–1227",
+      "relation_to_previous": "开国皇帝（大蒙古国建立者，元朝建立后追尊）",
+      "achievements": [
+        "统一蒙古诸部，1206年于斡难河源召开忽里台，称成吉思汗，建立大蒙古国",
+        "建立千户制与怯薛护卫军，颁行《大札撒》，奠定蒙古国家制度",
+        "命塔塔统阿以回鹘字母创制蒙古文字",
+        "1215年陷金中都，迫使金朝迁都汴京",
+        "1219–1225年西征灭花剌子模，兵锋及于中亚、里海，奠定四大汗国基础",
+        "1227年灭西夏前夕病逝，遗命假道于宋以灭金"
+      ],
+      "sources": ["《元史·太祖本纪》", "《蒙古秘史》", "《史集》（拉施特）"],
+      "spouses": [
+        {
+          "name": "孛儿帖",
+          "title": "光献翼圣皇后",
+          "type": "皇后（第一斡耳朵）",
+          "children": ["术赤", "察合台", "窝阔台", "拖雷"],
+          "source": "《元史·后妃传》",
+          "disputed": false,
+          "note": "弘吉剌部人，大斡耳朵之长，四子皆为嫡出"
+        },
+        {
+          "name": "忽兰",
+          "title": "皇后",
+          "type": "皇后（第二斡耳朵）",
+          "children": ["阔列坚"],
+          "source": "《元史·后妃传》",
+          "disputed": false,
+          "note": "兀洼思蔑儿乞部人，成吉思汗最宠爱的妃子之一"
+        },
+        {
+          "name": "也遂",
+          "title": "皇后",
+          "type": "皇后（第三斡耳朵）",
+          "children": [],
+          "source": "《元史·后妃传》",
+          "disputed": false,
+          "note": "塔塔儿部人"
+        },
+        {
+          "name": "也速干",
+          "title": "皇后",
+          "type": "皇后（第四斡耳朵）",
+          "children": [],
+          "source": "《元史·后妃传》",
+          "disputed": false,
+          "note": "塔塔儿部人，也遂皇后之妹"
+        }
+      ],
+      "children": [
+        {
+          "name": "术赤",
+          "gender": "男",
+          "mother": "孛儿帖",
+          "order_among_siblings": "长子",
+          "title_or_fate": "钦察汗国奠基者，先于成吉思汗去世",
+          "relationship_type": "亲子（血统存疑）",
+          "source": "《蒙古秘史》《史集》",
+          "disputed": true,
+          "note": "孛儿帖曾被蔑儿乞部掳走后归，术赤血统历来有争议，《蒙古秘史》与波斯史料记载不一，察合台曾当众称其蔑儿乞种"
+        },
+        {
+          "name": "察合台",
+          "gender": "男",
+          "mother": "孛儿帖",
+          "order_among_siblings": "次子",
+          "title_or_fate": "察合台汗国奠基者，掌札撒法典",
+          "relationship_type": "亲子",
+          "source": "《元史·宗室世系表》《史集》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "窝阔台",
+          "gender": "男",
+          "mother": "孛儿帖",
+          "order_among_siblings": "第三子",
+          "title_or_fate": "即太宗，第二代大汗",
+          "relationship_type": "亲子",
+          "source": "《元史·太宗本纪》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "拖雷",
+          "gender": "男",
+          "mother": "孛儿帖",
+          "order_among_siblings": "第四子",
+          "title_or_fate": "睿宗（追尊），1227–1229年监国，蒙哥、忽必烈、旭烈兀、阿里不哥之父",
+          "relationship_type": "亲子",
+          "source": "《元史·睿宗传》《蒙古秘史》",
+          "disputed": true,
+          "note": "拖雷之死存疑：《蒙古秘史》载其为替窝阔台禳病饮咒水而死；后世及波斯史料有被窝阔台一系暗害之说，记载互相矛盾"
+        },
+        {
+          "name": "阔列坚",
+          "gender": "男",
+          "mother": "忽兰",
+          "order_among_siblings": "庶子",
+          "title_or_fate": "封河间王，死于征斡罗思之役",
+          "relationship_type": "亲子",
+          "source": "《元史·宗室世系表》",
+          "disputed": false,
+          "note": ""
+        }
+      ],
+      "notes": "大蒙古国时期无年号。后妃按四斡耳朵制度排列，元朝皇后中同名弘吉剌氏者众多，需以所属斡耳朵及皇帝区分。元朝建立后追尊太祖。"
+    },
+    {
+      "order": 2,
+      "name": "孛儿只斤·窝阔台",
+      "temple_name": "太宗",
+      "posthumous_name": "英文皇帝",
+      "era_names": ["无年号（大蒙古国时期）"],
+      "reign": "1229–1241",
+      "relation_to_previous": "太祖第三子，成吉思汗遗命继承人；太祖死后由拖雷监国两年，1229年经忽里台大会即位",
+      "achievements": [
+        "1234年联宋灭金，金朝灭亡",
+        "1235年命拔都统率长子西征，兵锋远及东欧多瑙河流域",
+        "定都和林，营建万安宫，奠定汗廷规模",
+        "任用耶律楚材行汉法，确立赋税制度，设十路课税所",
+        "完善站赤（驿站）制度，分封诸王划定各兀鲁思疆域"
+      ],
+      "sources": ["《元史·太宗本纪》", "《蒙古秘史》", "《世界征服者史》"],
+      "spouses": [
+        {
+          "name": "孛剌合真",
+          "title": "皇后",
+          "type": "皇后（第一斡耳朵）",
+          "children": [],
+          "source": "《元史·后妃传》",
+          "disputed": false,
+          "note": "正宫皇后，事迹记载较略"
+        },
+        {
+          "name": "乃马真·脱列哥那",
+          "title": "六皇后",
+          "type": "皇后",
+          "children": ["贵由", "阔端", "阔出", "哈剌察儿", "合失"],
+          "source": "《元史·后妃传》",
+          "disputed": false,
+          "note": "乃马真部人。1241年太宗死后称制摄政（至1246年），宠信奥都剌合蛮等，朝政紊乱，史称乃马真后称制"
+        }
+      ],
+      "children": [
+        {
+          "name": "贵由",
+          "gender": "男",
+          "mother": "脱列哥那",
+          "order_among_siblings": "长子",
+          "title_or_fate": "即定宗，第三代大汗",
+          "relationship_type": "亲子",
+          "source": "《元史·定宗本纪》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "阔端",
+          "gender": "男",
+          "mother": "脱列哥那",
+          "order_among_siblings": "次子",
+          "title_or_fate": "凉州王，1247年主持凉州会盟，萨迦班智达归附，吐蕃纳入蒙古统治",
+          "relationship_type": "亲子",
+          "source": "《元史·宗室世系表》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "阔出",
+          "gender": "男",
+          "mother": "脱列哥那",
+          "order_among_siblings": "第三子",
+          "title_or_fate": "太宗原定继承人，1236年早卒于征宋军中，其子失烈门一度为汗位候选",
+          "relationship_type": "亲子",
+          "source": "《元史·太宗本纪》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "哈剌察儿",
+          "gender": "男",
+          "mother": "脱列哥那",
+          "order_among_siblings": "第四子",
+          "title_or_fate": "其后裔形成窝阔台汗国一系",
+          "relationship_type": "亲子",
+          "source": "《元史·宗室世系表》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "合失",
+          "gender": "男",
+          "mother": "脱列哥那",
+          "order_among_siblings": "第五子",
+          "title_or_fate": "嗜酒早卒，其子海都后为窝阔台汗国大汗，长期与元廷为敌",
+          "relationship_type": "亲子",
+          "source": "《元史·宗室世系表》",
+          "disputed": false,
+          "note": ""
+        }
+      ],
+      "notes": "死后皇后脱列哥那（乃马真后）称制摄政五年，汗位空悬，诸王政出多门。"
+    },
+    {
+      "order": 3,
+      "name": "孛儿只斤·贵由",
+      "temple_name": "定宗",
+      "posthumous_name": "简平皇帝",
+      "era_names": ["无年号（大蒙古国时期）"],
+      "reign": "1246–1248",
+      "relation_to_previous": "太宗长子，乃马真后称制五年后经忽里台大会推举即位",
+      "achievements": [
+        "1246年经忽里台大会正式即位，结束乃马真后称制局面，处死宠臣奥都剌合蛮",
+        "接见罗马教皇英诺森四世使节柏朗嘉宾，回书教皇（国书现存梵蒂冈档案馆）",
+        "因与钦察汗拔都不睦，1248年托言养病率兵西进，途中暴卒于横相乙儿之地"
+      ],
+      "sources": ["《元史·定宗本纪》", "《史集》", "《柏朗嘉宾蒙古行纪》"],
+      "spouses": [
+        {
+          "name": "斡兀立·海迷失",
+          "title": "钦淑皇后",
+          "type": "皇后",
+          "children": ["忽察", "脑忽"],
+          "source": "《元史·后妃传》",
+          "disputed": true,
+          "note": "贵由死后抱幼主失烈门称制摄政（1248–1251），《元史》与波斯史料对其摄政记载混乱矛盾；蒙哥即位后以巫蛊罪名被裹毡沉河处死"
+        }
+      ],
+      "children": [
+        {
+          "name": "忽察",
+          "gender": "男",
+          "mother": "斡兀立·海迷失",
+          "order_among_siblings": "长子",
+          "title_or_fate": "蒙哥即位后被流放西方",
+          "relationship_type": "亲子",
+          "source": "《元史·宗室世系表》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "脑忽",
+          "gender": "男",
+          "mother": "斡兀立·海迷失",
+          "order_among_siblings": "次子",
+          "title_or_fate": "蒙哥朝与失烈门等谋复辟，事败被流放，后随忽必烈南征",
+          "relationship_type": "亲子",
+          "source": "《元史·宪宗本纪》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "禾忽",
+          "gender": "男",
+          "mother": "不详（一说海迷失后所生）",
+          "order_among_siblings": "幼子",
+          "title_or_fate": "封禾忽大王，后附阿里不哥反对忽必烈",
+          "relationship_type": "亲子",
+          "source": "《元史·宗室世系表》",
+          "disputed": true,
+          "note": "生母记载不一，《元史》宗室世系表列于定宗三子，未详生母"
+        }
+      ],
+      "notes": "在位不足三年。死后海迷失后称制摄政，引发窝阔台系与拖雷系的汗位之争，最终汗权转入拖雷系。"
+    },
+    {
+      "order": 4,
+      "name": "孛儿只斤·蒙哥",
+      "temple_name": "宪宗",
+      "posthumous_name": "桓肃皇帝",
+      "era_names": ["无年号（大蒙古国时期）"],
+      "reign": "1251–1259",
+      "relation_to_previous": "睿宗拖雷嫡长子，定宗贵由堂弟；在拔都支持下夺位，汗位自窝阔台系转入拖雷系",
+      "achievements": [
+        "1251年经忽里台大会即位，清洗窝阔台、察合台系反对诸王，强化汗权",
+        "命忽必烈总领漠南汉地军国庶事，开金莲川幕府",
+        "命旭烈兀西征，灭木剌夷国与阿拔斯王朝，奠定伊利汗国",
+        "命忽必烈远征，1254年灭大理国",
+        "1258年亲征南宋，次年卒于合州钓鱼城下"
+      ],
+      "sources": ["《元史·宪宗本纪》", "《史集》", "《世界征服者史》"],
+      "spouses": [
+        {
+          "name": "忽都台",
+          "title": "贞节皇后",
+          "type": "皇后（大斡耳朵）",
+          "children": ["班秃", "玉龙答失", "昔里吉"],
+          "source": "《元史·后妃传》",
+          "disputed": false,
+          "note": "弘吉剌氏"
+        },
+        {
+          "name": "也速儿",
+          "title": "皇后",
+          "type": "皇后",
+          "children": [],
+          "source": "《元史·后妃传》",
+          "disputed": false,
+          "note": "弘吉剌氏，忽都台皇后之妹，姐姐死后继位大斡耳朵"
+        }
+      ],
+      "children": [
+        {
+          "name": "班秃",
+          "gender": "男",
+          "mother": "忽都台",
+          "order_among_siblings": "长子",
+          "title_or_fate": "早卒",
+          "relationship_type": "亲子",
+          "source": "《元史·宗室世系表》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "玉龙答失",
+          "gender": "男",
+          "mother": "忽都台",
+          "order_among_siblings": "第三子",
+          "title_or_fate": "阿里不哥败后归附忽必烈，封吴王",
+          "relationship_type": "亲子",
+          "source": "《元史·宗室世系表》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "昔里吉",
+          "gender": "男",
+          "mother": "忽都台",
+          "order_among_siblings": "第四子",
+          "title_or_fate": "1276年于漠北发动昔里吉之乱，劫持那木罕，兵败被擒",
+          "relationship_type": "亲子",
+          "source": "《元史·世祖本纪》",
+          "disputed": false,
+          "note": ""
+        }
+      ],
+      "notes": "暴卒于钓鱼城下，死因有病死与伤死二说。其死引发忽必烈与阿里不哥汗位之争，大蒙古国事实上走向分裂。"
+    },
+    {
+      "order": 5,
+      "name": "孛儿只斤·忽必烈",
+      "temple_name": "世祖",
+      "posthumous_name": "圣德神功文武皇帝",
+      "era_names": ["中统（1260–1264）", "至元（1264–1294）"],
+      "reign": "1260–1294",
+      "relation_to_previous": "睿宗拖雷第四子，宪宗蒙哥同母弟；蒙哥死后在开平抢先称汗，击败阿里不哥",
+      "achievements": [
+        "1260年于开平即汗位，建元中统，经四年战争击败阿里不哥",
+        "1271年取《易经》大哉乾元之义建国号大元，1272年改中都为大都并定都",
+        "1276年下临安，1279年崖山灭宋，完成全国统一",
+        "确立行省制度、站赤制度与钞法，奠定有元一代制度规模",
+        "设宣政院管辖吐蕃，西藏正式纳入中央政权直接管辖",
+        "两度征日本及安南、占城、爪哇，多无功而返"
+      ],
+      "sources": ["《元史·世祖本纪》", "《史集》", "《马可波罗行纪》"],
+      "spouses": [
+        {
+          "name": "察必",
+          "title": "昭睿顺圣皇后",
+          "type": "皇后（大斡耳朵）",
+          "children": ["朵儿只", "真金", "忙哥剌", "那木罕"],
+          "source": "《元史·后妃传》",
+          "disputed": false,
+          "note": "弘吉剌氏，元代著名贤后，曾谏止圈占京畿民田牧马，1281年去世"
+        },
+        {
+          "name": "南必",
+          "title": "皇后",
+          "type": "皇后（第二斡耳朵）",
+          "children": ["铁蔑赤"],
+          "source": "《元史·后妃传》",
+          "disputed": false,
+          "note": "弘吉剌氏，察必皇后从侄（族）女，察必死后入主后宫，世祖晚年预政。注意与其他弘吉剌氏皇后区分"
+        }
+      ],
+      "children": [
+        {
+          "name": "朵儿只",
+          "gender": "男",
+          "mother": "察必",
+          "order_among_siblings": "长子",
+          "title_or_fate": "早卒",
+          "relationship_type": "亲子",
+          "source": "《元史·宗室世系表》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "真金",
+          "gender": "男",
+          "mother": "察必",
+          "order_among_siblings": "次子",
+          "title_or_fate": "至元十年立为皇太子，1285年先世祖而卒，后追尊裕宗；成宗、武宗、仁宗、泰定帝皆出其系",
+          "relationship_type": "亲子",
+          "source": "《元史·裕宗传》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "忙哥剌",
+          "gender": "男",
+          "mother": "察必",
+          "order_among_siblings": "第三子",
+          "title_or_fate": "封安西王，镇关中，死后其子阿难答争位失败被杀",
+          "relationship_type": "亲子",
+          "source": "《元史·宗室世系表》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "那木罕",
+          "gender": "男",
+          "mother": "察必",
+          "order_among_siblings": "第四子",
+          "title_or_fate": "封北平王镇漠北，曾被叛王昔里吉劫持",
+          "relationship_type": "亲子",
+          "source": "《元史·宗室世系表》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "忽哥赤",
+          "gender": "男",
+          "mother": "不详",
+          "order_among_siblings": "第五子",
+          "title_or_fate": "封云南王镇云南，1271年被都元帅宝合丁毒杀",
+          "relationship_type": "亲子",
+          "source": "《元史·宗室世系表》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "脱欢",
+          "gender": "男",
+          "mother": "不详",
+          "order_among_siblings": "第九子",
+          "title_or_fate": "封镇南王，两征安南失利，谪居扬州",
+          "relationship_type": "亲子",
+          "source": "《元史·宗室世系表》",
+          "disputed": false,
+          "note": ""
+        }
+      ],
+      "notes": "世祖诸子中以真金一系承继帝统。四斡耳朵后妃众多，记载散见，此处仅录《元史·后妃传》有传之主位皇后。"
+    },
+    {
+      "order": 6,
+      "name": "孛儿只斤·铁穆耳",
+      "temple_name": "成宗",
+      "posthumous_name": "钦明广孝皇帝",
+      "era_names": ["元贞（1295–1297）", "大德（1297–1307）"],
+      "reign": "1294–1307",
+      "relation_to_previous": "世祖之孙，裕宗真金第三子，太子真金早卒后以皇太孙身份继位",
+      "achievements": [
+        "停止大规模对外用兵，罢征日本、安南之役，与民休息，史称大德之治",
+        "1301年海山等于按台山击败海都，1304年西北诸王约和，海都、笃哇之乱终告平息",
+        "重申《至元新格》，整顿吏治，减免积欠赋税",
+        "晚年多病，皇后卜鲁罕与大臣哈剌哈孙等秉政"
+      ],
+      "sources": ["《元史·成宗本纪》"],
+      "spouses": [
+        {
+          "name": "失怜答里",
+          "title": "贞慈静懿皇后",
+          "type": "皇后",
+          "children": ["德寿"],
+          "source": "《元史·后妃传》",
+          "disputed": false,
+          "note": "弘吉剌氏，早卒，成宗即位后追册"
+        },
+        {
+          "name": "卜鲁罕",
+          "title": "皇后",
+          "type": "皇后",
+          "children": [],
+          "source": "《元史·后妃传》",
+          "disputed": false,
+          "note": "伯岳吾氏。成宗晚年干政；成宗死后谋立安西王阿难答，被爱育黎拔力八达、海山政变推翻，赐死"
+        }
+      ],
+      "children": [
+        {
+          "name": "德寿",
+          "gender": "男",
+          "mother": "失怜答里",
+          "order_among_siblings": "独子",
+          "title_or_fate": "1305年立为皇太子，数月而卒",
+          "relationship_type": "亲子",
+          "source": "《元史·宗室世系表》",
+          "disputed": false,
+          "note": ""
+        }
+      ],
+      "notes": "独子德寿早夭，死后无嗣，皇位转入真金次子答剌麻八剌一系（海山兄弟）。"
+    },
+    {
+      "order": 7,
+      "name": "孛儿只斤·海山",
+      "temple_name": "武宗",
+      "posthumous_name": "仁惠宣孝皇帝",
+      "era_names": ["至大（1308–1311）"],
+      "reign": "1307–1311",
+      "relation_to_previous": "世祖曾孙，答剌麻八剌（真金次子，追尊顺宗）长子，成宗之侄；其弟爱育黎拔力八达先在大都发动政变，海山自漠北率军南下入继大统",
+      "achievements": [
+        "长期镇戍漠北，屡败海都，1301年按台山之战重创窝阔台汗国主力，威重西北",
+        "挫败卜鲁罕皇后与阿难答之谋，平定成宗死后的继承危机",
+        "封弟爱育黎拔力八达为皇太弟，相约兄弟叔侄世世相承（武仁授受之约）",
+        "设尚书省，行至大银钞、铸大元通宝钱，更定钞法",
+        "滥封王爵、大兴土木营建中都，府库亏耗，财政转坏"
+      ],
+      "sources": ["《元史·武宗本纪》"],
+      "spouses": [
+        {
+          "name": "真哥",
+          "title": "宣慈惠圣皇后",
+          "type": "皇后（长秋寺正宫）",
+          "children": [],
+          "source": "《元史·后妃传》",
+          "disputed": false,
+          "note": "弘吉剌氏"
+        },
+        {
+          "name": "速哥失里",
+          "title": "皇后",
+          "type": "皇后",
+          "children": [],
+          "source": "《元史·后妃传》",
+          "disputed": false,
+          "note": "弘吉剌氏，真哥皇后从妹。注意与英宗皇后速哥八剌（亦乞烈氏）名近而族异"
+        },
+        {
+          "name": "亦乞烈氏",
+          "title": "妃",
+          "type": "妃",
+          "children": ["和世㻋"],
+          "source": "《元史·明宗本纪》",
+          "disputed": false,
+          "note": "明宗生母，奴伦公主（成吉思汗外孙女）之女"
+        },
+        {
+          "name": "唐兀氏",
+          "title": "妃",
+          "type": "妃",
+          "children": ["图帖睦尔"],
+          "source": "《元史·文宗本纪》",
+          "disputed": false,
+          "note": "文宗生母"
+        }
+      ],
+      "children": [
+        {
+          "name": "和世㻋",
+          "gender": "男",
+          "mother": "亦乞烈氏",
+          "order_among_siblings": "长子",
+          "title_or_fate": "即明宗；仁宗即位后依武仁授受之约应为储贰，却被封为周王出镇云南，途中西走西北",
+          "relationship_type": "亲子",
+          "source": "《元史·明宗本纪》",
+          "disputed": true,
+          "note": "1329年自漠北南归即位，暴崩于旺忽察都之地。《庚申外史》等野史明载其为文宗与权臣燕铁木儿合谋毒杀，《元史》讳言其事，属元末帝统最大悬案"
+        },
+        {
+          "name": "图帖睦尔",
+          "gender": "男",
+          "mother": "唐兀氏",
+          "order_among_siblings": "次子",
+          "title_or_fate": "即文宗，两度在位（1328–1329，1329–1332）",
+          "relationship_type": "亲子",
+          "source": "《元史·文宗本纪》",
+          "disputed": false,
+          "note": ""
+        }
+      ],
+      "notes": "在位四年暴崩，年仅三十一岁。武仁授受之约后被仁宗背弃，为日后明宗、文宗两系帝位之争埋下伏笔。"
+    },
+    {
+      "order": 8,
+      "name": "孛儿只斤·爱育黎拔力八达",
+      "temple_name": "仁宗",
+      "posthumous_name": "圣文钦孝皇帝",
+      "era_names": ["皇庆（1312–1313）", "延祐（1314–1320）"],
+      "reign": "1311–1320",
+      "relation_to_previous": "武宗海山同母弟，以皇太弟身份继位",
+      "achievements": [
+        "即位即罢尚书省、废至大银钞、罢中都营建，全面整顿武宗弊政",
+        "1314年恢复科举（延祐复科），以程朱理学取士，为元代文化史大事",
+        "推行以儒治国，翻译刊行《贞观政要》《资治通鉴》等汉籍",
+        "延祐年间经理江浙、江西田赋（延祐经理），力图厘清赋税",
+        "背弃与武宗传位武宗之子的誓约，立己子硕德八剌为太子，逼周王和世㻋西走"
+      ],
+      "sources": ["《元史·仁宗本纪》"],
+      "spouses": [
+        {
+          "name": "阿纳失失里",
+          "title": "庄懿慈圣皇后",
+          "type": "皇后",
+          "children": ["硕德八剌"],
+          "source": "《元史·后妃传》",
+          "disputed": false,
+          "note": "弘吉剌氏，英宗生母，仁宗死后被尊为皇太后"
+        }
+      ],
+      "children": [
+        {
+          "name": "硕德八剌",
+          "gender": "男",
+          "mother": "阿纳失失里",
+          "order_among_siblings": "嫡子",
+          "title_or_fate": "即英宗",
+          "relationship_type": "亲子",
+          "source": "《元史·英宗本纪》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "兀都思不花",
+          "gender": "男",
+          "mother": "不详",
+          "order_among_siblings": "庶子",
+          "title_or_fate": "封安王，英宗朝因矫旨案被徙海南，途中被害",
+          "relationship_type": "亲子",
+          "source": "《元史·宗室世系表》",
+          "disputed": false,
+          "note": ""
+        }
+      ],
+      "notes": "毁约自立其子，激化武宗旧臣不满，间接引发英宗朝南坡之变，元朝中期政局由此多故。"
+    },
+    {
+      "order": 9,
+      "name": "孛儿只斤·硕德八剌",
+      "temple_name": "英宗",
+      "posthumous_name": "睿圣文孝皇帝",
+      "era_names": ["至治（1321–1323）"],
+      "reign": "1320–1323",
+      "relation_to_previous": "仁宗嫡子",
+      "achievements": [
+        "以拜住为中书左丞相，推行至治新政，裁汰冗官、行助役法、减省造作",
+        "1323年颁行《大元通制》，为元朝第二部系统法典",
+        "清算太皇太后答己宠臣铁木迭儿贪赃旧案，触动保守势力",
+        "1323年自上都南返，途中于南坡店被御史大夫铁失等弑杀，史称南坡之变"
+      ],
+      "sources": ["《元史·英宗本纪》"],
+      "spouses": [
+        {
+          "name": "速哥八剌",
+          "title": "庄静懿圣皇后",
+          "type": "皇后",
+          "children": [],
+          "source": "《元史·后妃传》",
+          "disputed": false,
+          "note": "亦乞烈氏，与明宗生母亦乞烈氏同族而异人；南坡之变后郁郁而终"
+        }
+      ],
+      "children": [],
+      "notes": "无子嗣。被弑后漠北晋王也孙铁木儿（甘麻剌之子）入继大统，帝位由答剌麻八剌系转入甘麻剌系。"
+    },
+    {
+      "order": 10,
+      "name": "孛儿只斤·也孙铁木儿",
+      "temple_name": null,
+      "posthumous_name": null,
+      "era_names": ["泰定（1324–1328）", "致和（1328）"],
+      "reign": "1323–1328",
+      "relation_to_previous": "世祖曾孙，甘麻剌（真金长子，追尊显宗）之子，武宗、仁宗之堂侄，英宗之堂叔；南坡之变后以晋王受推戴入继",
+      "achievements": [
+        "南坡之变后受诸王推戴即位，旋即诛杀铁失等弑君逆党以自明于天下",
+        "在位五年朝政粗安，加恩诸王百官，以笼络手段弥合各派",
+        "崇信藏传佛教，大兴佛事，兴建大天源延圣寺等，国库耗损",
+        "重用回回人倒剌沙为中书左丞相，色目权贵势力复盛"
+      ],
+      "sources": ["《元史·泰定帝纪》"],
+      "spouses": [
+        {
+          "name": "八不罕",
+          "title": "皇后",
+          "type": "皇后（大斡耳朵）",
+          "children": ["阿速吉八"],
+          "source": "《元史·后妃传》",
+          "disputed": false,
+          "note": "弘吉剌氏，性悍妒能干政"
+        },
+        {
+          "name": "亦怜真八剌",
+          "title": "皇后",
+          "type": "皇后",
+          "children": [],
+          "source": "《元史·后妃传》",
+          "disputed": false,
+          "note": "泰定帝诸斡耳朵皇后之一，族属与事迹记载较略"
+        }
+      ],
+      "children": [
+        {
+          "name": "阿速吉八",
+          "gender": "男",
+          "mother": "八不罕",
+          "order_among_siblings": "长子",
+          "title_or_fate": "1328年于上都即位（天顺帝），两都之战败后下落不明",
+          "relationship_type": "亲子",
+          "source": "《元史·泰定帝纪》《元史·文宗本纪》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "八的麻亦儿间卜",
+          "gender": "男",
+          "mother": "不详",
+          "order_among_siblings": "次子",
+          "title_or_fate": "早卒",
+          "relationship_type": "亲子",
+          "source": "《元史·宗室世系表》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "小薛",
+          "gender": "男",
+          "mother": "不详",
+          "order_among_siblings": "第三子",
+          "title_or_fate": "早卒",
+          "relationship_type": "亲子",
+          "source": "《元史·宗室世系表》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "允丹藏卜",
+          "gender": "男",
+          "mother": "不详",
+          "order_among_siblings": "第四子",
+          "title_or_fate": "早卒",
+          "relationship_type": "亲子",
+          "source": "《元史·宗室世系表》",
+          "disputed": false,
+          "note": ""
+        }
+      ],
+      "notes": "文宗即位后削其庙谥，故无庙号、谥号，史以年号称泰定帝。两都之战后其一系退出帝统。"
+    },
+    {
+      "order": 11,
+      "name": "孛儿只斤·阿速吉八",
+      "temple_name": null,
+      "posthumous_name": null,
+      "era_names": ["天顺（1328）"],
+      "reign": "1328",
+      "relation_to_previous": "泰定帝长子；泰定帝暴崩于上都，权臣倒剌沙拥其即位",
+      "achievements": [
+        "1328年九岁即位于上都，改元天顺，朝政决于左丞相倒剌沙",
+        "两都之战中上都军败于燕铁木儿所率大都军，上都陷落后下落不明，《元史》不载其终"
+      ],
+      "sources": ["《元史·泰定帝纪》", "《元史·文宗本纪》"],
+      "spouses": [],
+      "children": [],
+      "notes": "在位仅月余，无庙谥，史称天顺帝。《元史》未为其立本纪，事迹附见泰定帝、文宗纪。"
+    },
+    {
+      "order": 12,
+      "name": "孛儿只斤·图帖睦尔",
+      "temple_name": "文宗",
+      "posthumous_name": "圣明元孝皇帝",
+      "era_names": ["天历（1328–1330）", "至顺（1330–1332）"],
+      "reign": "1328–1332（1329年一度让位明宗，明宗暴崩后复位）",
+      "relation_to_previous": "武宗海山次子，明宗和世㻋之弟；先由大都政权拥立，灭天顺帝后迎立其兄，兄死后复位",
+      "achievements": [
+        "两都之战中依靠燕铁木儿击灭上都天顺政权，夺取帝位",
+        "1329年遣使迎立其兄和世㻋（明宗）于漠北，明宗暴崩后复位",
+        "开设奎章阁学士院，聚集虞集、柯九思等文臣，兴文治、鉴书画",
+        "敕修《经世大典》八百八十卷，为有元一代政书巨编",
+        "加封孔子后裔及儒学名臣，崇儒表象显著"
+      ],
+      "sources": ["《元史·文宗本纪》"],
+      "spouses": [
+        {
+          "name": "卜答失里",
+          "title": "皇后",
+          "type": "皇后（大斡耳朵）",
+          "children": ["阿剌忒纳答剌", "燕帖古思", "太平讷"],
+          "source": "《元史·后妃传》",
+          "disputed": false,
+          "note": "弘吉剌氏。文宗死后遵遗诏先后立明宗二子（宁宗、顺帝），顺帝初被尊太皇太后，1340年被追罪黜徙，赐死于东安州"
+        }
+      ],
+      "children": [
+        {
+          "name": "阿剌忒纳答剌",
+          "gender": "男",
+          "mother": "卜答失里",
+          "order_among_siblings": "长子",
+          "title_or_fate": "1330年立为皇太子，次年夭折",
+          "relationship_type": "亲子",
+          "source": "《元史·宗室世系表》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "燕帖古思",
+          "gender": "男",
+          "mother": "卜答失里",
+          "order_among_siblings": "次子",
+          "title_or_fate": "文宗死后依遗命未得立；1340年顺帝追究明宗之死，被流放高丽，途中遇害",
+          "relationship_type": "亲子",
+          "source": "《元史·顺帝本纪》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "太平讷",
+          "gender": "男",
+          "mother": "卜答失里",
+          "order_among_siblings": "幼子",
+          "title_or_fate": "早卒",
+          "relationship_type": "亲子",
+          "source": "《元史·宗室世系表》",
+          "disputed": false,
+          "note": ""
+        }
+      ],
+      "notes": "临终悔夺兄位，遗命传位明宗之子。《庚申外史》等记其与燕铁木儿合谋于旺忽察都毒杀明宗，《元史》讳而不书，为元代著名宫闱悬案。"
+    },
+    {
+      "order": 13,
+      "name": "孛儿只斤·和世㻋",
+      "temple_name": "明宗",
+      "posthumous_name": "翼献景孝皇帝",
+      "era_names": ["无（1329年即位，未及改元，沿用天历年号）"],
+      "reign": "1329",
+      "relation_to_previous": "武宗海山长子，文宗之兄；文宗平定两都后依约迎立",
+      "achievements": [
+        "仁宗朝被封周王出镇云南，途中西走西北，得察合台后王与漠北诸王拥戴",
+        "1329年应文宗之迎南归，即皇帝位于和林之北，立文宗为皇太子",
+        "与文宗相会于旺忽察都，宴乐四日后暴崩，在位仅约半年"
+      ],
+      "sources": ["《元史·明宗本纪》", "《庚申外史》"],
+      "spouses": [
+        {
+          "name": "八不沙",
+          "title": "贞裕徽圣皇后",
+          "type": "皇后",
+          "children": ["懿璘质班"],
+          "source": "《元史·后妃传》",
+          "disputed": false,
+          "note": "明宗死后留居京师，1330年被文宗后卜答失里与宦官构陷赐死（野史有推入烧羊火坑之说）"
+        },
+        {
+          "name": "迈来迪",
+          "title": "妃",
+          "type": "妃",
+          "children": ["妥懽帖睦尔"],
+          "source": "《元史·顺帝本纪》",
+          "disputed": false,
+          "note": "罕禄鲁（葛逻禄）氏，顺帝生母，生顺帝后早卒"
+        }
+      ],
+      "children": [
+        {
+          "name": "妥懽帖睦尔",
+          "gender": "男",
+          "mother": "迈来迪",
+          "order_among_siblings": "长子",
+          "title_or_fate": "即惠宗（元顺帝），元朝作为全国性政权的末代皇帝",
+          "relationship_type": "亲子（身世有野史争议）",
+          "source": "《元史·顺帝本纪》",
+          "disputed": true,
+          "note": "庚申帝传说：《庚申外史》及明人野史称其为宋恭帝赵㬎之子，谓明宗见而养为己子；《元史》不载，明初史臣亦仅作为传闻附录，后世史家多视为附会之说"
+        },
+        {
+          "name": "懿璘质班",
+          "gender": "男",
+          "mother": "八不沙",
+          "order_among_siblings": "次子",
+          "title_or_fate": "即宁宗",
+          "relationship_type": "亲子",
+          "source": "《元史·宁宗本纪》",
+          "disputed": false,
+          "note": ""
+        }
+      ],
+      "notes": "暴崩一事传为文宗与燕铁木儿毒杀（《庚申外史》），《元史》讳之。其死使帝统名义上回归明宗一系，二子相继为帝。"
+    },
+    {
+      "order": 14,
+      "name": "孛儿只斤·懿璘质班",
+      "temple_name": "宁宗",
+      "posthumous_name": "冲圣嗣孝皇帝",
+      "era_names": ["至顺（沿用，1332）"],
+      "reign": "1332",
+      "relation_to_previous": "明宗次子，文宗之侄；文宗死后卜答失里皇后遵文宗遗命拥立",
+      "achievements": [
+        "七岁被拥立即位，遵文宗遗命承统",
+        "在位五十三日即夭折"
+      ],
+      "sources": ["《元史·宁宗本纪》"],
+      "spouses": [],
+      "children": [],
+      "notes": "元朝在位时间最短的皇帝之一，无子嗣，死后由明宗长子妥懽帖睦尔继位。"
+    },
+    {
+      "order": 15,
+      "name": "孛儿只斤·妥懽帖睦尔",
+      "temple_name": "惠宗（北元所上庙号，明太祖谥为顺帝）",
+      "posthumous_name": "宣仁普孝皇帝（北元谥）；明太祖谥顺帝",
+      "era_names": ["元统（1333–1335）", "至元（1335–1340）", "至正（1341–1368）"],
+      "reign": "1333–1368（北走后北元续用至正年号，1370年卒于应昌）",
+      "relation_to_previous": "明宗长子，宁宗之兄；宁宗夭折后经曲折迎立，1340年亲政",
+      "achievements": [
+        "1340年黜逐权相伯颜，起用脱脱推行至正更化，恢复科举、开放言路",
+        "诏修辽、金、宋三史（1343–1345），确立三史并立格局",
+        "任用贾鲁治理黄河（1351），役使繁重成为红巾起义导火索之一",
+        "在位后期宫廷内斗（奇皇后、太子逼宫之谋）与军阀混战频仍，朝政日坏",
+        "1368年明军逼近大都，弃城北走上都、应昌，元朝作为全国性政权终结"
+      ],
+      "sources": ["《元史·顺帝本纪》", "《庚申外史》"],
+      "spouses": [
+        {
+          "name": "答纳失里",
+          "title": "皇后",
+          "type": "皇后（第一皇后）",
+          "children": [],
+          "source": "《元史·后妃传》",
+          "disputed": false,
+          "note": "钦察氏，权臣燕铁木儿之女。1335年其兄唐其势谋反败死，被牵连废黜，鸩死于开平民舍"
+        },
+        {
+          "name": "伯颜忽都",
+          "title": "皇后",
+          "type": "皇后（大斡耳朵正宫）",
+          "children": ["真金"],
+          "source": "《元史·后妃传》",
+          "disputed": false,
+          "note": "弘吉剌氏，性节俭守礼，生皇子真金二岁而夭"
+        },
+        {
+          "name": "完者忽都（奇皇后）",
+          "title": "皇后（第二皇后，1365年晋正宫）",
+          "type": "皇后",
+          "children": ["爱猷识理达腊"],
+          "source": "《元史·后妃传》",
+          "disputed": false,
+          "note": "奇氏，高丽幸州人，以高丽贡女入宫，初为顺帝宫人，因生皇太子爱猷识理达腊晋位第二皇后，元末深预朝政，与太子谋内禅未果"
+        }
+      ],
+      "children": [
+        {
+          "name": "真金",
+          "gender": "男",
+          "mother": "伯颜忽都",
+          "order_among_siblings": "长子",
+          "title_or_fate": "二岁而夭（与世祖太子真金同名，注意区分）",
+          "relationship_type": "亲子",
+          "source": "《元史·后妃传》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "爱猷识理达腊",
+          "gender": "男",
+          "mother": "完者忽都（奇皇后）",
+          "order_among_siblings": "次子（长兄早夭，实为存者最长）",
+          "title_or_fate": "1353年立为皇太子，1368年随驾北走，1370年即位于应昌，即北元昭宗",
+          "relationship_type": "亲子",
+          "source": "《元史·顺帝本纪》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "脱古思帖木儿",
+          "gender": "男",
+          "mother": "不详",
+          "order_among_siblings": "幼子（存疑）",
+          "title_or_fate": "北元天元帝（1378–1388），1388年捕鱼儿海之败后为也速迭儿所杀",
+          "relationship_type": "亲子（世系存疑）",
+          "source": "《元史》未载其名，明人记载（《明实录》等）",
+          "disputed": true,
+          "note": "其世系记载不一：明人记载多谓昭宗之子，亦有顺帝之子、昭宗之弟诸说，北元庙谥亦无定论"
+        }
+      ],
+      "notes": "明太祖以其顺应天命让国北走，谥之顺帝；北元谥宣仁普孝皇帝，庙号惠宗。庚申帝传说（谓其为宋恭帝赵㬎之子）见《庚申外史》，纯系野史传闻，然影响极大。"
+    }
+  ]
+}

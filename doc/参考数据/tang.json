@@ -1,0 +1,1898 @@
+{
+  "dynasty": "唐朝",
+  "period": "618–907（含武周 690–705）",
+  "emperors": [
+    {
+      "order": 1,
+      "name": "李渊",
+      "temple_name": "高祖",
+      "posthumous_name": "神尧大圣大光孝皇帝",
+      "era_names": ["武德"],
+      "reign": "618–626",
+      "relation_to_previous": "开国皇帝（隋末唐国公、太原留守，晋阳起兵后受隋恭帝禅让）",
+      "achievements": [
+        "晋阳起兵，攻占长安，立代王杨侑为帝以号令天下",
+        "武德元年受隋禅让，建立唐朝，定都长安",
+        "平定薛举、刘武周、宋金刚、王世充、窦建德、刘黑闼等割据势力，基本统一全国",
+        "颁行《武德律》，恢复均田制与租庸调制，奠定唐代制度基础"
+      ],
+      "sources": ["《旧唐书·高祖本纪》", "《新唐书·高祖本纪》", "《资治通鉴·唐纪》"],
+      "spouses": [
+        {
+          "name": "窦氏",
+          "title": "太穆皇后（追谥）",
+          "type": "皇后（追谥）",
+          "children": ["李建成", "李世民", "李玄霸", "李元吉", "平阳昭公主"],
+          "source": "《旧唐书·后妃传》",
+          "disputed": false,
+          "note": "隋定州总管、神武公窦毅之女，大业年间早逝，唐朝建立后追谥为皇后"
+        },
+        {
+          "name": "万贵妃",
+          "title": "贵妃",
+          "type": "妃嫔",
+          "children": ["李智云"],
+          "source": "《旧唐书·后妃传》",
+          "disputed": false,
+          "note": "性恭顺，高祖因窦皇后之故不再立后，宫中之事多咨于万贵妃"
+        },
+        {
+          "name": "尹德妃",
+          "title": "德妃",
+          "type": "妃嫔",
+          "children": ["李元亨"],
+          "source": "《旧唐书·后妃传》",
+          "disputed": false,
+          "note": "晚年得宠，与张婕妤结纳李建成、李元吉，卷入党争"
+        },
+        {
+          "name": "宇文昭仪",
+          "title": "昭仪",
+          "type": "妃嫔",
+          "children": ["李元嘉", "李灵夔"],
+          "source": "《旧唐书·后妃传》",
+          "disputed": false,
+          "note": "宇文化及之妹，有宠，高祖欲立为皇后，固辞不受"
+        }
+      ],
+      "children": [
+        {
+          "name": "李建成",
+          "gender": "男",
+          "mother": "窦氏（太穆皇后）",
+          "order_among_siblings": "长子",
+          "title_or_fate": "隐太子，玄武门之变中被李世民所杀",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·隐太子建成传》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "李世民",
+          "gender": "男",
+          "mother": "窦氏（太穆皇后）",
+          "order_among_siblings": "次子",
+          "title_or_fate": "唐太宗",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·太宗本纪》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "李玄霸",
+          "gender": "男",
+          "mother": "窦氏（太穆皇后）",
+          "order_among_siblings": "第三子",
+          "title_or_fate": "卫怀王，早逝",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·高祖二十二子传》",
+          "disputed": false,
+          "note": "后世小说《说唐》中“李元霸”的原型"
+        },
+        {
+          "name": "李元吉",
+          "gender": "男",
+          "mother": "窦氏（太穆皇后）",
+          "order_among_siblings": "第四子",
+          "title_or_fate": "齐王，玄武门之变中被杀，后追封巢王（谥剌）",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·巢剌王元吉传》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "李智云",
+          "gender": "男",
+          "mother": "万贵妃",
+          "order_among_siblings": "第五子",
+          "title_or_fate": "楚哀王，晋阳起兵时留河东，为隋吏所捕杀",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·高祖二十二子传》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "平阳昭公主",
+          "gender": "女",
+          "mother": "窦氏（太穆皇后）",
+          "order_among_siblings": "第三女",
+          "title_or_fate": "平阳昭公主，嫁柴绍",
+          "relationship_type": "亲子",
+          "source": "《新唐书·公主传》",
+          "disputed": false,
+          "note": "组织“娘子军”响应起兵，死后以军礼下葬，为唐代唯一以军礼葬的公主"
+        }
+      ],
+      "notes": "高祖共有二十二子、十九女，此处仅列知名者。武德九年玄武门之变后禅位于李世民，为太上皇，贞观九年崩。"
+    },
+    {
+      "order": 2,
+      "name": "李世民",
+      "temple_name": "太宗",
+      "posthumous_name": "文武大圣大广孝皇帝",
+      "era_names": ["贞观"],
+      "reign": "626–649",
+      "relation_to_previous": "高祖次子，玄武门之变杀太子建成、齐王元吉后继位（高祖内禅）",
+      "achievements": [
+        "平定群雄，为唐朝统一立下主要战功",
+        "开创“贞观之治”，虚心纳谏，任用魏徵、房玄龄、杜如晦等贤臣",
+        "灭东突厥，被西北各族尊为“天可汗”",
+        "灭高昌、击吐谷浑，置安西四镇，经营西域",
+        "以文成公主和亲吐蕃赞普松赞干布",
+        "完善三省六部、科举、府兵等制度，奠定盛唐基础"
+      ],
+      "sources": ["《旧唐书·太宗本纪》", "《新唐书·太宗本纪》", "《资治通鉴·唐纪》"],
+      "spouses": [
+        {
+          "name": "长孙氏",
+          "title": "文德皇后",
+          "type": "皇后",
+          "children": ["李承乾", "李泰", "李治", "长乐公主", "城阳公主", "晋阳公主", "新城公主"],
+          "source": "《旧唐书·后妃传》",
+          "disputed": false,
+          "note": "长孙无忌之妹，贤德著称，著《女则》，贞观十年卒"
+        },
+        {
+          "name": "韦珪",
+          "title": "韦贵妃",
+          "type": "妃嫔",
+          "children": ["李慎", "临川公主"],
+          "source": "《新唐书·后妃传》及出土《韦贵妃墓志》",
+          "disputed": false,
+          "note": "出身京兆韦氏，长孙皇后死后实际统领后宫"
+        },
+        {
+          "name": "徐惠",
+          "title": "贤妃（卒后追赠）",
+          "type": "妃嫔",
+          "children": [],
+          "source": "《旧唐书·后妃传》",
+          "disputed": false,
+          "note": "著名才女，曾上书谏太宗息兵罢土木；太宗崩后哀慕成疾而卒，追赠贤妃"
+        },
+        {
+          "name": "杨氏",
+          "title": "杨妃",
+          "type": "妃嫔",
+          "children": ["李恪", "李愔"],
+          "source": "《旧唐书·太宗诸子传》",
+          "disputed": false,
+          "note": "隋炀帝之女；太宗后宫另有巢王妃杨氏，史书混称，需注意区分"
+        }
+      ],
+      "children": [
+        {
+          "name": "李承乾",
+          "gender": "男",
+          "mother": "长孙氏（文德皇后）",
+          "order_among_siblings": "长子",
+          "title_or_fate": "皇太子，贞观十七年因谋反案被废为庶人",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·恒山愍王承乾传》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "李恪",
+          "gender": "男",
+          "mother": "杨妃",
+          "order_among_siblings": "第三子",
+          "title_or_fate": "吴王，永徽四年被长孙无忌构陷，缢死",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·太宗诸子传》",
+          "disputed": false,
+          "note": "太宗曾称其“英果类我”，欲立为太子未果"
+        },
+        {
+          "name": "李泰",
+          "gender": "男",
+          "mother": "长孙氏（文德皇后）",
+          "order_among_siblings": "第四子",
+          "title_or_fate": "魏王，争储失败被降封，后徙濮王",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·濮恭王泰传》",
+          "disputed": false,
+          "note": "主编《括地志》"
+        },
+        {
+          "name": "李祐",
+          "gender": "男",
+          "mother": "阴妃",
+          "order_among_siblings": "第五子",
+          "title_or_fate": "齐王，贞观十七年谋反，事败赐死",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·庶人祐传》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "李治",
+          "gender": "男",
+          "mother": "长孙氏（文德皇后）",
+          "order_among_siblings": "第九子",
+          "title_or_fate": "唐高宗",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·高宗本纪》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "长乐公主",
+          "gender": "女",
+          "mother": "长孙氏（文德皇后）",
+          "order_among_siblings": "第五女",
+          "title_or_fate": "长乐公主，嫁长孙冲，贞观十七年卒",
+          "relationship_type": "亲子",
+          "source": "《新唐书·公主传》",
+          "disputed": false,
+          "note": "名李丽质，墓志已出土"
+        },
+        {
+          "name": "高阳公主",
+          "gender": "女",
+          "mother": "生母不详（史料缺载）",
+          "order_among_siblings": "第十七女",
+          "title_or_fate": "高阳公主，嫁房遗爱，永徽四年涉房遗爱谋反案赐死",
+          "relationship_type": "亲子",
+          "source": "史料记载不详（事见《新唐书·公主传》）",
+          "disputed": true,
+          "note": "与玄奘弟子辩机私通案见《新唐书》，《旧唐书》不载，史家多疑为后人附会"
+        }
+      ],
+      "notes": "太宗共有十四子、二十一女，此处仅列知名者。玄武门之变的记载主要由贞观史臣修定，《旧唐书》《资治通鉴》所述对李建成、李元吉多有贬抑，现代史家（如陈寅恪）对记事的真实性多有辨析。太宗晚年服胡僧长生药，或与其死因有关。"
+    },
+    {
+      "order": 3,
+      "name": "李治",
+      "temple_name": "高宗",
+      "posthumous_name": "天皇大圣大弘孝皇帝",
+      "era_names": ["永徽", "显庆", "龙朔", "麟德", "乾封", "总章", "咸亨", "上元", "仪凤", "调露", "永隆", "开耀", "永淳", "弘道"],
+      "reign": "649–683",
+      "relation_to_previous": "太宗第九子（嫡三子），以皇太子继位",
+      "achievements": [
+        "即位初期延续贞观之治，史称“永徽之治”",
+        "颁行《永徽律疏》（即《唐律疏议》），为中华法系代表作",
+        "灭西突厥（657）、百济（660）、高句丽（668），唐朝版图臻于极盛",
+        "封禅泰山，东都洛阳地位上升，晚年与武则天并称“二圣”"
+      ],
+      "sources": ["《旧唐书·高宗本纪》", "《新唐书·高宗本纪》", "《资治通鉴·唐纪》"],
+      "spouses": [
+        {
+          "name": "王氏",
+          "title": "王皇后（被废）",
+          "type": "皇后",
+          "children": [],
+          "source": "《旧唐书·后妃传》",
+          "disputed": false,
+          "note": "永徽六年被废，旋与萧淑妃同遭武则天残杀；《新唐书》载武则天扼杀亲女安定思公主嫁祸王皇后，此事《旧唐书》不载，史家有争议（见武则天条）"
+        },
+        {
+          "name": "萧氏",
+          "title": "萧淑妃",
+          "type": "妃嫔",
+          "children": ["李素节", "义阳公主", "高安公主"],
+          "source": "《旧唐书·后妃传》",
+          "disputed": false,
+          "note": "与王皇后同时被废杀"
+        },
+        {
+          "name": "武则天",
+          "title": "皇后（后为武周皇帝）",
+          "type": "皇后",
+          "children": ["李弘", "李贤", "李显", "李旦", "安定思公主", "太平公主"],
+          "source": "《旧唐书·后妃传》",
+          "disputed": false,
+          "note": "原为太宗才人，永徽年间再度入宫，六年立为皇后；详见本文件 order 6.5 武则天专条"
+        }
+      ],
+      "children": [
+        {
+          "name": "李忠",
+          "gender": "男",
+          "mother": "宫人刘氏",
+          "order_among_siblings": "长子",
+          "title_or_fate": "燕王，初立为太子，后被废，显庆五年赐死",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·高宗诸子传》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "李素节",
+          "gender": "男",
+          "mother": "萧淑妃",
+          "order_among_siblings": "第四子",
+          "title_or_fate": "许王，载初元年被武则天遣人缢杀",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·高宗诸子传》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "李弘",
+          "gender": "男",
+          "mother": "武则天",
+          "order_among_siblings": "第五子",
+          "title_or_fate": "皇太子，暴卒于合璧宫，追谥孝敬皇帝",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·孝敬皇帝弘传》",
+          "disputed": true,
+          "note": "《新唐书》载其为武则天鸩杀，《旧唐书》仅言暴卒，史家多倾向病故（痨瘵）说，遇鸩说存疑"
+        },
+        {
+          "name": "李贤",
+          "gender": "男",
+          "mother": "武则天",
+          "order_among_siblings": "第六子",
+          "title_or_fate": "章怀太子，被废后逼令自尽",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·章怀太子贤传》",
+          "disputed": true,
+          "note": "注《后汉书》；当时宫中有传闻称其为武后姊韩国夫人武顺所生，《旧唐书》存此说，真伪无定论"
+        },
+        {
+          "name": "李显",
+          "gender": "男",
+          "mother": "武则天",
+          "order_among_siblings": "第七子",
+          "title_or_fate": "唐中宗",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·中宗本纪》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "李旦",
+          "gender": "男",
+          "mother": "武则天",
+          "order_among_siblings": "第八子",
+          "title_or_fate": "唐睿宗",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·睿宗本纪》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "安定思公主",
+          "gender": "女",
+          "mother": "武则天",
+          "order_among_siblings": "长女",
+          "title_or_fate": "早夭，追封安定公主，谥思",
+          "relationship_type": "亲子",
+          "source": "《新唐书·公主传》",
+          "disputed": true,
+          "note": "《新唐书》《资治通鉴》载武则天扼杀此女嫁祸王皇后，《旧唐书》不载，司马光亦自注存疑，现代史家多认为系后人诬饰"
+        },
+        {
+          "name": "太平公主",
+          "gender": "女",
+          "mother": "武则天",
+          "order_among_siblings": "幼女",
+          "title_or_fate": "太平公主，先天政变后被唐玄宗赐死",
+          "relationship_type": "亲子",
+          "source": "《新唐书·公主传》",
+          "disputed": false,
+          "note": "两嫁薛绍、武攸暨，参与神龙政变、唐隆政变，权倾一时"
+        }
+      ],
+      "notes": "高宗共有八子、四女，此处仅列知名者。高宗晚年患风疾，目不能视，政事多决于武后。"
+    },
+    {
+      "order": "6.5",
+      "name": "武曌",
+      "temple_name": "无（不入唐帝庙号；谥“则天大圣皇后”）",
+      "posthumous_name": "则天大圣皇后",
+      "era_names": ["光宅", "垂拱", "永昌", "载初", "天授", "如意", "长寿", "延载", "证圣", "天册万岁", "万岁登封", "万岁通天", "神功", "圣历", "久视", "大足", "长安", "神龙"],
+      "reign": "690–705（武周皇帝；684 年起以皇太后临朝称制）",
+      "relation_to_previous": "高宗皇后；高宗死后先后废中宗、立睿宗为傀儡，临朝称制，690 年称帝改国号为周；神龙政变后退位，中宗复位",
+      "achievements": [
+        "中国历史上唯一的正统女皇帝，改国号为周，定都洛阳（神都）",
+        "打击关陇门阀士族，扩大科举取士，首创殿试与武举",
+        "任用狄仁杰、姚崇、宋璟等贤臣，为开元盛世储备人才",
+        "重视农业生产，编《兆人本业》，社会经济持续发展",
+        "设立北庭都护府，恢复对西域的控制",
+        "晚年宠信张易之、张昌宗，神龙政变中被迫退位，同年去世"
+      ],
+      "sources": ["《旧唐书·则天皇后本纪》", "《新唐书·则天皇后本纪》", "《资治通鉴·唐纪》"],
+      "spouses": [
+        {
+          "name": "李治",
+          "title": "唐高宗",
+          "type": "皇后（其于高宗为后）",
+          "children": ["李弘", "李贤", "李显", "李旦", "安定思公主", "太平公主"],
+          "source": "《旧唐书·则天皇后本纪》",
+          "disputed": false,
+          "note": "武氏先为太宗才人，太宗死后入感业寺为尼，后被高宗召入宫中"
+        }
+      ],
+      "children": [
+        {
+          "name": "李弘",
+          "gender": "男",
+          "mother": "武曌（本人）",
+          "order_among_siblings": "长子",
+          "title_or_fate": "皇太子，暴卒，追谥孝敬皇帝",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·孝敬皇帝弘传》",
+          "disputed": true,
+          "note": "《新唐书》称其被武后鸩杀，史家有争议，见高宗条"
+        },
+        {
+          "name": "李贤",
+          "gender": "男",
+          "mother": "武曌（本人）",
+          "order_among_siblings": "次子",
+          "title_or_fate": "章怀太子，被废后逼死",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·章怀太子贤传》",
+          "disputed": true,
+          "note": "有传闻称其为武后姊韩国夫人所生，真伪无定论"
+        },
+        {
+          "name": "李显",
+          "gender": "男",
+          "mother": "武曌（本人）",
+          "order_among_siblings": "第三子",
+          "title_or_fate": "唐中宗",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·中宗本纪》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "李旦",
+          "gender": "男",
+          "mother": "武曌（本人）",
+          "order_among_siblings": "第四子",
+          "title_or_fate": "唐睿宗",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·睿宗本纪》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "安定思公主",
+          "gender": "女",
+          "mother": "武曌（本人）",
+          "order_among_siblings": "长女",
+          "title_or_fate": "早夭，追封安定公主",
+          "relationship_type": "亲子",
+          "source": "《新唐书·公主传》",
+          "disputed": true,
+          "note": "“武后杀女嫁祸王皇后”仅见《新唐书》《资治通鉴》，《旧唐书》不载，史家多存疑"
+        },
+        {
+          "name": "太平公主",
+          "gender": "女",
+          "mother": "武曌（本人）",
+          "order_among_siblings": "幼女",
+          "title_or_fate": "太平公主，先天政变后被赐死",
+          "relationship_type": "亲子",
+          "source": "《新唐书·公主传》",
+          "disputed": false,
+          "note": ""
+        }
+      ],
+      "notes": "特殊条目：非唐朝皇帝世系内人物。order 以 6.5 表示其为世系外的特殊插入条目；按时间顺序，其实际掌权（684 起临朝称制）与称帝（690–705）位于中宗、睿宗第一次在位之后、中宗复位之前，本表按用户要求将其置于高宗与中宗之间。称帝时改国号为“周”，史称武周。神龙政变后退位，去帝号，以“则天大圣皇后”身份与高宗合葬乾陵。"
+    },
+    {
+      "order": 4,
+      "name": "李显",
+      "temple_name": "中宗",
+      "posthumous_name": "大和大圣大昭孝皇帝",
+      "era_names": ["嗣圣", "神龙", "景龙"],
+      "reign": "684（第一次，仅一个多月）；705–710（复位）",
+      "relation_to_previous": "高宗第七子，武则天所生；第一次即位后被武后废为庐陵王，神龙政变后复位",
+      "achievements": [
+        "神龙元年借张柬之等发动的神龙政变复位，恢复唐朝国号",
+        "为武周时期被冤杀的宗室大臣平反",
+        "在位期间韦皇后、安乐公主干政，朝政混乱",
+        "将金城公主嫁予吐蕃赞普，延续唐蕃和亲"
+      ],
+      "sources": ["《旧唐书·中宗本纪》", "《新唐书·中宗本纪》", "《资治通鉴·唐纪》"],
+      "spouses": [
+        {
+          "name": "赵氏",
+          "title": "和思皇后（追谥）",
+          "type": "皇后（追谥）",
+          "children": [],
+          "source": "《旧唐书·后妃传》",
+          "disputed": false,
+          "note": "中宗为英王时的元妃，母常乐公主；被武则天幽禁而死，中宗复位后追谥"
+        },
+        {
+          "name": "韦氏",
+          "title": "韦皇后",
+          "type": "皇后",
+          "children": ["李重润", "李重福（存疑）", "永泰公主", "长宁公主", "安乐公主"],
+          "source": "《旧唐书·后妃传》",
+          "disputed": false,
+          "note": "中宗死后临朝称制，唐隆政变中被杀；《旧唐书》载其与安乐公主合谋毒杀中宗，部分现代学者（如黄永年）质疑此事或为政变方的政治宣传，存争议"
+        },
+        {
+          "name": "上官婉儿",
+          "title": "昭容",
+          "type": "妃嫔",
+          "children": [],
+          "source": "《旧唐书·后妃传》",
+          "disputed": false,
+          "note": "著名女诗人、政治家，掌诏命；唐隆政变中被杀；2013 年其墓志出土，部分内容与传世文献记载有异"
+        }
+      ],
+      "children": [
+        {
+          "name": "李重福",
+          "gender": "男",
+          "mother": "生母不详（史料缺载，一说韦氏）",
+          "order_among_siblings": "长子（庶长）",
+          "title_or_fate": "谯王，景云元年起兵反对睿宗，事败投水而死",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·中宗诸子传》",
+          "disputed": true,
+          "note": "因不为韦后所喜，被外放，其生母史书无明确记载"
+        },
+        {
+          "name": "李重润",
+          "gender": "男",
+          "mother": "韦皇后",
+          "order_among_siblings": "嫡长子",
+          "title_or_fate": "懿德太子，大足元年被武则天杖杀",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·懿德太子重润传》",
+          "disputed": false,
+          "note": "因与妹永泰公主、妹夫武延基私下议论二张（张易之、张昌宗）事，被杖杀；懿德太子墓已发掘"
+        },
+        {
+          "name": "李重俊",
+          "gender": "男",
+          "mother": "生母不详（史料缺载）",
+          "order_among_siblings": "第三子",
+          "title_or_fate": "节愍太子，景龙元年发动“景龙政变”诛武三思，事败被杀",
+          "relationship_type": "亲子",
+          "source": "史料记载不详（事见《旧唐书·节愍太子重俊传》）",
+          "disputed": true,
+          "note": "因非韦后所生，受安乐公主欺凌"
+        },
+        {
+          "name": "李重茂",
+          "gender": "男",
+          "mother": "生母不详（史料缺载）",
+          "order_among_siblings": "第四子",
+          "title_or_fate": "唐殇帝（少帝），被韦后立为傀儡，唐隆政变后被废",
+          "relationship_type": "亲子",
+          "source": "史料记载不详（事见《旧唐书·殇帝本纪》）",
+          "disputed": true,
+          "note": "在位不足一个月，史称少帝；按“唐朝二十一帝”口径计入，本表单列条目（order 4.5）"
+        },
+        {
+          "name": "永泰公主",
+          "gender": "女",
+          "mother": "韦皇后",
+          "order_among_siblings": "第六女",
+          "title_or_fate": "永泰公主，嫁武延基，大足元年卒",
+          "relationship_type": "亲子",
+          "source": "《新唐书·公主传》及出土《永泰公主墓志》",
+          "disputed": true,
+          "note": "正史载其与夫武延基同被武则天杖杀/逼死；出土墓志记“珠胎毁月”，学者据此认为可能死于难产，死因存争议"
+        },
+        {
+          "name": "安乐公主",
+          "gender": "女",
+          "mother": "韦皇后",
+          "order_among_siblings": "幼女",
+          "title_or_fate": "安乐公主，嫁武崇训（后改嫁武延秀），唐隆政变中被杀",
+          "relationship_type": "亲子",
+          "source": "《新唐书·公主传》",
+          "disputed": false,
+          "note": "曾要求中宗立自己为“皇太女”，未果"
+        }
+      ],
+      "notes": "中宗共四子、八女，此处仅列知名者。其死因：《旧唐书》《资治通鉴》载为韦后与安乐公主合谋鸩杀，近世学者有质疑说。"
+    },
+    {
+      "order": "4.5",
+      "name": "李重茂",
+      "temple_name": "无（谥殇皇帝，史称少帝）",
+      "posthumous_name": "殇皇帝",
+      "era_names": ["唐隆"],
+      "reign": "710（在位不足一个月）",
+      "relation_to_previous": "中宗第四子，中宗暴崩后被韦皇后立为傀儡皇帝",
+      "achievements": [
+        "中宗死后被韦皇后拥立，韦后临朝称制",
+        "李隆基与太平公主发动唐隆政变诛韦后，被废黜，睿宗复位",
+        "开元二年卒，谥殇皇帝"
+      ],
+      "sources": ["《旧唐书·殇帝本纪》", "《新唐书·殇帝本纪》", "《资治通鉴·唐纪》"],
+      "spouses": [
+        {
+          "name": "陆氏",
+          "title": "皇后",
+          "type": "皇后",
+          "children": [],
+          "source": "《旧唐书·殇帝本纪》",
+          "disputed": false,
+          "note": "韦后为殇帝所立，史料记载极少"
+        }
+      ],
+      "children": [],
+      "notes": "生母不详（史料缺载）。在位极短且为韦后傀儡，部分史书不将其计入唐朝正统皇帝世系；本表按“二十一帝”口径收录，order 以 4.5 表示插入位置。后妃、子女史料记载较少。"
+    },
+    {
+      "order": 5,
+      "name": "李旦",
+      "temple_name": "睿宗",
+      "posthumous_name": "玄真大圣大兴孝皇帝",
+      "era_names": ["文明", "光宅", "垂拱", "永昌", "载初（以上实为武则天称制时期年号）", "景云", "太极", "延和"],
+      "reign": "684–690（第一次，武则天傀儡）；710–712（复位）",
+      "relation_to_previous": "高宗第八子，中宗之弟，武则天所生；唐隆政变后由子李隆基与太平公主拥立复位",
+      "achievements": [
+        "第一次在位时拱手让位于母后武则天，得以保全",
+        "唐隆政变后复位，初期任用姚崇、宋璟，革除中宗朝弊政",
+        "三让天下（让母、让兄、让子），被史家称为宽厚之主",
+        "太极元年禅位于李隆基，自为太上皇"
+      ],
+      "sources": ["《旧唐书·睿宗本纪》", "《新唐书·睿宗本纪》", "《资治通鉴·唐纪》"],
+      "spouses": [
+        {
+          "name": "刘氏",
+          "title": "肃明皇后（追谥）",
+          "type": "皇后",
+          "children": ["李成器", "寿昌公主", "代国公主"],
+          "source": "《旧唐书·后妃传》",
+          "disputed": false,
+          "note": "长寿二年与窦德妃同被武则天秘密处死，尸骨下落不明，以招魂葬"
+        },
+        {
+          "name": "窦氏",
+          "title": "昭成皇后（追谥）",
+          "type": "妃嫔（德妃）",
+          "children": ["李隆基", "金仙公主", "玉真公主"],
+          "source": "《旧唐书·后妃传》",
+          "disputed": false,
+          "note": "唐玄宗生母，与刘皇后同日遇害"
+        },
+        {
+          "name": "豆卢氏",
+          "title": "贵妃",
+          "type": "妃嫔",
+          "children": [],
+          "source": "《旧唐书·后妃传》",
+          "disputed": false,
+          "note": "曾抚养年幼的李隆基"
+        }
+      ],
+      "children": [
+        {
+          "name": "李成器",
+          "gender": "男",
+          "mother": "刘氏（肃明皇后）",
+          "order_among_siblings": "长子",
+          "title_or_fate": "宁王，固让太子位于李隆基，死后追谥“让皇帝”",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·让皇帝宪传》",
+          "disputed": false,
+          "note": "本名李宪，避玄宗生母昭成皇后讳改名"
+        },
+        {
+          "name": "李隆基",
+          "gender": "男",
+          "mother": "窦氏（昭成皇后）",
+          "order_among_siblings": "第三子",
+          "title_or_fate": "唐玄宗",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·玄宗本纪》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "李隆范",
+          "gender": "男",
+          "mother": "生母不详（史料缺载）",
+          "order_among_siblings": "第四子",
+          "title_or_fate": "岐王，以好学爱士著称",
+          "relationship_type": "亲子",
+          "source": "史料记载不详（事见《旧唐书·惠文太子范传》）",
+          "disputed": true,
+          "note": "杜甫“岐王宅里寻常见”即此人"
+        },
+        {
+          "name": "李隆业",
+          "gender": "男",
+          "mother": "王德妃",
+          "order_among_siblings": "第五子",
+          "title_or_fate": "薛王，死后追赠惠宣太子",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·惠宣太子业传》",
+          "disputed": false,
+          "note": "母早卒，由豆卢贵妃抚养长大"
+        },
+        {
+          "name": "金仙公主",
+          "gender": "女",
+          "mother": "窦氏（昭成皇后）",
+          "order_among_siblings": "第八女",
+          "title_or_fate": "金仙公主，入道为女冠",
+          "relationship_type": "亲子",
+          "source": "《新唐书·公主传》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "玉真公主",
+          "gender": "女",
+          "mother": "窦氏（昭成皇后）",
+          "order_among_siblings": "第九女",
+          "title_or_fate": "玉真公主，入道为女冠，法号无上真",
+          "relationship_type": "亲子",
+          "source": "《新唐书·公主传》",
+          "disputed": false,
+          "note": "与王维、李白等诗人交游，曾向玄宗举荐二人"
+        }
+      ],
+      "notes": "睿宗共六子、十一女，此处仅列知名者。诸子在先天政变前后多避玄宗名讳改名（如成器改宪、隆范改范）。"
+    },
+    {
+      "order": 6,
+      "name": "李隆基",
+      "temple_name": "玄宗",
+      "posthumous_name": "至道大圣大明孝皇帝",
+      "era_names": ["先天", "开元", "天宝"],
+      "reign": "712–756",
+      "relation_to_previous": "睿宗第三子，受睿宗内禅即位（次年诛太平公主后亲政）",
+      "achievements": [
+        "发动唐隆政变诛韦皇后集团，拥立睿宗；先天政变诛太平公主，巩固皇权",
+        "开创“开元盛世”，任用姚崇、宋璟、张九龄等贤相，史称开元之治",
+        "改革兵制，以募兵制（彍骑、长征健儿）取代府兵制，广设节度使",
+        "开元年间户口殷盛、物价低廉、文教昌明，为唐朝鼎盛时期",
+        "晚年怠政，宠信李林甫、杨国忠，天宝十四载安史之乱爆发，西逃入蜀，太子李亨于灵武即位，被尊为太上皇"
+      ],
+      "sources": ["《旧唐书·玄宗本纪》", "《新唐书·玄宗本纪》", "《资治通鉴·唐纪》"],
+      "spouses": [
+        {
+          "name": "王氏",
+          "title": "王皇后（被废）",
+          "type": "皇后",
+          "children": [],
+          "source": "《旧唐书·后妃传》",
+          "disputed": false,
+          "note": "同州下邽人，开元十二年因“符厌之事”被废，旋卒"
+        },
+        {
+          "name": "武氏",
+          "title": "武惠妃（卒后追赠贞顺皇后）",
+          "type": "妃嫔",
+          "children": ["李一", "李敏", "李琩", "李琦", "咸宜公主", "太华公主"],
+          "source": "《旧唐书·后妃传》",
+          "disputed": false,
+          "note": "武攸止之女，专宠多年；构陷太子李瑛、鄂王李瑶、光王李琚，致玄宗一日杀三子"
+        },
+        {
+          "name": "杨玉环",
+          "title": "贵妃",
+          "type": "妃嫔",
+          "children": [],
+          "source": "《旧唐书·后妃传》",
+          "disputed": true,
+          "note": "原为寿王李琩妃，出家为女道士（号太真）后入宫，天宝四载册为贵妃；正史载天宝十五载马嵬驿兵变中被缢死（《旧唐书》《资治通鉴》）；民间另有“未死而东渡日本”之传说，正史无载，本标记针对该传说"
+        },
+        {
+          "name": "江采萍",
+          "title": "梅妃",
+          "type": "妃嫔",
+          "children": [],
+          "source": "《梅妃传》（宋代传奇小说）",
+          "disputed": true,
+          "note": "两《唐书》及其他正史均无记载，一般认为出自宋人传奇《梅妃传》，人物真实性存疑"
+        },
+        {
+          "name": "杨氏",
+          "title": "元献皇后（追谥）",
+          "type": "妃嫔（贵嫔）",
+          "children": ["李亨"],
+          "source": "《旧唐书·后妃传》",
+          "disputed": false,
+          "note": "弘农杨氏，唐肃宗生母，早逝，肃宗即位后追谥"
+        },
+        {
+          "name": "赵氏",
+          "title": "赵丽妃",
+          "type": "妃嫔",
+          "children": ["李瑛"],
+          "source": "《旧唐书·玄宗诸子传》",
+          "disputed": false,
+          "note": "本为倡伎，有才貌，开元初宠极一时"
+        }
+      ],
+      "children": [
+        {
+          "name": "李琮",
+          "gender": "男",
+          "mother": "刘华妃",
+          "order_among_siblings": "长子",
+          "title_or_fate": "靖恭太子（卒后追谥），肃宗时追尊奉天皇帝",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·玄宗诸子传》",
+          "disputed": false,
+          "note": "因面部受伤等原因未获立储"
+        },
+        {
+          "name": "李瑛",
+          "gender": "男",
+          "mother": "赵丽妃",
+          "order_among_siblings": "次子",
+          "title_or_fate": "皇太子，开元二十五年被武惠妃构陷，与鄂王李瑶、光王李琚同日赐死",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·太子瑛传》",
+          "disputed": false,
+          "note": "时称“一日杀三子”，天下冤之"
+        },
+        {
+          "name": "李亨",
+          "gender": "男",
+          "mother": "杨氏（元献皇后）",
+          "order_among_siblings": "第三子",
+          "title_or_fate": "唐肃宗",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·肃宗本纪》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "李琩",
+          "gender": "男",
+          "mother": "武惠妃",
+          "order_among_siblings": "第十八子",
+          "title_or_fate": "寿王，善终",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·玄宗诸子传》",
+          "disputed": false,
+          "note": "杨贵妃前夫；其名史籍或作“李瑁”，出土墓志作“李琩”"
+        },
+        {
+          "name": "李璘",
+          "gender": "男",
+          "mother": "郭顺仪",
+          "order_among_siblings": "第十六子（幼子）",
+          "title_or_fate": "永王，至德元载起兵江淮，兵败被杀",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·永王璘传》",
+          "disputed": false,
+          "note": "李白因入其幕府而获罪流放夜郎"
+        },
+        {
+          "name": "咸宜公主",
+          "gender": "女",
+          "mother": "武惠妃",
+          "order_among_siblings": "排行不详",
+          "title_or_fate": "咸宜公主，嫁杨洄，后改嫁崔嵩",
+          "relationship_type": "亲子",
+          "source": "《新唐书·公主传》",
+          "disputed": false,
+          "note": "与驸马杨洄协助武惠妃构陷太子李瑛"
+        },
+        {
+          "name": "太华公主",
+          "gender": "女",
+          "mother": "武惠妃",
+          "order_among_siblings": "排行不详",
+          "title_or_fate": "太华公主，嫁杨锜",
+          "relationship_type": "亲子",
+          "source": "《新唐书·公主传》",
+          "disputed": false,
+          "note": ""
+        }
+      ],
+      "notes": "玄宗共有三十子、二十九女，为唐朝子女最多的皇帝，此处仅列知名者。马嵬驿之变与杨贵妃之死见两《唐书》及《资治通鉴》；“贵妃东渡日本”系后世传说。"
+    },
+    {
+      "order": 7,
+      "name": "李亨",
+      "temple_name": "肃宗",
+      "posthumous_name": "文明武德大圣大宣孝皇帝",
+      "era_names": ["至德", "乾元", "上元", "宝应"],
+      "reign": "756–762",
+      "relation_to_previous": "玄宗第三子，安史之乱中于灵武自行即位，遥尊玄宗为太上皇",
+      "achievements": [
+        "马嵬驿之变后分兵北上，至德元载即位于灵武，组织平定安史之乱",
+        "任用郭子仪、李光弼，并借回纥兵，至德二载收复长安、洛阳",
+        "为平定安史之乱奠定大局（乱事在其子代宗朝最终平定）",
+        "宠信宦官李辅国与张皇后，开唐朝中后期宦官专权之渐"
+      ],
+      "sources": ["《旧唐书·肃宗本纪》", "《新唐书·肃宗本纪》", "《资治通鉴·唐纪》"],
+      "spouses": [
+        {
+          "name": "吴氏",
+          "title": "章敬皇后（追谥）",
+          "type": "妃嫔",
+          "children": ["李豫", "和政公主"],
+          "source": "《旧唐书·后妃传》",
+          "disputed": false,
+          "note": "唐代宗生母，早逝，代宗即位后追谥"
+        },
+        {
+          "name": "张氏",
+          "title": "张皇后",
+          "type": "皇后",
+          "children": ["李佋", "李侗"],
+          "source": "《旧唐书·后妃传》",
+          "disputed": false,
+          "note": "本为良娣，乾元元年册为皇后；与李辅国争权，宝应元年肃宗病危时欲诛李辅国，事泄被废杀"
+        },
+        {
+          "name": "韦氏",
+          "title": "韦妃（被休）",
+          "type": "妃嫔",
+          "children": [],
+          "source": "《旧唐书·后妃传》",
+          "disputed": false,
+          "note": "兄韦坚遭李林甫构陷获罪，肃宗为太子时被迫与韦氏离婚，韦氏出家为尼"
+        }
+      ],
+      "children": [
+        {
+          "name": "李豫",
+          "gender": "男",
+          "mother": "吴氏（章敬皇后）",
+          "order_among_siblings": "长子",
+          "title_or_fate": "唐代宗",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·代宗本纪》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "李倓",
+          "gender": "男",
+          "mother": "生母不详（史料缺载）",
+          "order_among_siblings": "第三子",
+          "title_or_fate": "建宁王，被张皇后、李辅国谗害赐死，后追谥承天皇帝",
+          "relationship_type": "亲子",
+          "source": "史料记载不详（事见《旧唐书·承天皇帝倓传》）",
+          "disputed": true,
+          "note": "灵武即位时屡立战功，素以英毅著称"
+        },
+        {
+          "name": "李佋",
+          "gender": "男",
+          "mother": "张皇后",
+          "order_among_siblings": "第十二子",
+          "title_or_fate": "兴王，早夭，追谥恭懿太子",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·肃宗代宗诸子传》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "宁国公主",
+          "gender": "女",
+          "mother": "生母不详（史料缺载）",
+          "order_among_siblings": "次女",
+          "title_or_fate": "宁国公主，乾元元年和亲回纥毗伽阙可汗",
+          "relationship_type": "亲子",
+          "source": "史料记载不详（事见《新唐书·公主传》）",
+          "disputed": true,
+          "note": "唐朝首位和亲边疆政权的皇帝亲女（此前和亲多用宗室女）"
+        },
+        {
+          "name": "和政公主",
+          "gender": "女",
+          "mother": "吴氏（章敬皇后）",
+          "order_among_siblings": "第三女",
+          "title_or_fate": "和政公主，嫁柳潭",
+          "relationship_type": "亲子",
+          "source": "《新唐书·公主传》及颜真卿《和政公主神道碑》",
+          "disputed": false,
+          "note": "安史之乱中赈济姐妹、出资犒军，以贤德著称"
+        }
+      ],
+      "notes": "肃宗共有十四子、七女，此处仅列知名者。宝应元年李辅国与张皇后内斗，率兵入宫收捕张皇后，肃宗受惊而崩。"
+    },
+    {
+      "order": 8,
+      "name": "李豫",
+      "temple_name": "代宗",
+      "posthumous_name": "睿文孝武皇帝",
+      "era_names": ["宝应", "广德", "永泰", "大历"],
+      "reign": "762–779",
+      "relation_to_previous": "肃宗长子，以皇太子继位",
+      "achievements": [
+        "宝应元年以天下兵马元帅收复洛阳，次年史朝义败亡，安史之乱彻底平定",
+        "先后诛除、罢黜权宦李辅国、程元振、鱼朝恩",
+        "广德元年吐蕃攻入长安，仓皇出幸陕州，赖郭子仪收复京师",
+        "任用刘晏整顿漕运、盐政，恢复江淮财政",
+        "对安史旧部采取姑息政策，河朔三镇自此割据，藩镇之祸肇端"
+      ],
+      "sources": ["《旧唐书·代宗本纪》", "《新唐书·代宗本纪》", "《资治通鉴·唐纪》"],
+      "spouses": [
+        {
+          "name": "沈氏",
+          "title": "睿真皇后（追谥）",
+          "type": "妃嫔",
+          "children": ["李适"],
+          "source": "《旧唐书·后妃传》",
+          "disputed": false,
+          "note": "吴兴沈氏，安史之乱中两度陷于叛军，其后下落不明；代宗、德宗两朝寻访数十年无果，为唐代著名悬案"
+        },
+        {
+          "name": "崔氏",
+          "title": "崔贵妃",
+          "type": "妃嫔",
+          "children": ["李邈", "升平公主"],
+          "source": "《旧唐书·后妃传》",
+          "disputed": false,
+          "note": "杨贵妃大姐韩国夫人之女，安史之乱后失宠；升平公主生母通行作崔贵妃，《新唐书·公主传》未明载，个别学者存疑"
+        },
+        {
+          "name": "独孤氏",
+          "title": "贞懿皇后（追谥）",
+          "type": "妃嫔（贵妃）",
+          "children": ["李迥", "华阳公主"],
+          "source": "《旧唐书·后妃传》",
+          "disputed": false,
+          "note": "大历年间宠冠后宫，卒后追谥皇后，代宗哀痛，停灵三年方葬"
+        }
+      ],
+      "children": [
+        {
+          "name": "李适",
+          "gender": "男",
+          "mother": "沈氏（睿真皇后）",
+          "order_among_siblings": "长子",
+          "title_or_fate": "唐德宗",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·德宗本纪》",
+          "disputed": false,
+          "note": "即位后遥尊失踪的生母沈氏为皇太后，终身寻访"
+        },
+        {
+          "name": "李邈",
+          "gender": "男",
+          "mother": "崔贵妃",
+          "order_among_siblings": "次子",
+          "title_or_fate": "郑王，早卒，追谥昭靖太子",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·肃宗代宗诸子传》",
+          "disputed": false,
+          "note": "其子李谊后为德宗养子（舒王）"
+        },
+        {
+          "name": "李迥",
+          "gender": "男",
+          "mother": "独孤氏（贞懿皇后）",
+          "order_among_siblings": "第七子",
+          "title_or_fate": "韩王",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·肃宗代宗诸子传》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "升平公主",
+          "gender": "女",
+          "mother": "崔贵妃",
+          "order_among_siblings": "排行不详",
+          "title_or_fate": "升平公主，嫁郭子仪之子郭暧",
+          "relationship_type": "亲子",
+          "source": "《新唐书·公主传》",
+          "disputed": false,
+          "note": "为戏曲《打金枝》（醉打金枝）故事原型；其女为宪宗懿安皇后郭氏"
+        },
+        {
+          "name": "华阳公主",
+          "gender": "女",
+          "mother": "独孤氏（贞懿皇后）",
+          "order_among_siblings": "排行不详",
+          "title_or_fate": "华阳公主，早夭",
+          "relationship_type": "亲子",
+          "source": "《新唐书·公主传》",
+          "disputed": false,
+          "note": "韶悟过人，深为代宗钟爱，夭亡后帝妃俱哀毁"
+        }
+      ],
+      "notes": "代宗共有二十子、十八女，此处仅列知名者。沈皇后下落之谜为唐代一大悬案，德宗朝屡有冒认者。"
+    },
+    {
+      "order": 9,
+      "name": "李适",
+      "temple_name": "德宗",
+      "posthumous_name": "神武孝文皇帝",
+      "era_names": ["建中", "兴元", "贞元"],
+      "reign": "779–805",
+      "relation_to_previous": "代宗长子，以皇太子继位",
+      "achievements": [
+        "即位之初励精图治，罢各处进奉，放出宫廷乐工舞女",
+        "建中元年采纳杨炎建议推行两税法，为中国赋税制度重大变革",
+        "削藩操之过急，引发四镇之乱与泾原兵变，仓皇出逃奉天、梁州",
+        "兴元元年下《罪己诏》，收揽人心，叛乱渐平",
+        "晚年姑息藩镇，以宦官窦文场、霍仙鸣分掌神策军，宦官典禁军成为定制"
+      ],
+      "sources": ["《旧唐书·德宗本纪》", "《新唐书·德宗本纪》", "《资治通鉴·唐纪》"],
+      "spouses": [
+        {
+          "name": "王氏",
+          "title": "昭德皇后",
+          "type": "皇后",
+          "children": ["李诵"],
+          "source": "《旧唐书·后妃传》",
+          "disputed": false,
+          "note": "贞元二年册立为皇后，册礼方毕即卒，为唐朝在位时间最短的皇后"
+        },
+        {
+          "name": "韦氏",
+          "title": "韦贤妃",
+          "type": "妃嫔",
+          "children": [],
+          "source": "《旧唐书·后妃传》",
+          "disputed": false,
+          "note": "德宗为太子时纳为良娣，贞元年间册贤妃"
+        }
+      ],
+      "children": [
+        {
+          "name": "李诵",
+          "gender": "男",
+          "mother": "王氏（昭德皇后）",
+          "order_among_siblings": "长子",
+          "title_or_fate": "唐顺宗",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·顺宗本纪》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "李谊",
+          "gender": "男",
+          "mother": "生父为郑王李邈（昭靖太子），生母不详",
+          "order_among_siblings": "次子（养子）",
+          "title_or_fate": "舒王，曾几乎被立为太子，贞元末年失宠",
+          "relationship_type": "养子",
+          "source": "《旧唐书·德宗顺宗诸子传》",
+          "disputed": false,
+          "note": "本为德宗之侄（代宗次子李邈之子），德宗爱而养为己子；泾原兵变时随驾奉天，宰相李泌曾力谏德宗勿改立其为太子"
+        },
+        {
+          "name": "唐安公主",
+          "gender": "女",
+          "mother": "生母不详（史料缺载）",
+          "order_among_siblings": "长女",
+          "title_or_fate": "唐安公主，泾原兵变随驾出逃途中病卒",
+          "relationship_type": "亲子",
+          "source": "史料记载不详（事见《新唐书·公主传》）",
+          "disputed": true,
+          "note": "德宗欲厚葬并为其造塔，姜公辅谏止，姜因此事被贬"
+        }
+      ],
+      "notes": "德宗共有十一子、九女，此处仅列知名者。建中年间削藩失败与贞元年间的姑息政策，是唐朝藩镇格局定型的重要转折。"
+    },
+    {
+      "order": 10,
+      "name": "李诵",
+      "temple_name": "顺宗",
+      "posthumous_name": "至德弘道大圣大安孝皇帝",
+      "era_names": ["永贞"],
+      "reign": "805（在位约八个月）",
+      "relation_to_previous": "德宗长子，以皇太子继位（即位前已中风失音）",
+      "achievements": [
+        "任用王叔文、王伾、柳宗元、刘禹锡等推行“永贞革新”，罢宫市、停进奉、裁抑藩镇",
+        "试图从宦官手中收回神策军兵权，遭宦官俱文珍等抵制失败",
+        "在位仅八个月即被迫内禅于太子李纯，史称“永贞内禅”",
+        "次年正月暴崩（一说为宦官所害，无确证）"
+      ],
+      "sources": ["《旧唐书·顺宗本纪》", "《新唐书·顺宗本纪》", "《资治通鉴·唐纪》", "韩愈《顺宗实录》"],
+      "spouses": [
+        {
+          "name": "王氏",
+          "title": "庄宪皇后",
+          "type": "皇后",
+          "children": ["李纯", "李绾", "汉阳公主"],
+          "source": "《旧唐书·后妃传》",
+          "disputed": false,
+          "note": "顺宗为太子时为良娣；顺宗即位后因病未能举行册后礼，内禅后尊为太上皇后，元和年间追谥"
+        },
+        {
+          "name": "牛氏",
+          "title": "牛昭容",
+          "type": "妃嫔",
+          "children": [],
+          "source": "《旧唐书·宦官传》",
+          "disputed": false,
+          "note": "顺宗病重期间在宫中传旨，与宦官李忠言俱为革新派与病中皇帝之间的联络人，记载极简"
+        }
+      ],
+      "children": [
+        {
+          "name": "李纯",
+          "gender": "男",
+          "mother": "王氏（庄宪皇后）",
+          "order_among_siblings": "长子",
+          "title_or_fate": "唐宪宗",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·宪宗本纪》",
+          "disputed": false,
+          "note": "永贞内禅中受宦官俱文珍（刘贞亮）等拥立即位"
+        },
+        {
+          "name": "李綯",
+          "gender": "男",
+          "mother": "生母不详（史料缺载）",
+          "order_among_siblings": "次子",
+          "title_or_fate": "郯王",
+          "relationship_type": "亲子",
+          "source": "史料记载不详（事见《旧唐书·顺宗宪宗诸子传》）",
+          "disputed": true,
+          "note": "永贞革新失败后被外放"
+        },
+        {
+          "name": "汉阳公主",
+          "gender": "女",
+          "mother": "王氏（庄宪皇后）",
+          "order_among_siblings": "长女",
+          "title_or_fate": "汉阳公主，嫁郭鏦",
+          "relationship_type": "亲子",
+          "source": "《新唐书·公主传》",
+          "disputed": false,
+          "note": "以俭德著称，文宗朝犹存，尝以旧事诫诸公主"
+        }
+      ],
+      "notes": "顺宗共有二十三子、十一女，此处仅列知名者。永贞革新骨干（柳宗元、刘禹锡等八人）被贬为远州司马，史称“二王八司马”事件。"
+    },
+    {
+      "order": 11,
+      "name": "李纯",
+      "temple_name": "宪宗",
+      "posthumous_name": "昭文章武大圣至神孝皇帝",
+      "era_names": ["元和"],
+      "reign": "805–820",
+      "relation_to_previous": "顺宗长子，永贞内禅中受宦官拥立即位",
+      "achievements": [
+        "开创“元和中兴”，先后平定西川刘辟、夏绥杨惠琳、镇海李锜之乱",
+        "元和十二年李愬雪夜入蔡州，生擒吴元济，平定淮西",
+        "元和十四年诛淄青李师道，成德、卢龙等河北藩镇一度归顺朝廷",
+        "任用杜黄裳、裴度、李绛等贤相，削藩成果为中晚唐之最",
+        "晚年好神仙长生之术，服方士丹药，元和十五年暴崩，《旧唐书》等指为宦官陈弘志（陈弘庆）所弑，史家尚有争议"
+      ],
+      "sources": ["《旧唐书·宪宗本纪》", "《新唐书·宪宗本纪》", "《资治通鉴·唐纪》"],
+      "spouses": [
+        {
+          "name": "郭氏",
+          "title": "懿安皇后（生前为贵妃，追尊皇太后）",
+          "type": "妃嫔（贵妃）",
+          "children": ["李恒", "岐阳公主"],
+          "source": "《旧唐书·后妃传》",
+          "disputed": false,
+          "note": "郭子仪孙女、升平公主与郭暧之女；宪宗惮其门第华盛，不立为后；历穆、敬、文、武、宣五朝为皇太后/太皇太后"
+        },
+        {
+          "name": "郑氏",
+          "title": "孝明皇后（追尊皇太后）",
+          "type": "宫人",
+          "children": ["李忱"],
+          "source": "《旧唐书·后妃传》",
+          "disputed": false,
+          "note": "本为镇海节度使李锜侍妾，李锜败亡后没入掖庭，得幸生宣宗；宣宗即位尊为皇太后"
+        },
+        {
+          "name": "纪氏",
+          "title": "纪美人",
+          "type": "妃嫔",
+          "children": ["李宁"],
+          "source": "《旧唐书·宪宗诸子传》",
+          "disputed": false,
+          "note": "惠昭太子李宁生母，记载极简"
+        }
+      ],
+      "children": [
+        {
+          "name": "李宁",
+          "gender": "男",
+          "mother": "纪美人",
+          "order_among_siblings": "长子",
+          "title_or_fate": "惠昭太子，元和六年暴卒",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·惠昭太子宁传》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "李恒",
+          "gender": "男",
+          "mother": "郭氏（懿安皇后）",
+          "order_among_siblings": "第三子",
+          "title_or_fate": "唐穆宗",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·穆宗本纪》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "李悟",
+          "gender": "男",
+          "mother": "生母不详（史料缺载）",
+          "order_among_siblings": "第六子",
+          "title_or_fate": "绛王，敬宗被弑后宦官苏佐明等拥立，旋为另一派宦官所杀",
+          "relationship_type": "亲子",
+          "source": "史料记载不详（事见《旧唐书·宪宗诸子传》）",
+          "disputed": true,
+          "note": ""
+        },
+        {
+          "name": "李忱",
+          "gender": "男",
+          "mother": "郑氏（孝明皇后）",
+          "order_among_siblings": "第十三子",
+          "title_or_fate": "唐宣宗",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·宣宗本纪》",
+          "disputed": false,
+          "note": "早年韬光养晦，宫中以为“不慧”"
+        },
+        {
+          "name": "岐阳公主",
+          "gender": "女",
+          "mother": "郭氏（懿安皇后）",
+          "order_among_siblings": "排行不详",
+          "title_or_fate": "岐阳公主，嫁杜悰",
+          "relationship_type": "亲子",
+          "source": "《新唐书·公主传》",
+          "disputed": false,
+          "note": "以贤孝著称，事舅姑如庶人妇"
+        }
+      ],
+      "notes": "宪宗共有二十子、十八女，此处仅列知名者。其暴崩原因（服丹药致死抑或宦官弑逆），史料记载互有异同，至今存疑。"
+    },
+    {
+      "order": 12,
+      "name": "李恒",
+      "temple_name": "穆宗",
+      "posthumous_name": "睿圣文惠孝皇帝",
+      "era_names": ["长庆"],
+      "reign": "820–824",
+      "relation_to_previous": "宪宗第三子，以皇太子继位",
+      "achievements": [
+        "即位后推行“销兵”之策，处置失当，河朔三镇相继复叛，终唐之世未能收复",
+        "长庆元年与吐蕃达成“长庆会盟”，立唐蕃会盟碑（今存拉萨大昭寺前）",
+        "长庆二年幽州、镇州兵乱，朝廷讨伐无功，河北再成割据",
+        "游乐击球无度，服金石丹药，年仅三十而崩"
+      ],
+      "sources": ["《旧唐书·穆宗本纪》", "《新唐书·穆宗本纪》", "《资治通鉴·唐纪》"],
+      "spouses": [
+        {
+          "name": "王氏",
+          "title": "恭僖皇后（追尊皇太后）",
+          "type": "妃嫔",
+          "children": ["李湛"],
+          "source": "《旧唐书·后妃传》",
+          "disputed": false,
+          "note": "越人，少入太子宫，生敬宗；敬宗即位尊为皇太后"
+        },
+        {
+          "name": "萧氏",
+          "title": "贞献皇后（追尊皇太后）",
+          "type": "妃嫔",
+          "children": ["李昂"],
+          "source": "《旧唐书·后妃传》",
+          "disputed": false,
+          "note": "闽人，幼因乱失其家，入太子宫生文宗；文宗即位尊为皇太后"
+        },
+        {
+          "name": "韦氏",
+          "title": "宣懿皇后（追尊皇太后）",
+          "type": "妃嫔",
+          "children": ["李炎"],
+          "source": "《旧唐书·后妃传》",
+          "disputed": false,
+          "note": "生武宗；武宗即位尊为皇太后"
+        }
+      ],
+      "children": [
+        {
+          "name": "李湛",
+          "gender": "男",
+          "mother": "王氏（恭僖皇后）",
+          "order_among_siblings": "长子",
+          "title_or_fate": "唐敬宗",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·敬宗本纪》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "李昂",
+          "gender": "男",
+          "mother": "萧氏（贞献皇后）",
+          "order_among_siblings": "次子",
+          "title_or_fate": "唐文宗",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·文宗本纪》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "李炎",
+          "gender": "男",
+          "mother": "韦氏（宣懿皇后）",
+          "order_among_siblings": "第五子",
+          "title_or_fate": "唐武宗",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·武宗本纪》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "李凑",
+          "gender": "男",
+          "mother": "生母不详（史料缺载）",
+          "order_among_siblings": "排行不详",
+          "title_or_fate": "漳王，文宗朝因宋申锡案受牵连被贬，后卒于贬所",
+          "relationship_type": "亲子",
+          "source": "史料记载不详（事见《旧唐书·穆宗诸子传》）",
+          "disputed": true,
+          "note": "“宋申锡案”中文宗本欲诛宦官，反被宦官反诬漳王与宋申锡谋反"
+        }
+      ],
+      "notes": "穆宗共有五子、八女，其中三人为帝（敬宗、文宗、武宗），此处仅列知名者。长庆销兵被认为是中唐重大失策。"
+    },
+    {
+      "order": 13,
+      "name": "李湛",
+      "temple_name": "敬宗",
+      "posthumous_name": "睿武昭愍孝皇帝",
+      "era_names": ["宝历"],
+      "reign": "824–826",
+      "relation_to_previous": "穆宗长子，以皇太子继位（年仅十六）",
+      "achievements": [
+        "沉迷击球、手搏、深夜捕狐（“打夜狐”），荒于朝政",
+        "宝历年间王播、李逢吉先后为相，牛李党争渐炽",
+        "宝历二年被宦官刘克明、击球军将苏佐明等弑杀于宫中，年仅十八"
+      ],
+      "sources": ["《旧唐书·敬宗本纪》", "《新唐书·敬宗本纪》", "《资治通鉴·唐纪》"],
+      "spouses": [
+        {
+          "name": "郭氏",
+          "title": "郭贵妃",
+          "type": "妃嫔",
+          "children": ["李普"],
+          "source": "《旧唐书·后妃传》",
+          "disputed": false,
+          "note": "名将郭子仪之孙女（郭钊之女），宝历年间为贵妃；敬宗朝后妃史料记载较少"
+        }
+      ],
+      "children": [
+        {
+          "name": "李普",
+          "gender": "男",
+          "mother": "郭贵妃",
+          "order_among_siblings": "长子",
+          "title_or_fate": "晋王，早夭，文宗朝追赠悼怀太子",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·敬宗文宗诸子传》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "李休复",
+          "gender": "男",
+          "mother": "生母不详（史料缺载）",
+          "order_among_siblings": "次子",
+          "title_or_fate": "梁王",
+          "relationship_type": "亲子",
+          "source": "史料记载不详（事见《旧唐书·敬宗文宗诸子传》）",
+          "disputed": true,
+          "note": ""
+        }
+      ],
+      "notes": "敬宗共有五子、三女，此处仅列知名者。敬宗朝短促，后妃、子女史料记载较少。"
+    },
+    {
+      "order": 14,
+      "name": "李昂",
+      "temple_name": "文宗",
+      "posthumous_name": "元圣昭献孝皇帝",
+      "era_names": ["大和（太和）", "开成"],
+      "reign": "826–840",
+      "relation_to_previous": "穆宗次子，敬宗之弟，敬宗遇弑后由宦官王守澄等拥立",
+      "achievements": [
+        "即位之初励精图治，去奢从俭，放宫女、减教坊乐工",
+        "先后用宋申锡、李训、郑注谋诛宦官，大和九年“甘露之变”失败，朝臣死者千余人",
+        "自此受制于宦官，自叹“受制于家奴”，不如周赧王、汉献帝",
+        "开成二年刻成《开成石经》，立于长安国子监，为儒家经典重要石本"
+      ],
+      "sources": ["《旧唐书·文宗本纪》", "《新唐书·文宗本纪》", "《资治通鉴·唐纪》"],
+      "spouses": [
+        {
+          "name": "王氏",
+          "title": "王德妃",
+          "type": "妃嫔",
+          "children": ["李永"],
+          "source": "《旧唐书·后妃传》",
+          "disputed": false,
+          "note": "庄恪太子李永生母，为杨贤妃谗毁，被赐死；文宗朝后妃记载较少"
+        },
+        {
+          "name": "杨氏",
+          "title": "杨贤妃",
+          "type": "妃嫔",
+          "children": [],
+          "source": "《新唐书·后妃传》",
+          "disputed": false,
+          "note": "干预立储，请立安王李溶为皇太弟；武宗即位后被赐死"
+        }
+      ],
+      "children": [
+        {
+          "name": "李永",
+          "gender": "男",
+          "mother": "王德妃",
+          "order_among_siblings": "长子",
+          "title_or_fate": "庄恪太子，开成三年暴卒",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·庄恪太子永传》",
+          "disputed": true,
+          "note": "暴卒原因正史含混，时人疑为宦官所害；文宗临终前仍属意其弟李成美，立储屡变"
+        },
+        {
+          "name": "李宗俭",
+          "gender": "男",
+          "mother": "生母不详（史料缺载）",
+          "order_among_siblings": "次子",
+          "title_or_fate": "蒋王",
+          "relationship_type": "亲子",
+          "source": "史料记载不详（事见《旧唐书·敬宗文宗诸子传》）",
+          "disputed": true,
+          "note": ""
+        }
+      ],
+      "notes": "文宗共有二子、四女。甘露之变后宦官势力极盛，文宗朝后妃、子女史料记载较少。"
+    },
+    {
+      "order": 15,
+      "name": "李炎",
+      "temple_name": "武宗",
+      "posthumous_name": "至道昭肃孝皇帝",
+      "era_names": ["会昌"],
+      "reign": "840–846",
+      "relation_to_previous": "穆宗第五子，文宗之弟，文宗死后由宦官仇士良等矫诏拥立",
+      "achievements": [
+        "专任李德裕为相，整顿朝政，史称“会昌中兴”",
+        "会昌年间击破回鹘乌介可汗，迎回太和公主，安定北边",
+        "会昌四年平定泽潞刘稹叛乱，抑制藩镇",
+        "会昌五年大规模灭佛（“会昌法难”），毁寺四千六百余所，还俗僧尼二十六万余人",
+        "好服食丹药，会昌六年因丹毒暴崩，年仅三十三"
+      ],
+      "sources": ["《旧唐书·武宗本纪》", "《新唐书·武宗本纪》", "《资治通鉴·唐纪》"],
+      "spouses": [
+        {
+          "name": "王氏",
+          "title": "王才人（追赠贤妃）",
+          "type": "妃嫔",
+          "children": [],
+          "source": "《旧唐书·后妃传》",
+          "disputed": false,
+          "note": "宠冠后宫，武宗欲立为后，宰相李德裕以其无子且家世不显谏止；武宗崩后自缢殉死，宣宗朝追赠贤妃"
+        }
+      ],
+      "children": [
+        {
+          "name": "李峻",
+          "gender": "男",
+          "mother": "生母不详（史料缺载）",
+          "order_among_siblings": "长子",
+          "title_or_fate": "杞王",
+          "relationship_type": "亲子",
+          "source": "史料记载不详（事见《旧唐书·武宗诸子传》）",
+          "disputed": true,
+          "note": "武宗五子（杞王李峻、益王李岘、兖王李岐、德王李峄、昌王李嵯）生母皆不详，宣宗即位后事迹湮没无闻，传或遭迫害"
+        }
+      ],
+      "notes": "武宗共五子，生母与结局史料记载不详。会昌灭佛与北魏太武帝、北周武帝、后周世宗灭佛并称“三武一宗”法难。"
+    },
+    {
+      "order": 16,
+      "name": "李忱",
+      "temple_name": "宣宗",
+      "posthumous_name": "元圣至明成武献文睿智章仁神聪懿道大孝皇帝（简作“圣武献文孝皇帝”）",
+      "era_names": ["大中"],
+      "reign": "846–859",
+      "relation_to_previous": "宪宗第十三子，穆宗之弟，武宗之叔父，以“皇太叔”身份被宦官拥立",
+      "achievements": [
+        "在位期间勤俭治国、明察善断，吏治严明，史称“大中之治”，有“小太宗”之称",
+        "大中五年沙州张议潮以瓜、沙等十一州归唐，河湟失地收复",
+        "抑制宦官、外戚与藩镇，整肃吏治，贬李德裕结束牛李党争",
+        "晚年亦服方士丹药，大中十三年毒发而崩，唐朝最后的治世结束"
+      ],
+      "sources": ["《旧唐书·宣宗本纪》", "《新唐书·宣宗本纪》", "《资治通鉴·唐纪》"],
+      "spouses": [
+        {
+          "name": "晁氏",
+          "title": "元昭皇后（追谥）",
+          "type": "妃嫔（美人）",
+          "children": ["李漼", "万寿公主"],
+          "source": "《旧唐书·后妃传》",
+          "disputed": false,
+          "note": "懿宗生母，生前位至美人，懿宗即位后追谥；宣宗朝后妃记载较少"
+        }
+      ],
+      "children": [
+        {
+          "name": "李漼",
+          "gender": "男",
+          "mother": "晁氏（元昭皇后）",
+          "order_among_siblings": "长子",
+          "title_or_fate": "唐懿宗",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·懿宗本纪》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "李滋",
+          "gender": "男",
+          "mother": "生母不详（史料缺载）",
+          "order_among_siblings": "第三子",
+          "title_or_fate": "夔王，宣宗属意其为继承人，宣宗死后被宦官王宗实等拥立李漼取代，后事迹不详",
+          "relationship_type": "亲子",
+          "source": "史料记载不详（事见《旧唐书·宣宗懿宗诸子传》）",
+          "disputed": true,
+          "note": ""
+        },
+        {
+          "name": "万寿公主",
+          "gender": "女",
+          "mother": "晁氏（元昭皇后）",
+          "order_among_siblings": "长女",
+          "title_or_fate": "万寿公主，嫁郑颢",
+          "relationship_type": "亲子",
+          "source": "《新唐书·公主传》",
+          "disputed": false,
+          "note": "宣宗曾诫其不得干预夫家朝政，为唐代著名帝婿故事"
+        }
+      ],
+      "notes": "宣宗共有十一子、十一女，多数生母与事迹记载不详。《旧唐书》称其早年“外晦而内朗”，韬光养晦多年方登大位。"
+    },
+    {
+      "order": 17,
+      "name": "李漼",
+      "temple_name": "懿宗",
+      "posthumous_name": "睿文昭圣恭惠孝皇帝",
+      "era_names": ["咸通"],
+      "reign": "859–873",
+      "relation_to_previous": "宣宗长子，宣宗死后由宦官王宗实等拥立",
+      "achievements": [
+        "沉溺宴游、音乐与佛寺功德，怠于政事，唐朝国势自此急转直下",
+        "咸通九年庞勋领导桂林戍卒起义，震动江淮，为王仙芝、黄巢起义之先声",
+        "咸通十四年迎法门寺佛骨入长安，糜费无度",
+        "宠任路岩、韦保衡等佞臣，同昌公主病死后诛医官二十余人、株连三百余家"
+      ],
+      "sources": ["《旧唐书·懿宗本纪》", "《新唐书·懿宗本纪》", "《资治通鉴·唐纪》"],
+      "spouses": [
+        {
+          "name": "王氏",
+          "title": "惠安皇后（追谥）",
+          "type": "妃嫔",
+          "children": ["李儇"],
+          "source": "《旧唐书·后妃传》",
+          "disputed": false,
+          "note": "僖宗生母，生前为贵妃，僖宗即位追尊皇太后、谥惠安皇后"
+        },
+        {
+          "name": "王氏",
+          "title": "恭宪皇后（追谥）",
+          "type": "妃嫔",
+          "children": ["李晔"],
+          "source": "《旧唐书·后妃传》",
+          "disputed": false,
+          "note": "昭宗生母，与惠安皇后同为王氏，为两人；昭宗即位追尊皇太后、谥恭宪皇后"
+        },
+        {
+          "name": "郭氏",
+          "title": "郭淑妃",
+          "type": "妃嫔",
+          "children": ["同昌公主"],
+          "source": "《新唐书·公主传》",
+          "disputed": false,
+          "note": "同昌公主生母，公主卒后懿宗迁怒诛医官、株连甚广"
+        }
+      ],
+      "children": [
+        {
+          "name": "李佾",
+          "gender": "男",
+          "mother": "生母不详（史料缺载）",
+          "order_among_siblings": "长子",
+          "title_or_fate": "魏王",
+          "relationship_type": "亲子",
+          "source": "史料记载不详（事见《旧唐书·宣宗懿宗诸子传》）",
+          "disputed": true,
+          "note": ""
+        },
+        {
+          "name": "李儇",
+          "gender": "男",
+          "mother": "王氏（惠安皇后）",
+          "order_among_siblings": "第五子",
+          "title_or_fate": "唐僖宗",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·僖宗本纪》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "李晔",
+          "gender": "男",
+          "mother": "王氏（恭宪皇后）",
+          "order_among_siblings": "第七子",
+          "title_or_fate": "唐昭宗",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·昭宗本纪》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "同昌公主",
+          "gender": "女",
+          "mother": "郭淑妃",
+          "order_among_siblings": "长女",
+          "title_or_fate": "同昌公主，嫁韦保衡，咸通十一年卒",
+          "relationship_type": "亲子",
+          "source": "《新唐书·公主传》",
+          "disputed": false,
+          "note": "其婚嫁与丧礼之奢靡为唐代之最，时人讥之"
+        }
+      ],
+      "notes": "懿宗共有八子、八女，此处仅列知名者。咸通年间朝政腐败，农民起义与戍卒暴动相继爆发，唐亡之局已定。"
+    },
+    {
+      "order": 18,
+      "name": "李儇",
+      "temple_name": "僖宗",
+      "posthumous_name": "惠圣恭定孝皇帝",
+      "era_names": ["乾符", "广明", "中和", "光启", "文德"],
+      "reign": "873–888",
+      "relation_to_previous": "懿宗第五子，懿宗死后由宦官田令孜等拥立（年仅十二）",
+      "achievements": [
+        "政事悉委宦官田令孜，呼为“阿父”，本人以击球、斗鸡为乐，曾以击球赌西川等三镇节度使人选",
+        "乾符年间王仙芝、黄巢起义爆发，广明元年黄巢攻入长安，僖宗逃往成都",
+        "中和年间依靠李克用等藩镇兵力收复长安，黄巢起义最终失败",
+        "光启年间因争夺盐利引发藩镇混战，再度出逃兴元、凤翔，朝廷权威扫地"
+      ],
+      "sources": ["《旧唐书·僖宗本纪》", "《新唐书·僖宗本纪》", "《资治通鉴·唐纪》"],
+      "spouses": [],
+      "children": [
+        {
+          "name": "李震",
+          "gender": "男",
+          "mother": "生母不详（史料缺载）",
+          "order_among_siblings": "长子",
+          "title_or_fate": "建王，中和年间封，其后事迹不详",
+          "relationship_type": "亲子",
+          "source": "史料记载不详（事见《旧唐书·僖宗昭宗诸子传》）",
+          "disputed": true,
+          "note": ""
+        },
+        {
+          "name": "李升",
+          "gender": "男",
+          "mother": "生母不详（史料缺载）",
+          "order_among_siblings": "次子",
+          "title_or_fate": "益王，其后事迹不详",
+          "relationship_type": "亲子",
+          "source": "史料记载不详（事见《旧唐书·僖宗昭宗诸子传》）",
+          "disputed": true,
+          "note": ""
+        }
+      ],
+      "notes": "僖宗朝战乱频仍、两度播迁，后妃记载阙如，仅知有二子（建王李震、益王李升），生母皆不详，史料记载较少。"
+    },
+    {
+      "order": 19,
+      "name": "李晔",
+      "temple_name": "昭宗",
+      "posthumous_name": "圣穆景文孝皇帝",
+      "era_names": ["龙纪", "大顺", "景福", "乾宁", "光化", "天复", "天祐"],
+      "reign": "888–904",
+      "relation_to_previous": "懿宗第七子，僖宗之弟，僖宗死后由宦官杨复恭拥立",
+      "achievements": [
+        "即位之初尊礼大臣、锐意恢复，曾组织朝廷军队讨伐李克用、李茂贞，均告失败",
+        "光化三年被宦官刘季述废黜囚禁，次年赖崔胤等反正复位",
+        "天复元年宰相崔胤引朱温兵入关中，尽诛宦官，唐廷自此落入朱温之手",
+        "天祐元年被朱温挟持迁都洛阳，同年八月被朱温部将蒋玄晖、朱友恭等弑杀"
+      ],
+      "sources": ["《旧唐书·昭宗本纪》", "《新唐书·昭宗本纪》", "《资治通鉴·唐纪》"],
+      "spouses": [
+        {
+          "name": "何氏",
+          "title": "积善皇后",
+          "type": "皇后",
+          "children": ["李裕", "李柷"],
+          "source": "《旧唐书·后妃传》",
+          "disputed": false,
+          "note": "随昭宗播迁，昭宗被弑后尊为皇太后，天祐二年被朱温遣人缢杀并迫哀帝下诏废为庶人；昭宗朝后妃除何皇后外记载较少"
+        },
+        {
+          "name": "李渐荣",
+          "title": "昭仪",
+          "type": "妃嫔",
+          "children": [],
+          "source": "《新唐书·后妃传》",
+          "disputed": false,
+          "note": "天祐元年朱温部将入宫弑昭宗时，以身蔽帝，与帝同被杀"
+        }
+      ],
+      "children": [
+        {
+          "name": "李裕",
+          "gender": "男",
+          "mother": "何皇后",
+          "order_among_siblings": "长子",
+          "title_or_fate": "德王，光化三年被宦官刘季述拥立为帝（傀儡），昭宗复位后复为德王，天祐二年被朱温杀于九曲池",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·昭宗诸子传》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "李柷",
+          "gender": "男",
+          "mother": "何皇后",
+          "order_among_siblings": "第九子",
+          "title_or_fate": "唐哀帝",
+          "relationship_type": "亲子",
+          "source": "《旧唐书·哀帝本纪》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "李祤",
+          "gender": "男",
+          "mother": "生母不详（史料缺载）",
+          "order_among_siblings": "次子",
+          "title_or_fate": "棣王，天祐二年与德王李裕等九王同被朱温杀于九曲池",
+          "relationship_type": "亲子",
+          "source": "史料记载不详（事见《旧唐书·昭宗诸子传》）",
+          "disputed": true,
+          "note": "九曲池之变中被杀的还有虔王李禊、沂王李禋、遂王李祎、景王李祕、祁王李祺、雅王李禛、琼王李祥等"
+        }
+      ],
+      "notes": "昭宗共有十七子、十一女，多在天祐二年九曲池之变中被朱温杀害。唐末战乱频仍，后妃、宗室史料记载较少。"
+    },
+    {
+      "order": 20,
+      "name": "李柷",
+      "temple_name": "无（后唐明宗追谥“昭宣光烈孝皇帝”，庙号“景宗”，后唐旋以其为朱温所立而废庙号，故通行无庙号，史称哀帝或昭宣帝）",
+      "posthumous_name": "昭宣光烈孝皇帝（后唐追谥）",
+      "era_names": ["天祐（沿用昭宗年号）"],
+      "reign": "904–907",
+      "relation_to_previous": "昭宗第九子，何皇后所生，朱温弑昭宗后所立的傀儡皇帝",
+      "achievements": [
+        "十三岁即位，政事一决于朱温，沿用天祐年号",
+        "天祐二年发生“白马驿之祸”，裴枢、独孤损等朝臣三十余人被朱温屠杀投于黄河",
+        "天祐四年被迫禅位于朱温，唐朝灭亡，被降为济阴王，迁往曹州",
+        "次年（后梁开平二年）被朱温鸩杀，年仅十七"
+      ],
+      "sources": ["《旧唐书·哀帝本纪》", "《新唐书·哀帝本纪》", "《资治通鉴·唐纪》"],
+      "spouses": [],
+      "children": [],
+      "notes": "在位期间无任何实权，后妃、子女皆无记载，史料记载较少。后唐明宗曾追谥“昭宣光烈孝皇帝”并议上庙号“景宗”，后因朝议以其系朱温所立而不果行。"
+    }
+  ]
+}

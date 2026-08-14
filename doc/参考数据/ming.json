@@ -1,0 +1,1112 @@
+{
+  "dynasty": "明朝",
+  "period": "1368–1644",
+  "emperors": [
+    {
+      "order": 1,
+      "name": "朱元璋",
+      "temple_name": "太祖",
+      "posthumous_name": "开天行道肇纪立极大圣至神仁文义武俊德成功高皇帝",
+      "era_names": ["洪武"],
+      "reign": "1368–1398",
+      "relation_to_previous": "开国皇帝",
+      "achievements": [
+        "驱逐蒙元，恢复汉人政权，建立明朝",
+        "废除丞相制，皇权高度集中",
+        "编制黄册与鱼鳞图册，推行屯田，恢复社会经济",
+        "颁行《大明律》与《大诰》，重典治吏",
+        "分封诸子为藩王拱卫皇室（亦为日后靖难之役埋下伏笔）"
+      ],
+      "sources": ["《明史·太祖本纪》", "《明太祖实录》"],
+      "spouses": [
+        {
+          "name": "马氏",
+          "title": "孝慈高皇后",
+          "type": "皇后",
+          "children": ["朱标", "朱樉", "朱棡", "朱棣", "朱橚"],
+          "source": "《明史·后妃传》",
+          "disputed": false,
+          "note": "正史载前五子皆马皇后所生，但朱标、朱棣等生母在明代中后期即有异说"
+        },
+        {
+          "name": "碽妃",
+          "title": "妃（谥号失考）",
+          "type": "妃嫔",
+          "children": ["朱棣（存疑）"],
+          "source": "《南京太常寺志》",
+          "disputed": true,
+          "note": "《南京太常寺志》载孝陵神位『右一位碽妃，生成祖文皇帝』，且碽妃独享西向之尊，论者据此认为碽妃（或为高丽进献女子）才是成祖生母；而《明实录》《明史》均称成祖为马皇后嫡出，至今为明史著名悬案"
+        },
+        {
+          "name": "李淑妃",
+          "title": "淑妃",
+          "type": "妃嫔",
+          "children": ["朱标（一说）"],
+          "source": "《南京太常寺志》",
+          "disputed": true,
+          "note": "《南京太常寺志》载懿文太子朱标为李淑妃所生，与《明史》所载马皇后所生不合；李淑妃在洪武后期总摄六宫事，太祖临终令其自裁"
+        }
+      ],
+      "children": [
+        {
+          "name": "朱标",
+          "gender": "男",
+          "mother": "马皇后",
+          "order_among_siblings": "长子",
+          "title_or_fate": "懿文太子",
+          "relationship_type": "亲子",
+          "source": "《明史·兴宗传》",
+          "disputed": false,
+          "note": "《南京太常寺志》称其为李淑妃所生，存异说；洪武二十五年薨，建文初追尊孝康皇帝，庙号兴宗"
+        },
+        {
+          "name": "朱樉",
+          "gender": "男",
+          "mother": "马皇后",
+          "order_among_siblings": "次子",
+          "title_or_fate": "秦王，就藩西安，洪武二十八年薨",
+          "relationship_type": "亲子",
+          "source": "《明史·诸王传》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "朱棡",
+          "gender": "男",
+          "mother": "马皇后",
+          "order_among_siblings": "第三子",
+          "title_or_fate": "晋王，就藩太原，洪武三十一年薨",
+          "relationship_type": "亲子",
+          "source": "《明史·诸王传》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "朱棣",
+          "gender": "男",
+          "mother": "马皇后",
+          "order_among_siblings": "第四子",
+          "title_or_fate": "燕王，靖难之役后即帝位，是为明成祖",
+          "relationship_type": "亲子",
+          "source": "《明史·成祖本纪》",
+          "disputed": true,
+          "note": "生母争议：正史称马皇后所生嫡子，《南京太常寺志》等载其生母为碽妃，学界至今无定论"
+        },
+        {
+          "name": "朱橚",
+          "gender": "男",
+          "mother": "马皇后",
+          "order_among_siblings": "第五子",
+          "title_or_fate": "周王，就藩开封，以撰《救荒本草》名世",
+          "relationship_type": "亲子",
+          "source": "《明史·诸王传》",
+          "disputed": false,
+          "note": "其生母亦有碽妃所生之说（与朱棣同母弟之议相牵连）"
+        },
+        {
+          "name": "朱权",
+          "gender": "男",
+          "mother": "杨妃",
+          "order_among_siblings": "第十七子",
+          "title_or_fate": "宁王，初镇大宁拥兵八万，靖难时被朱棣挟持，事成后改封南昌",
+          "relationship_type": "亲子",
+          "source": "《明史·诸王传》",
+          "disputed": false,
+          "note": "晚年韬晦，著《太和正音谱》等，为明代著名戏曲家"
+        }
+      ],
+      "notes": "太祖共有子二十六人、女十六人，此处仅列太子、继任者及知名者，其余诸王从略。"
+    },
+    {
+      "order": 2,
+      "name": "朱允炆",
+      "temple_name": "惠宗（南明追尊）",
+      "posthumous_name": "嗣天章道诚懿渊功观文扬武克仁笃孝让皇帝（南明谥，清谥恭闵惠皇帝）",
+      "era_names": ["建文"],
+      "reign": "1398–1402",
+      "relation_to_previous": "太祖之孙，懿文太子朱标次子，父早逝，以皇太孙继位",
+      "achievements": [
+        "推行建文改制，宽刑狱、省赋税，平反冤狱",
+        "锐意削藩，先后废周、湘、齐、代、岷诸王，引发靖难之役",
+        "重用方孝孺、齐泰、黄子澄等儒臣，提升文官地位"
+      ],
+      "sources": ["《明史·恭闵帝本纪》", "《明史纪事本末·建文逊国》"],
+      "spouses": [
+        {
+          "name": "马氏",
+          "title": "孝愍让皇后（南明追谥）",
+          "type": "皇后",
+          "children": ["朱文奎", "朱文圭"],
+          "source": "《明史·后妃传》",
+          "disputed": false,
+          "note": "光禄少卿马全之女；靖难兵入南京时自焚而死"
+        }
+      ],
+      "children": [
+        {
+          "name": "朱文奎",
+          "gender": "男",
+          "mother": "马皇后",
+          "order_among_siblings": "长子",
+          "title_or_fate": "皇太子，靖难时失踪",
+          "relationship_type": "亲子",
+          "source": "《明史·诸王传》",
+          "disputed": true,
+          "note": "燕兵入京时年仅七岁，或云与帝俱焚死，或云自乱军中逸出，下落不明"
+        },
+        {
+          "name": "朱文圭",
+          "gender": "男",
+          "mother": "马皇后",
+          "order_among_siblings": "次子",
+          "title_or_fate": "建庶人，自两岁起被幽禁于中都广安宫五十余年，天顺元年获释",
+          "relationship_type": "亲子",
+          "source": "《明史·诸王传》",
+          "disputed": false,
+          "note": "获释时已五十七岁，不辨牛马，未几卒"
+        }
+      ],
+      "notes": "靖难之役后下落不明：宫中火起，正史仅言『帝不知所终』；一说自焚而死，一说剃发为僧自地道遁去，此后数十年建文帝踪迹传闻不绝（或云出亡云南、南洋），为明史第一悬案。永乐朝讳言其事，万历年间始恢复建文年号。"
+    },
+    {
+      "order": 3,
+      "name": "朱棣",
+      "temple_name": "太宗（嘉靖十七年加改成祖）",
+      "posthumous_name": "启天弘道高明肇运圣武神功纯仁至孝文皇帝",
+      "era_names": ["永乐"],
+      "reign": "1402–1424",
+      "relation_to_previous": "太祖第四子，惠帝叔父，以靖难之役夺位",
+      "achievements": [
+        "迁都北京，营建紫禁城，奠定明清两京格局",
+        "遣郑和七下西洋，远播国威于南洋、印度洋",
+        "命解缙、姚广孝等编纂《永乐大典》",
+        "五征漠北，亲征鞑靼、瓦剌，卒于北征途中",
+        "设奴儿干都司经略东北，疏通大运河"
+      ],
+      "sources": ["《明史·成祖本纪》", "《明太宗实录》"],
+      "spouses": [
+        {
+          "name": "徐氏",
+          "title": "仁孝文皇后",
+          "type": "皇后",
+          "children": ["朱高炽", "朱高煦", "朱高燧"],
+          "source": "《明史·后妃传》",
+          "disputed": false,
+          "note": "中山王徐达长女；靖难时亲登北平城督战助守；永乐五年卒后成祖不再立后"
+        }
+      ],
+      "children": [
+        {
+          "name": "朱高炽",
+          "gender": "男",
+          "mother": "徐皇后",
+          "order_among_siblings": "长子",
+          "title_or_fate": "皇太子，后继位为明仁宗",
+          "relationship_type": "亲子",
+          "source": "《明史·仁宗本纪》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "朱高煦",
+          "gender": "男",
+          "mother": "徐皇后",
+          "order_among_siblings": "次子",
+          "title_or_fate": "汉王，宣德元年谋反被擒，废为庶人后被处死",
+          "relationship_type": "亲子",
+          "source": "《明史·诸王传》",
+          "disputed": false,
+          "note": "靖难中屡救成祖，恃功谋夺嫡，终宣宗朝被杀"
+        },
+        {
+          "name": "朱高燧",
+          "gender": "男",
+          "mother": "徐皇后",
+          "order_among_siblings": "第三子",
+          "title_or_fate": "赵王，永乐末年涉谋逆，仁宗即位后保全",
+          "relationship_type": "亲子",
+          "source": "《明史·诸王传》",
+          "disputed": false,
+          "note": ""
+        }
+      ],
+      "notes": "生母为太祖马皇后抑碽妃，自明中后期即有争议：《南京太常寺志》载孝陵配享『右一位碽妃，生成祖文皇帝』，而《明太宗实录》《明史》均称马皇后嫡出；明末钱谦益等谒陵验证孝陵神位，与《南京太常寺志》所记相合，现代学者多持存疑态度。"
+    },
+    {
+      "order": 4,
+      "name": "朱高炽",
+      "temple_name": "仁宗",
+      "posthumous_name": "敬天体道纯诚至德弘文钦武章圣达孝昭皇帝",
+      "era_names": ["洪熙"],
+      "reign": "1424–1425",
+      "relation_to_previous": "成祖嫡长子",
+      "achievements": [
+        "永乐年间长期监国，政务娴熟",
+        "赦免建文旧臣家属，平反冤狱",
+        "罢西洋宝船、罢采办，与民休息",
+        "重用杨士奇、杨荣、杨溥，奠定仁宣之治"
+      ],
+      "sources": ["《明史·仁宗本纪》"],
+      "spouses": [
+        {
+          "name": "张氏",
+          "title": "诚孝昭皇后",
+          "type": "皇后",
+          "children": ["朱瞻基", "朱瞻墉", "朱瞻墡"],
+          "source": "《明史·后妃传》",
+          "disputed": false,
+          "note": "历仁宗、宣宗、英宗三朝，以太皇太后身份匡辅幼主，世称『女中人杰』"
+        },
+        {
+          "name": "郭氏",
+          "title": "贵妃（谥恭肃）",
+          "type": "妃嫔",
+          "children": ["朱瞻垲", "朱瞻垍", "朱瞻埏"],
+          "source": "《明史·后妃传》",
+          "disputed": false,
+          "note": "武定侯郭英孙女；仁宗崩后殉葬，时人以其有三子仍不免殉，颇感不平"
+        }
+      ],
+      "children": [
+        {
+          "name": "朱瞻基",
+          "gender": "男",
+          "mother": "张皇后",
+          "order_among_siblings": "长子",
+          "title_or_fate": "皇太孙、皇太子，后继位为明宣宗",
+          "relationship_type": "亲子",
+          "source": "《明史·宣宗本纪》",
+          "disputed": false,
+          "note": "自幼为成祖所钟爱，永乐九年即册立为皇太孙"
+        },
+        {
+          "name": "朱瞻墉",
+          "gender": "男",
+          "mother": "张皇后",
+          "order_among_siblings": "第三子",
+          "title_or_fate": "越王，留居京师未就藩，正统四年薨",
+          "relationship_type": "亲子",
+          "source": "《明史·诸王传》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "朱瞻墡",
+          "gender": "男",
+          "mother": "张皇后",
+          "order_among_siblings": "第五子",
+          "title_or_fate": "襄王，土木之变后两度被议立为帝或监国，以贤德著闻",
+          "relationship_type": "亲子",
+          "source": "《明史·诸王传》",
+          "disputed": false,
+          "note": ""
+        }
+      ],
+      "notes": "在位仅十月即暴卒，死因有服食丹药、雷击等野史传说；为政宽仁，开启仁宣之治。"
+    },
+    {
+      "order": 5,
+      "name": "朱瞻基",
+      "temple_name": "宣宗",
+      "posthumous_name": "宪天崇道英明神圣钦文昭武宽仁纯孝章皇帝",
+      "era_names": ["宣德"],
+      "reign": "1425–1435",
+      "relation_to_previous": "仁宗嫡长子",
+      "achievements": [
+        "亲征平定汉王朱高煦叛乱",
+        "与民休息，成就仁宣之治",
+        "重用三杨、蹇义、夏原吉，内阁权重渐增",
+        "命郑和第七次下西洋",
+        "设内书堂教宦官识字（为日后司礼监宦官干政埋下隐患）"
+      ],
+      "sources": ["《明史·宣宗本纪》"],
+      "spouses": [
+        {
+          "name": "胡氏",
+          "title": "恭让章皇后",
+          "type": "皇后（后被废）",
+          "children": ["顺德公主", "永清公主"],
+          "source": "《明史·后妃传》",
+          "disputed": false,
+          "note": "名胡善祥，以贤闻名；因无子多病被令上表辞位，退居长安宫为静慈仙师，天下闻而怜之"
+        },
+        {
+          "name": "孙氏",
+          "title": "孝恭章皇后（初为贵妃）",
+          "type": "皇后",
+          "children": ["朱祁镇（存疑）"],
+          "source": "《明史·后妃传》",
+          "disputed": true,
+          "note": "『孙贵妃盗宫人之子』公案：《明史·后妃传》明载『妃亦无子，阴取宫人子为己子，即英宗也』，即英宗实为宫人所生、孙贵妃据为己子之说；但正史本纪仍系英宗于孙皇后名下，两说矛盾，成为明宫著名疑案"
+        }
+      ],
+      "children": [
+        {
+          "name": "朱祁镇",
+          "gender": "男",
+          "mother": "孙皇后（一说为无名宫人）",
+          "order_among_siblings": "长子",
+          "title_or_fate": "皇太子，后继位为明英宗",
+          "relationship_type": "亲子",
+          "source": "《明史·英宗本纪》",
+          "disputed": true,
+          "note": "生母之谜：本纪称孙皇后所生，《明史·后妃传》则明言为孙贵妃所取宫人之子；其生母宫人终明之世未获昭雪姓名"
+        },
+        {
+          "name": "朱祁钰",
+          "gender": "男",
+          "mother": "吴贤妃",
+          "order_among_siblings": "次子",
+          "title_or_fate": "郕王，土木之变后即位，是为明代宗（景泰帝）",
+          "relationship_type": "亲子",
+          "source": "《明史·景帝本纪》",
+          "disputed": false,
+          "note": ""
+        }
+      ],
+      "notes": "仁宣之治的收官者；首开内书堂教宦官读书识字，为日后司礼监宦官干政埋下隐患。"
+    },
+    {
+      "order": 6,
+      "name": "朱祁镇",
+      "temple_name": "英宗",
+      "posthumous_name": "法天立道仁明诚敬昭文宪武至德广孝睿皇帝",
+      "era_names": ["正统", "天顺"],
+      "reign": "1435–1449；1457–1464（两任）",
+      "relation_to_previous": "宣宗长子",
+      "achievements": [
+        "正统初年有三杨辅政，延续仁宣余绪",
+        "宠信王振，御驾亲征致土木之变，被俘于瓦剌",
+        "夺门之变后复辟，改元天顺，诛兵部尚书于谦",
+        "临终遗诏废除宫妃殉葬制度，后世称善"
+      ],
+      "sources": ["《明史·英宗前纪》", "《明史·英宗后纪》"],
+      "spouses": [
+        {
+          "name": "钱氏",
+          "title": "孝庄睿皇后",
+          "type": "皇后",
+          "children": [],
+          "source": "《明史·后妃传》",
+          "disputed": false,
+          "note": "土木之变后日夜泣祷，损一目一肢；无子；英宗复辟后始终以嫡妻之礼相待"
+        },
+        {
+          "name": "周氏",
+          "title": "孝肃皇后（初为贵妃）",
+          "type": "贵妃",
+          "children": ["朱见深", "朱见泽"],
+          "source": "《明史·后妃传》",
+          "disputed": false,
+          "note": "宪宗生母；成化间尊为皇太后，屡与钱皇后争嫡庶之礼"
+        }
+      ],
+      "children": [
+        {
+          "name": "朱见深",
+          "gender": "男",
+          "mother": "周贵妃",
+          "order_among_siblings": "长子",
+          "title_or_fate": "皇太子，后继位为明宪宗",
+          "relationship_type": "亲子",
+          "source": "《明史·宪宗本纪》",
+          "disputed": false,
+          "note": "两度为太子：正统十四年立，景泰三年被代宗废为沂王，天顺元年复立"
+        }
+      ],
+      "notes": "生母存疑（详见宣宗后妃条：孙贵妃取宫人之子之说）；正统十四年土木之变被俘，翌年释归后幽居南宫七年；天顺元年夺门之变复位。"
+    },
+    {
+      "order": 7,
+      "name": "朱祁钰",
+      "temple_name": "代宗（南明追尊）",
+      "posthumous_name": "符天建道恭仁康定隆文布武显德崇孝景皇帝（成化谥）",
+      "era_names": ["景泰"],
+      "reign": "1449–1457",
+      "relation_to_previous": "宣宗次子，英宗异母弟，土木之变后临危继位",
+      "achievements": [
+        "临危即位，稳定土木之变后的危局",
+        "任用于谦领导北京保卫战，击退也先",
+        "革除正统朝部分弊政，景泰年间政治较为清明",
+        "废太子朱见深，改立己子朱见济，埋下复辟祸根"
+      ],
+      "sources": ["《明史·景帝本纪》"],
+      "spouses": [
+        {
+          "name": "汪氏",
+          "title": "孝渊景皇后",
+          "type": "皇后（后被废）",
+          "children": ["固安公主"],
+          "source": "《明史·后妃传》",
+          "disputed": false,
+          "note": "因力谏废立太子被废；性刚直，历经英宗、宪宗、孝宗、武宗四朝，正德元年卒"
+        },
+        {
+          "name": "杭氏",
+          "title": "肃孝杭皇后",
+          "type": "皇后（先为妃）",
+          "children": ["朱见济"],
+          "source": "《明史·后妃传》",
+          "disputed": false,
+          "note": "英宗复位后削其皇后号，毁所营陵墓"
+        }
+      ],
+      "children": [
+        {
+          "name": "朱见济",
+          "gender": "男",
+          "mother": "杭皇后",
+          "order_among_siblings": "独子",
+          "title_or_fate": "怀献太子，立为太子次年夭亡",
+          "relationship_type": "亲子",
+          "source": "《明史·诸王传》",
+          "disputed": false,
+          "note": "夭折后景泰帝再无子嗣，动摇国本，为夺门之变远因"
+        }
+      ],
+      "notes": "土木之变后临危即位；天顺元年夺门之变中被废为郕王，迁居西苑，十余日后暴卒，死因有太监蒋安缢杀等说，标为疑案；以亲王礼葬西山，为迁都北京后唯一未入十三陵的皇帝。"
+    },
+    {
+      "order": 8,
+      "name": "朱见深",
+      "temple_name": "宪宗",
+      "posthumous_name": "继天凝道诚明仁敬崇文肃武宏德圣孝纯皇帝",
+      "era_names": ["成化"],
+      "reign": "1464–1487",
+      "relation_to_previous": "英宗长子",
+      "achievements": [
+        "为于谦平反昭雪，恢复代宗帝号",
+        "成化犁庭，重创建州女真",
+        "宠信万贵妃，设西厂，宦官汪直用事",
+        "荆襄流民起事后设郧阳府安抚安置"
+      ],
+      "sources": ["《明史·宪宗本纪》"],
+      "spouses": [
+        {
+          "name": "万氏",
+          "title": "恭肃端顺荣靖皇贵妃",
+          "type": "皇贵妃",
+          "children": ["皇长子（早夭）"],
+          "source": "《明史·后妃传》",
+          "disputed": true,
+          "note": "比帝长十七岁而独宠。《明史》载其专宠后宫，『掖廷御幸有身，饮药伤坠者无数』，并指其害死纪妃；然《明史·宪宗本纪》与《明实录》记宪宗子嗣多达十四人，与『无子』之说不合，现代学者多疑《明史》采野史之词"
+        },
+        {
+          "name": "纪氏",
+          "title": "孝穆皇后（追尊，生前为淑妃）",
+          "type": "妃嫔",
+          "children": ["朱祐樘"],
+          "source": "《明史·后妃传》",
+          "disputed": true,
+          "note": "孝宗生母，原为广西土司之女，俘入宫中被宪宗临幸有孕。《明史》载其暴卒，『或曰贵妃致之死，或曰自缢也』；而同期《商文毅公行状》等记载其病终且宪宗礼葬甚厚，与《明史》迫害之说矛盾"
+        },
+        {
+          "name": "王氏",
+          "title": "孝贞纯皇后",
+          "type": "皇后",
+          "children": [],
+          "source": "《明史·后妃传》",
+          "disputed": false,
+          "note": "吴皇后废后所立，终成化朝委曲周全；孝宗朝尊为太皇太后"
+        },
+        {
+          "name": "邵氏",
+          "title": "孝惠皇后（初为贵妃）",
+          "type": "贵妃",
+          "children": ["朱祐杬", "朱祐棆", "朱祐枟"],
+          "source": "《明史·后妃传》",
+          "disputed": false,
+          "note": "兴献王朱祐杬生母，嘉靖帝祖母，嘉靖初尊为寿安皇太后"
+        }
+      ],
+      "children": [
+        {
+          "name": "朱祐极",
+          "gender": "男",
+          "mother": "柏贤妃",
+          "order_among_siblings": "次子",
+          "title_or_fate": "悼恭太子，立为太子次年夭亡",
+          "relationship_type": "亲子",
+          "source": "《明史·诸王传》",
+          "disputed": false,
+          "note": "《明史·后妃传》系其死于万贵妃毒害，与实录记载不合，存疑"
+        },
+        {
+          "name": "朱祐樘",
+          "gender": "男",
+          "mother": "纪淑妃",
+          "order_among_siblings": "第三子",
+          "title_or_fate": "皇太子，后继位为明孝宗",
+          "relationship_type": "亲子",
+          "source": "《明史·孝宗本纪》",
+          "disputed": false,
+          "note": "出生时被匿养于西内安乐堂，六岁始为宪宗所知（详见孝宗条 notes 之考证）"
+        },
+        {
+          "name": "朱祐杬",
+          "gender": "男",
+          "mother": "邵贵妃",
+          "order_among_siblings": "第四子",
+          "title_or_fate": "兴献王，就藩安陆；嘉靖帝生父，大礼议后被追尊为睿宗献皇帝",
+          "relationship_type": "亲子",
+          "source": "《明史·诸王传》",
+          "disputed": false,
+          "note": ""
+        }
+      ],
+      "notes": "即位初即为于谦平反，复代宗帝号，史称其气度可嘉；但宠信万贵妃、宦官汪直，设西厂，成化朝政因此饱受讥评。"
+    },
+    {
+      "order": 9,
+      "name": "朱祐樘",
+      "temple_name": "孝宗",
+      "posthumous_name": "建天明道诚纯中正圣文神武至仁大德敬皇帝",
+      "era_names": ["弘治"],
+      "reign": "1487–1505",
+      "relation_to_previous": "宪宗第三子",
+      "achievements": [
+        "开创弘治中兴，被誉为中兴令主",
+        "勤政纳谏，重开午朝与经筵日讲，重用刘健、谢迁、李东阳",
+        "贬斥奸佞，裁汰传奉官，澄清吏治",
+        "终其身只娶张皇后一人，帝制史上罕见",
+        "兴修水利，治理黄河，减免灾荒赋税"
+      ],
+      "sources": ["《明史·孝宗本纪》"],
+      "spouses": [
+        {
+          "name": "张氏",
+          "title": "孝成敬皇后",
+          "type": "皇后",
+          "children": ["朱厚照", "朱厚炜"],
+          "source": "《明史·后妃传》",
+          "disputed": false,
+          "note": "孝宗践行一夫一妻，终其身不纳妃嫔；武宗朝尊为皇太后，晚年因二弟张鹤龄、张延龄恃宠不法而饱受困扰"
+        }
+      ],
+      "children": [
+        {
+          "name": "朱厚照",
+          "gender": "男",
+          "mother": "张皇后",
+          "order_among_siblings": "长子",
+          "title_or_fate": "皇太子，后继位为明武宗",
+          "relationship_type": "亲子",
+          "source": "《明史·武宗本纪》",
+          "disputed": true,
+          "note": "正史为张皇后所生；野史（如《胜朝彤史拾遗记》）称其生母为宫人郑金莲，弘治间『郑旺妖言案』即因冒认皇亲而起，时人已多疑其血统"
+        },
+        {
+          "name": "朱厚炜",
+          "gender": "男",
+          "mother": "张皇后",
+          "order_among_siblings": "次子",
+          "title_or_fate": "蔚悼王，三岁夭折",
+          "relationship_type": "亲子",
+          "source": "《明史·诸王传》",
+          "disputed": false,
+          "note": ""
+        }
+      ],
+      "notes": "『匿养宫中』传奇：《明史》记其生于西内冷宫，生母纪氏受万贵妃迫害，赖废后吴氏、太监张敏、怀恩等庇护抚养，六岁方与宪宗相认，张敏随后吞金自尽——此说戏剧性极强，与《明实录》《商文毅公行状》等早期记载矛盾，今人多认为系《明史》据万历时传闻润色而成。"
+    },
+    {
+      "order": 10,
+      "name": "朱厚照",
+      "temple_name": "武宗",
+      "posthumous_name": "承天达道英肃睿哲昭德显功弘文思孝毅皇帝",
+      "era_names": ["正德"],
+      "reign": "1505–1521",
+      "relation_to_previous": "孝宗嫡长子",
+      "achievements": [
+        "宠信刘瑾等八虎，设豹房嬉游，朝政一度紊乱",
+        "应州之役亲征击败达延汗，史称应州大捷",
+        "宁王朱宸濠叛乱，为王守仁迅速平定",
+        "南巡落水染病，两年后崩于豹房"
+      ],
+      "sources": ["《明史·武宗本纪》"],
+      "spouses": [
+        {
+          "name": "夏氏",
+          "title": "孝静毅皇后",
+          "type": "皇后",
+          "children": [],
+          "source": "《明史·后妃传》",
+          "disputed": false,
+          "note": "武宗久居豹房，与皇后疏离，无子女"
+        }
+      ],
+      "children": [],
+      "notes": "一生无子嗣，正德十六年崩于豹房，遗诏以兴献王世子朱厚熜入继大统，是为世宗；其生母是否确为张皇后，野史素有争议（详见孝宗诸子条『郑旺妖言案』）。"
+    },
+    {
+      "order": 11,
+      "name": "朱厚熜",
+      "temple_name": "世宗",
+      "posthumous_name": "钦天履道英毅神圣宣文广武洪仁大孝肃皇帝",
+      "era_names": ["嘉靖"],
+      "reign": "1521–1567",
+      "relation_to_previous": "宪宗之孙，兴献王朱祐杬之子，武宗堂弟，武宗无嗣以兄终弟及入继",
+      "achievements": [
+        "大礼议之争获胜，追尊生父兴献王为睿宗献皇帝",
+        "即位初期革除正德弊政，史称嘉靖中兴",
+        "壬寅宫变中险被宫女缢杀，此后移居西苑修道",
+        "中期宠信严嵩二十年，吏治败坏",
+        "庚戌之变俺答兵临北京，东南倭患猖獗，赖俞大猷、戚继光等渐次平定"
+      ],
+      "sources": ["《明史·世宗本纪》"],
+      "spouses": [
+        {
+          "name": "陈氏",
+          "title": "孝洁肃皇后",
+          "type": "皇后",
+          "children": [],
+          "source": "《明史·后妃传》",
+          "disputed": false,
+          "note": "嘉靖七年因帝与张顺妃亲昵而大怒，惊悸流产而卒，谥悼灵，后改谥孝洁"
+        },
+        {
+          "name": "方氏",
+          "title": "孝烈皇后",
+          "type": "皇后",
+          "children": [],
+          "source": "《明史·后妃传》",
+          "disputed": false,
+          "note": "壬寅宫变中救驾有功；嘉靖二十六年宫中大火，帝不遣人救，崩于火，或以帝衔其借宫变杀曹端妃故也"
+        },
+        {
+          "name": "杜氏",
+          "title": "孝恪皇后（追尊，生前为康妃）",
+          "type": "妃嫔",
+          "children": ["朱载坖"],
+          "source": "《明史·后妃传》",
+          "disputed": false,
+          "note": "穆宗生母，隆庆初追尊太后"
+        }
+      ],
+      "children": [
+        {
+          "name": "朱载基",
+          "gender": "男",
+          "mother": "阎贵妃",
+          "order_among_siblings": "长子",
+          "title_or_fate": "哀冲太子，出生两月即夭",
+          "relationship_type": "亲子",
+          "source": "《明史·诸王传》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "朱载壑",
+          "gender": "男",
+          "mother": "王贵妃",
+          "order_among_siblings": "次子",
+          "title_or_fate": "庄敬太子，十七岁暴薨",
+          "relationship_type": "亲子",
+          "source": "《明史·诸王传》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "朱载坖",
+          "gender": "男",
+          "mother": "杜康妃",
+          "order_among_siblings": "第三子",
+          "title_or_fate": "裕王，后继位为明穆宗",
+          "relationship_type": "亲子",
+          "source": "《明史·穆宗本纪》",
+          "disputed": false,
+          "note": "陶仲文进『二龙不相见』之说，世宗遂久不立太子，父子疏隔"
+        },
+        {
+          "name": "朱载圳",
+          "gender": "男",
+          "mother": "卢靖妃",
+          "order_among_siblings": "第四子",
+          "title_or_fate": "景王，就藩德安，无子国除",
+          "relationship_type": "亲子",
+          "source": "《明史·诸王传》",
+          "disputed": false,
+          "note": ""
+        }
+      ],
+      "notes": "壬寅宫变、大礼议、严嵩专权、庚戌之变、东南倭患皆为其朝大事；晚年崇道炼丹，移居西苑二十余年不上朝。"
+    },
+    {
+      "order": 12,
+      "name": "朱载坖",
+      "temple_name": "穆宗",
+      "posthumous_name": "契天隆道渊懿宽仁显文光武纯德弘孝庄皇帝",
+      "era_names": ["隆庆"],
+      "reign": "1567–1572",
+      "relation_to_previous": "世宗第三子",
+      "achievements": [
+        "隆庆开关，开放月港海禁，白银大量流入",
+        "俺答封贡（隆庆和议），结束明蒙二百年战事",
+        "重用高拱、张居正、徐阶，为万历改革铺路",
+        "革除嘉靖朝斋醮弊政，平反建言获罪诸臣"
+      ],
+      "sources": ["《明史·穆宗本纪》"],
+      "spouses": [
+        {
+          "name": "陈氏",
+          "title": "孝安皇后",
+          "type": "皇后",
+          "children": [],
+          "source": "《明史·后妃传》",
+          "disputed": false,
+          "note": "因谏帝勿溺声色被分居别宫；无子，隆庆、万历间以嫡母身份受尊奉"
+        },
+        {
+          "name": "李氏",
+          "title": "孝定皇后（初为贵妃）",
+          "type": "贵妃",
+          "children": ["朱翊钧", "朱翊镠"],
+          "source": "《明史·后妃传》",
+          "disputed": false,
+          "note": "神宗生母；万历初以太后之尊督神宗读书，倚任张居正"
+        }
+      ],
+      "children": [
+        {
+          "name": "朱翊釴",
+          "gender": "男",
+          "mother": "李贵妃",
+          "order_among_siblings": "长子",
+          "title_or_fate": "宪怀太子，五岁夭折",
+          "relationship_type": "亲子",
+          "source": "《明史·诸王传》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "朱翊钧",
+          "gender": "男",
+          "mother": "李贵妃",
+          "order_among_siblings": "第三子",
+          "title_or_fate": "皇太子，后继位为明神宗",
+          "relationship_type": "亲子",
+          "source": "《明史·神宗本纪》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "朱翊镠",
+          "gender": "男",
+          "mother": "李贵妃",
+          "order_among_siblings": "第四子",
+          "title_or_fate": "潞简王，就藩卫辉，以豪侈闻名",
+          "relationship_type": "亲子",
+          "source": "《明史·诸王传》",
+          "disputed": false,
+          "note": ""
+        }
+      ],
+      "notes": "隆庆朝虽仅六年，却以隆庆开关与俺答封贡扭转嘉靖以来积弊，为万历初改革铺路；史家称其宽恕有余而明断不足。"
+    },
+    {
+      "order": 13,
+      "name": "朱翊钧",
+      "temple_name": "神宗",
+      "posthumous_name": "范天合道哲肃敦简光文章武安仁止孝显皇帝",
+      "era_names": ["万历"],
+      "reign": "1572–1620",
+      "relation_to_previous": "穆宗第三子",
+      "achievements": [
+        "前十年任用张居正推行考成法、一条鞭法，国库充盈",
+        "万历三大征（宁夏、朝鲜、播州）皆获胜",
+        "后期三十年不上朝，党争渐起，朝政废弛",
+        "遣矿监税使四出，激起多起民变",
+        "辽东建州女真崛起，萨尔浒之战明军惨败"
+      ],
+      "sources": ["《明史·神宗本纪》"],
+      "spouses": [
+        {
+          "name": "王氏",
+          "title": "孝端显皇后",
+          "type": "皇后",
+          "children": ["荣昌公主"],
+          "source": "《明史·后妃传》",
+          "disputed": false,
+          "note": "居后位四十二年，为明代在位最久皇后；性端谨，能调护国本之争中的光宗母子"
+        },
+        {
+          "name": "郑氏",
+          "title": "恭恪皇贵妃",
+          "type": "皇贵妃",
+          "children": ["朱常洵", "朱常寿"],
+          "source": "《明史·后妃传》",
+          "disputed": false,
+          "note": "帝最宠幸；因欲立己子福王为储，酿成十五年国本之争；妖书案、梃击案、红丸案皆被指与其党羽有关"
+        },
+        {
+          "name": "王氏",
+          "title": "孝靖皇后（追尊，生前为恭妃）",
+          "type": "妃嫔",
+          "children": ["朱常洛", "云梦公主"],
+          "source": "《明史·后妃传》",
+          "disputed": false,
+          "note": "原为慈宁宫宫女，因帝偶然临幸而生光宗；受郑贵妃排挤，幽居景阳宫，哭瞎双目而卒，葬礼薄劣"
+        }
+      ],
+      "children": [
+        {
+          "name": "朱常洛",
+          "gender": "男",
+          "mother": "王恭妃",
+          "order_among_siblings": "长子",
+          "title_or_fate": "皇太子（经十五年国本之争后册立），后继位为明光宗",
+          "relationship_type": "亲子",
+          "source": "《明史·光宗本纪》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "朱常洵",
+          "gender": "男",
+          "mother": "郑贵妃",
+          "order_among_siblings": "第三子",
+          "title_or_fate": "福忠王，就藩洛阳，崇祯十四年为李自成所杀",
+          "relationship_type": "亲子",
+          "source": "《明史·诸王传》",
+          "disputed": false,
+          "note": "国本之争主角；野史盛传其被起义军处死并烹以『福禄宴』，此说多被后世学者视为污蔑夸张之辞"
+        },
+        {
+          "name": "朱常瀛",
+          "gender": "男",
+          "mother": "李贵妃",
+          "order_among_siblings": "第七子",
+          "title_or_fate": "桂端王，就藩衡州，清兵南侵时卒于梧州",
+          "relationship_type": "亲子",
+          "source": "《明史·诸王传》",
+          "disputed": false,
+          "note": "其子朱由榔后为南明永历帝"
+        }
+      ],
+      "notes": "在位四十八年，为明代最久；前十年张居正改革，后三十年怠政，史家有『明亡于万历』之论。"
+    },
+    {
+      "order": 14,
+      "name": "朱常洛",
+      "temple_name": "光宗",
+      "posthumous_name": "崇天契道英睿恭纯宪文景武渊仁懿孝贞皇帝",
+      "era_names": ["泰昌"],
+      "reign": "1620（在位仅二十九日）",
+      "relation_to_previous": "神宗长子",
+      "achievements": [
+        "即位后罢天下矿税，发内帑二百万犒边",
+        "起用建言获罪诸臣，朝政为之一新",
+        "在位二十九日，服红丸暴崩，史称一月天子"
+      ],
+      "sources": ["《明史·光宗本纪》"],
+      "spouses": [
+        {
+          "name": "郭氏",
+          "title": "孝元贞皇后（追封）",
+          "type": "皇太子妃",
+          "children": ["皇长女（怀淑公主）"],
+          "source": "《明史·后妃传》",
+          "disputed": false,
+          "note": "万历四十一年卒于东宫，仅以太子妃礼葬，未及正位中宫"
+        },
+        {
+          "name": "王氏",
+          "title": "孝和皇后（追尊，生前为选侍）",
+          "type": "选侍",
+          "children": ["朱由校"],
+          "source": "《明史·后妃传》",
+          "disputed": false,
+          "note": "熹宗生母，万历四十七年卒；熹宗即位后追尊"
+        },
+        {
+          "name": "刘氏",
+          "title": "孝纯皇后（追尊，生前为淑女）",
+          "type": "选侍",
+          "children": ["朱由检"],
+          "source": "《明史·后妃传》",
+          "disputed": false,
+          "note": "思宗生母，失宠被谴而卒（一说为光宗杖责致死），崇祯初追尊"
+        },
+        {
+          "name": "李氏（西李）",
+          "title": "选侍（康妃）",
+          "type": "选侍",
+          "children": [],
+          "source": "《明史·后妃传》",
+          "disputed": false,
+          "note": "最受光宗宠，奉命抚育熹宗；光宗崩后占据乾清宫拒绝迁出，企图垂帘听政，引发移宫案，被杨涟等廷臣逼迁哕鸾宫"
+        }
+      ],
+      "children": [
+        {
+          "name": "朱由校",
+          "gender": "男",
+          "mother": "王选侍",
+          "order_among_siblings": "长子",
+          "title_or_fate": "皇太孙，后继位为明熹宗",
+          "relationship_type": "亲子",
+          "source": "《明史·熹宗本纪》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "朱由检",
+          "gender": "男",
+          "mother": "刘淑女",
+          "order_among_siblings": "第五子",
+          "title_or_fate": "信王，后继位为明思宗（崇祯帝）",
+          "relationship_type": "亲子",
+          "source": "《明史·庄烈帝本纪》",
+          "disputed": false,
+          "note": ""
+        }
+      ],
+      "notes": "明末三大案缠身：在储位时遭梃击案（张差持梃闯慈庆宫）；即位二十九日服鸿胪寺丞李可灼所进红丸暴崩，即红丸案；身后又有西李选侍移宫案。"
+    },
+    {
+      "order": 15,
+      "name": "朱由校",
+      "temple_name": "熹宗",
+      "posthumous_name": "达天阐道敦孝笃友章文襄武靖穆庄勤悊皇帝",
+      "era_names": ["天启"],
+      "reign": "1620–1627",
+      "relation_to_previous": "光宗长子",
+      "achievements": [
+        "宠信魏忠贤与乳母客氏，阉党专政",
+        "东林党争白热化，杨涟、左光斗等惨死诏狱",
+        "辽东战事恶化，沈阳、辽阳相继陷落",
+        "天启六年王恭厂大爆炸，震动京师"
+      ],
+      "sources": ["《明史·熹宗本纪》"],
+      "spouses": [
+        {
+          "name": "张氏（张嫣）",
+          "title": "懿安皇后",
+          "type": "皇后",
+          "children": [],
+          "source": "《明史·后妃传》",
+          "disputed": false,
+          "note": "屡次在帝前揭客魏之恶，被客氏、魏忠贤构陷致流产；明亡时自缢殉国"
+        }
+      ],
+      "children": [
+        {
+          "name": "朱慈燃",
+          "gender": "男",
+          "mother": "张皇后",
+          "order_among_siblings": "长子",
+          "title_or_fate": "怀冲太子，未出生即流产",
+          "relationship_type": "亲子",
+          "source": "《明史·诸王传》",
+          "disputed": true,
+          "note": "《明史·后妃传》载张皇后有娠，客氏、魏忠贤指使宫人暗损元子致流产；该说源自东林党人记述，或系政治攻讦之词，存疑"
+        },
+        {
+          "name": "朱慈焴",
+          "gender": "男",
+          "mother": "范慧妃",
+          "order_among_siblings": "次子",
+          "title_or_fate": "悼怀太子，早夭",
+          "relationship_type": "亲子",
+          "source": "《明史·诸王传》",
+          "disputed": false,
+          "note": ""
+        },
+        {
+          "name": "朱慈炅",
+          "gender": "男",
+          "mother": "任贵妃",
+          "order_among_siblings": "第三子",
+          "title_or_fate": "献怀太子，天启六年王恭厂大爆炸中惊悸夭折",
+          "relationship_type": "亲子",
+          "source": "《明史·诸王传》",
+          "disputed": false,
+          "note": "卒于天启大爆炸当日，未满周岁"
+        }
+      ],
+      "notes": "三子皆夭，无嗣，遗命传位五弟信王朱由检；在位期间客氏、魏忠贤隔绝内外，皇嗣屡夭，野史多疑为客魏所害。"
+    },
+    {
+      "order": 16,
+      "name": "朱由检",
+      "temple_name": "思宗（南明谥，一作毅宗；清谥怀宗）",
+      "posthumous_name": "绍天绎道刚明恪俭揆文奋武敦仁懋孝烈皇帝（南明谥，清谥庄烈愍皇帝）",
+      "era_names": ["崇祯"],
+      "reign": "1627–1644",
+      "relation_to_previous": "光宗第五子，熹宗异母弟，兄终弟及",
+      "achievements": [
+        "即位三月铲除魏忠贤，摧毁阉党",
+        "勤于政事，生活节俭，不迩声色",
+        "刚愎多疑，中后金反间计冤杀袁崇焕",
+        "两线作战（辽东后金、中原流寇），财政崩溃",
+        "李自成陷北京，自缢煤山，以身殉国"
+      ],
+      "sources": ["《明史·庄烈帝本纪》"],
+      "spouses": [
+        {
+          "name": "周氏",
+          "title": "孝节烈皇后",
+          "type": "皇后",
+          "children": ["朱慈烺", "朱慈炯", "坤兴公主（长平公主）"],
+          "source": "《明史·后妃传》",
+          "disputed": false,
+          "note": "甲申之变，帝令其自裁，乃自缢殉国"
+        },
+        {
+          "name": "田氏",
+          "title": "恭淑端惠静怀皇贵妃",
+          "type": "皇贵妃",
+          "children": ["朱慈炤", "朱慈焕"],
+          "source": "《明史·后妃传》",
+          "disputed": false,
+          "note": "最受宠，崇祯十五年卒，葬天寿山"
+        },
+        {
+          "name": "袁氏",
+          "title": "贵妃",
+          "type": "贵妃",
+          "children": [],
+          "source": "《明史·后妃传》",
+          "disputed": false,
+          "note": "甲申之变自缢，绳坠未死，帝拔剑斫其肩；清初奉养终身"
+        }
+      ],
+      "children": [
+        {
+          "name": "朱慈烺",
+          "gender": "男",
+          "mother": "周皇后",
+          "order_among_siblings": "长子",
+          "title_or_fate": "献愍太子，北京陷落后下落不明",
+          "relationship_type": "亲子",
+          "source": "《明史·诸王传》",
+          "disputed": true,
+          "note": "甲申之变时被太监献于李自成，封宋王；自成败退后踪迹全无——一说死于乱军，一说为吴三桂所得后遇害；此后南北假太子案频发，真伪莫辨"
+        },
+        {
+          "name": "朱慈炯",
+          "gender": "男",
+          "mother": "周皇后",
+          "order_among_siblings": "第三子",
+          "title_or_fate": "定王，北京陷落后下落不明",
+          "relationship_type": "亲子",
+          "source": "《明史·诸王传》",
+          "disputed": true,
+          "note": "失踪后民间屡有朱三太子起事，康熙年间王士元冒称案震动朝野，真身下落终不可考"
+        },
+        {
+          "name": "朱慈炤",
+          "gender": "男",
+          "mother": "田贵妃",
+          "order_among_siblings": "第四子",
+          "title_or_fate": "永王，北京陷落后下落不明",
+          "relationship_type": "亲子",
+          "source": "《明史·诸王传》",
+          "disputed": true,
+          "note": "甲申后不知所终，一说随宫人逃至南方，清初各地屡见冒名永王者"
+        }
+      ],
+      "notes": "在位十七年，逢小冰期灾荒、辽东战事与流寇并起；崇祯十七年三月李自成陷北京，帝刃伤公主嫔妃后自缢于煤山寿皇亭，遗言任贼分裂朕尸，勿伤百姓一人，明亡。"
+    }
+  ]
+}

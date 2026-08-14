@@ -1,0 +1,41 @@
+{
+  "format": "genealogy-sample/v1",
+  "schemaVersion": 1,
+  "project": { "id": "sample-qing-imperial-line", "name": "清代代表性帝系（示例）", "dynasty": "清", "coverage": "努尔哈赤至溥仪的主要帝系，含同治、光绪与宣统的继承背景；非完整宗室名录" },
+  "sources": [
+    { "id": "qing-shi-gao", "title": "《清史稿》", "type": "historical-text", "note": "本纪、皇子世表和后妃传为主要核验依据。" }
+  ],
+  "persons": [
+    { "id": "nurhaci", "name": "努尔哈赤", "courtesyOrTempleName": "清太祖", "birth": "1559", "death": "1626", "roles": ["ruler", "imperial-ancestor"], "sourceIds": ["qing-shi-gao"], "certainty": "confirmed" },
+    { "id": "hong-taiji", "name": "皇太极", "courtesyOrTempleName": "清太宗", "birth": "1592", "death": "1643", "roles": ["emperor"], "sourceIds": ["qing-shi-gao"], "certainty": "confirmed" },
+    { "id": "fulin", "name": "福临", "courtesyOrTempleName": "清世祖／顺治帝", "birth": "1638", "death": "1661", "roles": ["emperor"], "sourceIds": ["qing-shi-gao"], "certainty": "confirmed" },
+    { "id": "xuanye", "name": "玄烨", "courtesyOrTempleName": "清圣祖／康熙帝", "birth": "1654", "death": "1722", "roles": ["emperor"], "sourceIds": ["qing-shi-gao"], "certainty": "confirmed" },
+    { "id": "yinzhen", "name": "胤禛", "courtesyOrTempleName": "清世宗／雍正帝", "birth": "1678", "death": "1735", "roles": ["emperor"], "sourceIds": ["qing-shi-gao"], "certainty": "confirmed" },
+    { "id": "hongli", "name": "弘历", "courtesyOrTempleName": "清高宗／乾隆帝", "birth": "1711", "death": "1799", "roles": ["emperor"], "sourceIds": ["qing-shi-gao"], "certainty": "confirmed" },
+    { "id": "yongyan", "name": "颙琰", "courtesyOrTempleName": "清仁宗／嘉庆帝", "birth": "1760", "death": "1820", "roles": ["emperor"], "sourceIds": ["qing-shi-gao"], "certainty": "confirmed" },
+    { "id": "minning", "name": "旻宁", "courtesyOrTempleName": "清宣宗／道光帝", "birth": "1782", "death": "1850", "roles": ["emperor"], "sourceIds": ["qing-shi-gao"], "certainty": "confirmed" },
+    { "id": "yizhu", "name": "奕詝", "courtesyOrTempleName": "清文宗／咸丰帝", "birth": "1831", "death": "1861", "roles": ["emperor"], "sourceIds": ["qing-shi-gao"], "certainty": "confirmed" },
+    { "id": "zaichun", "name": "载淳", "courtesyOrTempleName": "清穆宗／同治帝", "birth": "1856", "death": "1875", "roles": ["emperor"], "sourceIds": ["qing-shi-gao"], "certainty": "confirmed" },
+    { "id": "yixuan", "name": "奕譞", "roles": ["imperial-clan"], "sourceIds": ["qing-shi-gao"], "certainty": "confirmed", "note": "醇亲王，道光帝第七子。" },
+    { "id": "zaitian", "name": "载湉", "courtesyOrTempleName": "清德宗／光绪帝", "birth": "1871", "death": "1908", "roles": ["emperor"], "sourceIds": ["qing-shi-gao"], "certainty": "confirmed", "note": "醇亲王奕譞之子，入继咸丰帝一系并兼承同治帝之祧。" },
+    { "id": "zaifeng", "name": "载沣", "roles": ["imperial-clan"], "sourceIds": ["qing-shi-gao"], "certainty": "confirmed", "note": "醇亲王奕譞之子，宣统帝生父。" },
+    { "id": "puyi", "name": "溥仪", "courtesyOrTempleName": "清逊帝／宣统帝", "birth": "1906", "death": "1967", "roles": ["emperor"], "sourceIds": ["qing-shi-gao"], "certainty": "confirmed" }
+  ],
+  "unions": [],
+  "parentChildRelations": [
+    { "id": "pc-nurhaci-hongtaiji", "parentId": "nurhaci", "childId": "hong-taiji", "type": "biological", "sourceIds": ["qing-shi-gao"] },
+    { "id": "pc-hongtaiji-fulin", "parentId": "hong-taiji", "childId": "fulin", "type": "biological", "sourceIds": ["qing-shi-gao"] },
+    { "id": "pc-fulin-xuanye", "parentId": "fulin", "childId": "xuanye", "type": "biological", "sourceIds": ["qing-shi-gao"] },
+    { "id": "pc-xuanye-yinzhen", "parentId": "xuanye", "childId": "yinzhen", "type": "biological", "sourceIds": ["qing-shi-gao"] },
+    { "id": "pc-yinzhen-hongli", "parentId": "yinzhen", "childId": "hongli", "type": "biological", "sourceIds": ["qing-shi-gao"] },
+    { "id": "pc-hongli-yongyan", "parentId": "hongli", "childId": "yongyan", "type": "biological", "sourceIds": ["qing-shi-gao"] },
+    { "id": "pc-yongyan-minning", "parentId": "yongyan", "childId": "minning", "type": "biological", "sourceIds": ["qing-shi-gao"] },
+    { "id": "pc-minning-yizhu", "parentId": "minning", "childId": "yizhu", "type": "biological", "sourceIds": ["qing-shi-gao"] },
+    { "id": "pc-yizhu-zaichun", "parentId": "yizhu", "childId": "zaichun", "type": "biological", "sourceIds": ["qing-shi-gao"] },
+    { "id": "pc-minning-yixuan", "parentId": "minning", "childId": "yixuan", "type": "biological", "sourceIds": ["qing-shi-gao"] },
+    { "id": "pc-yixuan-zaitian", "parentId": "yixuan", "childId": "zaitian", "type": "biological", "sourceIds": ["qing-shi-gao"] },
+    { "id": "pc-yizhu-zaitian", "parentId": "yizhu", "childId": "zaitian", "type": "adoptive", "sourceIds": ["qing-shi-gao"], "note": "继承关系，不改变奕譞为其生父的事实。" },
+    { "id": "pc-yixuan-zaifeng", "parentId": "yixuan", "childId": "zaifeng", "type": "biological", "sourceIds": ["qing-shi-gao"] },
+    { "id": "pc-zaifeng-puyi", "parentId": "zaifeng", "childId": "puyi", "type": "biological", "sourceIds": ["qing-shi-gao"] }
+  ]
+}
