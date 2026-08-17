@@ -55,7 +55,7 @@ src/
   App.tsx             # 编辑、预览、导入导出 UI
   domain.ts           # schema、领域类型、校验、v1→v2 迁移
   db.ts               # IndexedDB 项目与媒体 Blob 持久化
-  layout.ts           # ELK 图谱投影、关系线与家庭单元
+  layout.ts           # ELK 图谱投影与直接关系线
   exporters.tsx       # JSON/项目包/PDF/Word/EPUB 导入导出
   reference-data.ts   # 参考历史数据到 v2 的规范化
   domain.test.ts      # 领域模型与迁移测试
@@ -182,7 +182,7 @@ doc/
 }
 ```
 
-家谱树桩图中的“婚配”圆形节点是**图谱投影**：它将 `Union` 的双方与子女关系组织为便于阅读的结构。它不是额外的事实记录；关系事实仍只保存于 `unions` 和 `parentChildRelations`。
+家谱树桩图会将 `Union` 渲染为双方人物之间的一条直接“婚配”关系线；亲子关系则直接连接其记录中的父母与子女。两者都是图谱投影，不会新增额外的事实记录；关系事实仍只保存于 `unions` 和 `parentChildRelations`。
 
 ### 校验约束
 

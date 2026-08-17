@@ -78,10 +78,42 @@ export function validateProject(project: GenealogyProject): void {
 export const cloneProject = (project: GenealogyProject): GenealogyProject => structuredClone(project)
 export const touch = (project: GenealogyProject): GenealogyProject => { project.project.updatedAt = new Date().toISOString(); return project }
 export function createEmptyProject(name = '未命名家谱'): GenealogyProject { const founderId = createId('person'); return { format: 'genealogy-sample/v2', schemaVersion: 2, project: { id: createId('project'), name, updatedAt: new Date().toISOString() }, sources: [], media: [], views: [defaultView()], persons: [{ id: founderId, name: '始祖', roles: [], entries: [], mediaIds: [], sourceIds: [], certainty: 'confirmed' }], unions: [], parentChildRelations: [] } }
+export type ExistingRelationKind = 'parent' | 'spouse' | 'child'
+
 export function addPerson(project: GenealogyProject, name = '新人物'): { project: GenealogyProject; person: Person } { const next = cloneProject(project); const person: Person = { id: createId('person'), name, roles: [], entries: [], mediaIds: [], sourceIds: [], certainty: 'confirmed' }; next.persons.push(person); return { project: touch(next), person } }
+export function personAndDescendantIds(project: GenealogyProject, personId: string): Set<string> {
+  if (!project.persons.some((person) => person.id === personId)) throw new Error('未找到要删除的人物。')
+  const ids = new Set([personId])
+  let changed = true
+  while (changed) {
+    changed = false
+    for (const relation of project.parentChildRelations) {
+      if (ids.has(relation.parentId) && !ids.has(relation.childId)) { ids.add(relation.childId); changed = true }
+    }
+  }
+  return ids
+}
+function removePeople(project: GenealogyProject, personIds: Set<string>): GenealogyProject {
+  const next = cloneProject(project)
+  if (personIds.size >= next.persons.length) throw new Error('家谱至少需要保留一位人物。')
+  next.persons = next.persons.filter((person) => !personIds.has(person.id))
+  next.unions = next.unions.filter((union) => !union.partnerIds.some((id) => personIds.has(id)))
+  next.parentChildRelations = next.parentChildRelations.filter((relation) => !personIds.has(relation.parentId) && !personIds.has(relation.childId))
+  next.media = next.media.map((media) => ({ ...media, personIds: media.personIds.filter((id) => !personIds.has(id)) }))
+  next.views = next.views.map((view) => { const positions = { ...view.positions }; personIds.forEach((id) => delete positions[id]); return { ...view, positions } })
+  validateProject(next)
+  return touch(next)
+}
+export function removePerson(project: GenealogyProject, personId: string): GenealogyProject { return removePeople(project, personAndDescendantIds({ ...project, parentChildRelations: [] }, personId)) }
+export function removePersonAndDescendants(project: GenealogyProject, personId: string): GenealogyProject { return removePeople(project, personAndDescendantIds(project, personId)) }
 export function updatePerson(project: GenealogyProject, personId: string, changes: Partial<Person>): GenealogyProject { const next = cloneProject(project); const person = next.persons.find((item) => item.id === personId); if (!person) throw new Error('未找到要编辑的人物。'); Object.assign(person, changes, { id: personId }); if (!person.name.trim()) throw new Error('姓名不能为空。'); return touch(next) }
 export function addParentChild(project: GenealogyProject, parentId: string, childId: string, type: RelationshipType = 'biological'): GenealogyProject { const next = cloneProject(project); next.parentChildRelations.push({ id: createId('parent-child'), parentId, childId, type, sourceIds: [], certainty: 'confirmed' }); validateProject(next); return touch(next) }
-export function addUnion(project: GenealogyProject, firstId: string, secondId: string): GenealogyProject { const next = cloneProject(project); next.unions.push({ id: createId('union'), partnerIds: [firstId, secondId], type: 'marriage', sourceIds: [], certainty: 'confirmed' }); validateProject(next); return touch(next) }
+export function addUnion(project: GenealogyProject, firstId: string, secondId: string): GenealogyProject { const next = cloneProject(project); if (next.unions.some((union) => union.partnerIds.includes(firstId) && union.partnerIds.includes(secondId))) throw new Error('配偶关系已存在。'); next.unions.push({ id: createId('union'), partnerIds: [firstId, secondId], type: 'marriage', sourceIds: [], certainty: 'confirmed' }); validateProject(next); return touch(next) }
+export function linkExistingPerson(project: GenealogyProject, personId: string, existingPersonId: string, kind: ExistingRelationKind): GenealogyProject {
+  if (personId === existingPersonId) throw new Error('不能将人物与其自身建立关系。')
+  if (!project.persons.some((person) => person.id === personId) || !project.persons.some((person) => person.id === existingPersonId)) throw new Error('未找到要关联的人物。')
+  return kind === 'parent' ? addParentChild(project, existingPersonId, personId) : kind === 'child' ? addParentChild(project, personId, existingPersonId) : addUnion(project, personId, existingPersonId)
+}
 export function addEntry(project: GenealogyProject, personId: string, category: EntryCategory = 'biography'): GenealogyProject { const next = cloneProject(project); const person = next.persons.find((item) => item.id === personId); if (!person) throw new Error('未找到人物。'); person.entries.push({ id: createId('entry'), category, title: '新条目', content: '', sourceIds: [], mediaIds: [], certainty: 'confirmed', order: person.entries.length }); return touch(next) }
 export function updateEntry(project: GenealogyProject, personId: string, entryId: string, changes: Partial<ProfileEntry>): GenealogyProject { const next = cloneProject(project); const entry = next.persons.find((item) => item.id === personId)?.entries.find((item) => item.id === entryId); if (!entry) throw new Error('未找到条目。'); Object.assign(entry, changes, { id: entryId }); return touch(next) }
 export function removeEntry(project: GenealogyProject, personId: string, entryId: string): GenealogyProject { const next = cloneProject(project); const person = next.persons.find((item) => item.id === personId); if (!person) throw new Error('未找到人物。'); person.entries = person.entries.filter((entry) => entry.id !== entryId).map((entry, index) => ({ ...entry, order: index })); return touch(next) }
